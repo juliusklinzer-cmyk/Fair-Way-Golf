@@ -41,11 +41,16 @@ function fwg_client_key(): string {
 	return substr( hash( 'sha256', $ip . wp_salt( 'nonce' ) ), 0, 20 );
 }
 
+/** Nur skalare Eingaben als Text übernehmen (Arrays wie email[]=x werden zu ''). */
+function fwg_scalar( $v ): string {
+	return is_scalar( $v ) ? (string) $v : '';
+}
+
 function fwg_rate_limited( int $max = 8, bool $count_now = true ): bool {
 	$key    = 'fwg_rl_' . fwg_client_key();
 	$count  = (int) get_transient( $key );
 	$global = (int) get_transient( 'fwg_rl_global' );
-	if ( $count >= $max || $global >= 60 ) {
+	if ( $count >= $max || $global >= 300 ) {
 		return true;
 	}
 	if ( $count_now ) {
@@ -92,7 +97,7 @@ function fwg_process_form( array $post ): array {
 		return array( 'ok' => true, 'message' => 'Danke!', 'errors' => array() );
 	}
 	$ts  = (int) ( $post['ts'] ?? 0 );
-	$sig = sanitize_text_field( wp_unslash( (string) ( $post['sig'] ?? '' ) ) );
+	$sig = sanitize_text_field( wp_unslash( fwg_scalar( $post['sig'] ?? '' ) ) );
 	if ( ! $ts || ! hash_equals( fwg_ts_signature( $ts ), $sig ) || ( time() - $ts ) < 3 || ( time() - $ts ) > DAY_IN_SECONDS ) {
 		return array( 'ok' => false, 'message' => 'Das Formular war zu lange offen oder wurde zu schnell abgeschickt. Bitte lade die Seite neu und versuch es noch einmal.', 'errors' => array() );
 	}
@@ -101,14 +106,14 @@ function fwg_process_form( array $post ): array {
 	}
 
 	$t = static function ( string $k, int $max = 120 ) use ( $post ): string {
-		return mb_substr( trim( sanitize_text_field( wp_unslash( (string) ( $post[ $k ] ?? '' ) ) ) ), 0, $max );
+		return mb_substr( trim( sanitize_text_field( wp_unslash( fwg_scalar( $post[ $k ] ?? '' ) ) ) ), 0, $max );
 	};
-	$email_raw = trim( wp_unslash( (string) ( $post['email'] ?? '' ) ) );
+	$email_raw = trim( wp_unslash( fwg_scalar( $post['email'] ?? '' ) ) );
 	$email     = mb_substr( sanitize_email( $email_raw ), 0, 120 );
 	if ( '' !== $email_raw && strtolower( $email_raw ) !== strtolower( $email ) ) {
 		$email = '';
 	}
-	$nachricht = mb_substr( sanitize_textarea_field( wp_unslash( (string) ( $post['nachricht'] ?? '' ) ) ), 0, 2000 );
+	$nachricht = mb_substr( sanitize_textarea_field( wp_unslash( fwg_scalar( $post['nachricht'] ?? '' ) ) ), 0, 2000 );
 	$errors    = array();
 	$data      = array( 'typ' => $type, 'email' => $email, 'nachricht' => $nachricht );
 

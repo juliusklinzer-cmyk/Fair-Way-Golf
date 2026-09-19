@@ -1,8 +1,11 @@
 cd ~/projects/fairwaygolf
 B=http://localhost:8092
 N=$(curl -s $B/voranmeldung/ | grep -oE 'name="nonce" value="[a-f0-9]+"' | head -1 | grep -oE '[a-f0-9]{8,12}')
-TS=$(( $(date +%s) - 10 ))
-post() { curl -s -X POST "$B/wp-admin/admin-ajax.php" --data-urlencode action=fwg_form --data-urlencode "nonce=$N" --data-urlencode "ts=$TS" "$@"; echo; }
+HTML=$(curl -s $B/voranmeldung/)
+TS=$(echo "$HTML" | grep -oE 'name="ts" value="[0-9]+"' | head -1 | grep -oE '[0-9]+')
+SIG=$(echo "$HTML" | grep -oE 'name="sig" value="[a-f0-9]+"' | head -1 | grep -oE '[a-f0-9]{20}')
+sleep 3 # Zeitstempel-Schutz: mindestens 3 s zwischen Seitenaufruf und Absenden
+post() { curl -s -X POST "$B/wp-admin/admin-ajax.php" --data-urlencode action=fwg_form --data-urlencode "nonce=$N" --data-urlencode "ts=$TS" --data-urlencode "sig=$SIG" "$@"; echo; }
 echo "nonce: $N"
 echo "--- 1 voranmeldung gültig + updates ---"; post -d form=voranmeldung -d quelle=voranmeldung --data-urlencode "vorname=Test" --data-urlencode "nachname=Golfer" --data-urlencode "email=test@example.com" --data-urlencode "ort=München" --data-urlencode "wunschplaetze=GC Valley, GC Eichenried" -d kategorie=m -d updates=1 -d datenschutz=1
 echo "--- 2 voranmeldung ungültig ---"; post -d form=voranmeldung --data-urlencode "vorname=" --data-urlencode "email=kaputt" --data-urlencode "wunschplaetze="
@@ -31,7 +34,7 @@ TOK=$(cat /tmp/tok)
 echo "--- 8 DOI bestätigen ---"; curl -s -o /dev/null -w "%{http_code} -> %{redirect_url}\n" "$B/voranmeldung/?fwg_bestaetigen=$TOK"
 echo "--- 9 abmelden ---"; curl -s -o /dev/null -w "%{http_code} -> %{redirect_url}\n" "$B/voranmeldung/?fwg_abmelden=$TOK"
 echo "--- 10 ungültiger token ---"; curl -s -o /dev/null -w "%{http_code} -> %{redirect_url}\n" "$B/voranmeldung/?fwg_bestaetigen=00000000000000000000000000000000"
-echo "--- 11 Nicht-JS-Weg (admin-post) ---"; curl -s -o /dev/null -w "%{http_code} -> %{redirect_url}\n" -X POST "$B/wp-admin/admin-post.php" -H "Referer: $B/unterstuetzen/" --data-urlencode action=fwg_form --data-urlencode "nonce=$N" --data-urlencode "ts=$TS" -d form=unterstuetzen --data-urlencode "name=Nojs Nutzer" --data-urlencode "email=nojs@example.com" -d rolle=partner -d datenschutz=1
+echo "--- 11 Nicht-JS-Weg (admin-post) ---"; curl -s -o /dev/null -w "%{http_code} -> %{redirect_url}\n" -X POST "$B/wp-admin/admin-post.php" -H "Referer: $B/unterstuetzen/" --data-urlencode action=fwg_form --data-urlencode "nonce=$N" --data-urlencode "ts=$TS" --data-urlencode "sig=$SIG" -d form=unterstuetzen --data-urlencode "name=Nojs Nutzer" --data-urlencode "email=nojs@example.com" -d rolle=partner -d datenschutz=1
 echo "--- Anmeldungen in WP ---"
 ./wp.sh post list --post_type=fwg_anmeldung --fields=ID,post_title,post_date --format=csv </dev/null
 ID=$(./wp.sh post list --post_type=fwg_anmeldung --field=ID --posts_per_page=1 --orderby=ID --order=ASC </dev/null | tr -d '\r\n')

@@ -188,14 +188,17 @@
 		if (!canHover || seen) { return; }
 		var armed = false;
 		setTimeout(function () { armed = true; }, 8000);
+		var closed = false;
 		var show = function () {
-			if (!armed || !popup.hidden) { return; }
+			if (!armed || closed || !popup.hidden) { return; }
+			var a = document.activeElement;
+			if (a && /^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName)) { return; } // nicht mitten ins Tippen platzen
 			popup.hidden = false;
 			try { sessionStorage.setItem('fwgPopup', '1'); } catch (err) { /* privat */ }
 			var input = popup.querySelector('input[name="platz"]');
 			if (input) { input.focus({ preventScroll: true }); }
 		};
-		var hide = function () { popup.hidden = true; };
+		var hide = function () { popup.hidden = true; closed = true; }; // nach dem Schließen auf dieser Seite Ruhe
 		document.addEventListener('mouseout', function (e) {
 			if (!e.relatedTarget && e.clientY <= 0) { show(); }
 		});

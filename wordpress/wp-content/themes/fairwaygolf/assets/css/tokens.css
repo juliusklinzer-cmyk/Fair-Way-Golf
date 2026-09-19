@@ -29,7 +29,7 @@
 	--fwg-surface-alt: #f4f6f5;    /* graue Panels */
 	--fwg-error: #b3261e;
 	--fwg-error-tint: #fbeae8;
-	--fwg-scrim: linear-gradient(180deg, rgba(0, 25, 20, 0.05) 0%, rgba(0, 25, 20, 0.15) 45%, rgba(0, 25, 20, 0.72) 100%);
+	--fwg-scrim: linear-gradient(180deg, rgba(0, 25, 20, 0.2) 0%, rgba(0, 25, 20, 0.34) 45%, rgba(0, 25, 20, 0.82) 100%);
 
 	/* Schrift */
 	--fwg-font-display: 'Rajdhani', 'Arial Narrow', sans-serif;

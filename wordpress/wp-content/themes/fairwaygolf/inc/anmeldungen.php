@@ -239,7 +239,7 @@ add_action(
 		$out  = fopen( 'php://output', 'w' );
 		$cols = array( 'Eingang', 'Formular', 'Vorname', 'Nachname', 'E-Mail', 'Ort', 'Aktueller Club', 'Modell', 'Wunschplätze', 'Updates', 'Bestätigt', 'Golfanlage', 'Telefon', 'Kontaktweg', 'Rolle', 'Lieblingsplatz', 'Nachricht', 'Quelle' );
 		fwrite( $out, "\xEF\xBB\xBF" );
-		fputcsv( $out, $cols, ';' );
+		fputcsv( $out, $cols, ';', '"', '' );
 		// Schutz vor Formel-Injektion in Excel: Zellen, die mit = + - @ oder Steuerzeichen beginnen, bekommen ein Apostroph.
 		$safe = static function ( $v ) {
 			$v = (string) $v;
@@ -254,9 +254,7 @@ add_action(
 					$d['kategorie'] ? ( fwg_kategorien()[ $d['kategorie'] ] ?? $d['kategorie'] ) : '', is_array( $d['wunschplaetze'] ) ? implode( ', ', $d['wunschplaetze'] ) : '',
 					$d['updates'] ? 'ja' : 'nein', $d['bestaetigt'] ? 'ja' : 'nein', $d['anlage'], $d['telefon'], $d['kontaktweg'] ? ( fwg_kontaktwege()[ $d['kontaktweg'] ] ?? $d['kontaktweg'] ) : '',
 					$d['rolle'] ? ( fwg_rollen()[ $d['rolle'] ] ?? $d['rolle'] ) : '', $d['platz'], $d['nachricht'], $d['quelle'],
-				) ),
-				';'
-			);
+				) ), ';', '\"', '' );
 		}
 		fclose( $out );
 		exit;
@@ -298,52 +296,93 @@ add_action(
 		if ( ! $job || empty( $job['queue'] ) ) {
 			return;
 		}
-		$chunk = array_splice( $job['queue'], 0, 40 );
-		foreach ( $chunk as $r ) {
+		$key = 'fwg_rundmail_job_' . sanitize_key( $job_id );
+		if ( function_exists( 'set_time_limit' ) ) {
+			@set_time_limit( 0 ); // phpcs:ignore WordPress.PHP.NoSilencedErrors
+		}
+		update_option( 'fwg_rundmail_last_batch', current_time( 'mysql' ), false );
+		// Stapel à 25; nach jeder Mail speichern, damit ein Abbruch keine Mail doppelt schickt.
+		for ( $i = 0; $i < 25 && $job['queue']; $i++ ) {
+			$r = array_shift( $job['queue'] );
 			if ( fwg_send_mail( $r['email'], $job['subject'], fwg_mail_wrap( $job['subject'], fwg_rundmail_body( $job['text'], $r ) ) ) ) {
 				$job['sent']++;
 			} else {
 				$job['failed']++;
 			}
+			update_option( $key, $job, false );
 		}
 		if ( $job['queue'] ) {
-			update_option( 'fwg_rundmail_job_' . sanitize_key( $job_id ), $job, false );
-			wp_schedule_single_event( time() + 60, 'fwg_rundmail_batch', array( $job_id ) );
+			$next = wp_schedule_single_event( time() + 60, 'fwg_rundmail_batch', array( $job_id ), true );
+			if ( true !== $next ) {
+				$job['error'] = 'Nächster Stapel konnte nicht eingeplant werden.';
+				update_option( $key, $job, false );
+			}
 		} else {
 			$job['done'] = current_time( 'mysql' );
-			update_option( 'fwg_rundmail_job_' . sanitize_key( $job_id ), $job, false );
+			update_option( $key, $job, false );
 		}
 	}
 );
 
-function fwg_rundmail_page(): void {
-	$notice = '';
-	if ( 'POST' === ( $_SERVER['REQUEST_METHOD'] ?? '' ) && check_admin_referer( 'fwg_rundmail' ) && current_user_can( 'manage_options' ) ) {
+/** Verarbeitet das Rundmail-Formular und leitet danach um (kein doppelter Versand bei F5). */
+add_action(
+	'admin_init',
+	function () {
+		if ( 'POST' !== ( $_SERVER['REQUEST_METHOD'] ?? '' ) || ! isset( $_POST['fwg_rundmail_form'] ) ) {
+			return;
+		}
+		check_admin_referer( 'fwg_rundmail' );
+		if ( ! current_user_can( 'manage_options' ) ) {
+			wp_die( 'Keine Berechtigung.' );
+		}
+		$back    = admin_url( 'edit.php?post_type=fwg_anmeldung&page=fwg-rundmail' );
 		$subject = sanitize_text_field( wp_unslash( $_POST['betreff'] ?? '' ) );
 		$text    = sanitize_textarea_field( wp_unslash( $_POST['text'] ?? '' ) );
 		$mode    = isset( $_POST['fwg_test'] ) ? 'test' : ( isset( $_POST['fwg_senden'] ) ? 'senden' : '' );
-		if ( '' === $subject || '' === $text || '' === $mode ) {
-			$notice = '<div class="notice notice-error"><p>Betreff und Text dürfen nicht leer sein.</p></div>';
-		} elseif ( 'test' === $mode ) {
-			$me = array( 'id' => 0, 'email' => wp_get_current_user()->user_email, 'vorname' => wp_get_current_user()->display_name, 'token' => 'test' );
-			$ok = fwg_send_mail( $me['email'], '[Test] ' . $subject, fwg_mail_wrap( $subject, fwg_rundmail_body( $text, $me ) ) );
-			$notice = $ok ? '<div class="notice notice-success"><p>Testmail an ' . esc_html( $me['email'] ) . ' verschickt.</p></div>' : '<div class="notice notice-error"><p>Testmail konnte nicht verschickt werden. Prüfe die SMTP-Einstellungen.</p></div>';
-		} else {
+		$msg     = 'leer';
+		if ( '' !== $subject && '' !== $text && 'test' === $mode ) {
+			$me  = array( 'id' => 0, 'email' => wp_get_current_user()->user_email, 'vorname' => wp_get_current_user()->display_name, 'token' => 'test' );
+			$msg = fwg_send_mail( $me['email'], '[Test] ' . $subject, fwg_mail_wrap( $subject, fwg_rundmail_body( $text, $me ) ) ) ? 'test-ok' : 'test-fehler';
+		} elseif ( '' !== $subject && '' !== $text && 'senden' === $mode ) {
 			$list = fwg_rundmail_empfaenger();
 			if ( ! $list ) {
-				$notice = '<div class="notice notice-warning"><p>Keine Empfänger mit bestätigter Update-Einwilligung.</p></div>';
+				$msg = 'keine';
 			} else {
 				$job_id = gmdate( 'Ymd-His' );
-				update_option( 'fwg_rundmail_job_' . $job_id, array( 'subject' => $subject, 'text' => $text, 'queue' => $list, 'total' => count( $list ), 'sent' => 0, 'failed' => 0, 'started' => current_time( 'mysql' ), 'done' => '' ), false );
-				wp_schedule_single_event( time() + 5, 'fwg_rundmail_batch', array( $job_id ) );
-				$notice = '<div class="notice notice-success"><p>Rundmail an ' . count( $list ) . ' Empfänger eingeplant. Der Versand läuft im Hintergrund in Stapeln à 40; den Stand siehst du unten.</p></div>';
+				$key    = 'fwg_rundmail_job_' . $job_id;
+				update_option( $key, array( 'subject' => $subject, 'text' => $text, 'queue' => $list, 'total' => count( $list ), 'sent' => 0, 'failed' => 0, 'started' => current_time( 'mysql' ), 'done' => '', 'error' => '' ), false );
+				if ( true === wp_schedule_single_event( time() + 5, 'fwg_rundmail_batch', array( $job_id ), true ) ) {
+					$msg = 'geplant';
+				} else {
+					delete_option( $key );
+					$msg = 'cron-fehler';
+				}
 			}
 		}
+		wp_safe_redirect( add_query_arg( 'fwg_msg', $msg, $back ) );
+		exit;
 	}
-	$count = count( fwg_rundmail_empfaenger() );
+);
+
+function fwg_rundmail_page(): void {
+	$msg     = isset( $_GET['fwg_msg'] ) ? sanitize_key( $_GET['fwg_msg'] ) : ''; // phpcs:ignore WordPress.Security.NonceVerification.Recommended
+	$notices = array(
+		'leer'        => array( 'error', 'Betreff und Text dürfen nicht leer sein.' ),
+		'test-ok'     => array( 'success', 'Testmail an ' . wp_get_current_user()->user_email . ' verschickt.' ),
+		'test-fehler' => array( 'error', 'Testmail konnte nicht verschickt werden. Prüfe die SMTP-Einstellungen.' ),
+		'keine'       => array( 'warning', 'Keine Empfänger mit bestätigter Update-Einwilligung.' ),
+		'geplant'     => array( 'success', 'Rundmail eingeplant. Der Versand läuft im Hintergrund in Stapeln à 25 pro Minute; den Stand siehst du unten.' ),
+		'cron-fehler' => array( 'error', 'Der Versand konnte nicht eingeplant werden (WP-Cron). Nichts wurde verschickt.' ),
+	);
+	$notice  = isset( $notices[ $msg ] ) ? '<div class="notice notice-' . $notices[ $msg ][0] . '"><p>' . esc_html( $notices[ $msg ][1] ) . '</p></div>' : '';
+	$last    = (string) get_option( 'fwg_rundmail_last_batch', '' );
+	$count   = count( fwg_rundmail_empfaenger() );
 	echo '<div class="wrap"><h1>Rundmail</h1>' . $notice; // phpcs:ignore WordPress.Security.EscapeOutput
+	if ( defined( 'DISABLE_WP_CRON' ) && DISABLE_WP_CRON ) {
+		echo '<p class="description">Versand über den externen Cron-Aufruf von wp-cron.php. Letzter Versandlauf: ' . esc_html( $last ? $last : 'noch keiner' ) . '. Bleibt ein Lauf auf „läuft“ stehen, den Cron-Job (alle 15 Minuten) prüfen.</p>';
+	}
 	echo '<p>Schickt eine Info-Mail an alle Voranmeldungen, die Updates gewünscht und per Klick bestätigt haben. Jede Mail enthält einen Abmeldelink. Andere Gruppen (Golfanlagen, Unterstützer, Lieblingsplatz) bekommen keine Rundmails; die erreichst du persönlich per E-Mail.</p>';
-	echo '<form method="post">';
+	echo '<form method="post"><input type="hidden" name="fwg_rundmail_form" value="1">';
 	wp_nonce_field( 'fwg_rundmail' );
 	echo '<table class="form-table"><tr><th>Empfänger</th><td><strong>' . (int) $count . '</strong> bestätigte Update-Einwilligungen</td></tr>';
 	echo '<tr><th><label for="fwg-betreff">Betreff</label></th><td><input id="fwg-betreff" name="betreff" type="text" class="regular-text" required></td></tr>';

@@ -38,7 +38,7 @@ add_action(
 		}
 		$phpmailer->isSMTP();
 		$phpmailer->Host    = FWG_SMTP_HOST;
-		$phpmailer->Port    = defined( 'FWG_SMTP_PORT' ) ? (int) FWG_SMTP_PORT : 1025;
+		$phpmailer->Port    = defined( 'FWG_SMTP_PORT' ) ? (int) FWG_SMTP_PORT : 587;
 		$phpmailer->CharSet = 'UTF-8';
 		if ( defined( 'FWG_SMTP_USER' ) && FWG_SMTP_USER ) {
 			$phpmailer->SMTPAuth   = true;

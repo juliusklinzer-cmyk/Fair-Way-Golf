@@ -28,62 +28,57 @@ werden nicht verändert. Kanonische Variante: https://www.fair-way-golf.com/.
 - [ ] **Prüf-Agents**: Alle Berichte grün oder Befunde in `docs/offene-punkte.md` begründet.
       `release-pruefer` ausführen.
 
-## Phase A: Lokal paketieren
+## Phase A: Lokal paketieren (ohne Duplicator)
 
-- [ ] Testdaten löschen: `./wp.sh post delete $(./wp.sh post list --post_type=fwg_anmeldung --field=ID) --force`
-- [ ] Admin-Passwort auf ein neues, starkes setzen (das Dev-Passwort in `.wp-admin-pass.txt` gilt als verbrannt).
-- [ ] Duplicator lokal installieren (`./wp.sh plugin install duplicator --activate`), Paket bauen
-      (Archiv + `installer.php`) unter http://localhost:8092/wp-admin/, danach Duplicator lokal deinstallieren.
-      Ausschließen: nichts Zusätzliches nötig (Uploads sind leer, `_build/` liegt außerhalb von wp-content
-      und wird von Duplicator nur mitgenommen, wenn nicht ausgeschlossen: **`_build` ausschließen**).
+`bash tools/deploy-prep.sh` erledigt alles auf einmal und legt das Paket in `wordpress/_build/deploy/`
+(gitignored): Testanmeldungen und Transients löschen, Admin-E-Mail auf hallo@, neues Admin-Passwort
+(landet in `.wp-admin-pass.txt`), Datenbank-Export mit Produktions-URL (`fwg-prod.sql`), Dateipaket
+`fwg-site.zip` (Core, Theme, mu-plugins, beide `.htaccess`), produktive `wp-config.php` mit frischen
+Salts und Platzhaltern sowie der Einmal-Installer `_fwg_install.php` (Token in `install-token.txt`).
 
-## Phase B: Ziel vorbereiten (konsoleH)
+- [ ] `bash tools/deploy-prep.sh` gelaufen, Ausgabe ohne Fehler, „Reste von localhost:8092“ = 0.
+- [ ] In `wordpress/_build/deploy/wp-config.php` die Platzhalter `<DB_NAME>`, `<DB_USER>`, `<DB_PASSWORD>`,
+      `<DB_HOST>` aus `.deploy-creds.txt` eintragen; GA-ID, HubSpot-Link und Brevo-Zugang eintragen,
+      sobald vorhanden (können auch später direkt auf dem Server ergänzt werden).
 
-- [ ] Neue MySQL-Datenbank anlegen (DB-Host ist NICHT localhost, sondern `lx…your-database.de`;
-      Hauptlogin verwenden, der R/W-Login reicht für Core-Updates nicht). Zugang in `.deploy-creds.txt`.
-- [ ] Per SFTP (www733.your-server.de, Port 22) den Ordner `fair-way-golf.com` in
-      `fair-way-golf.com_alt_2026-09` umbenennen. Neuen leeren Ordner `fair-way-golf.com` anlegen.
-      Falls konsoleH die Domain auf einen festen Pfad zeigt, bleibt der Pfad gleich.
-- [ ] PHP-Version in konsoleH auf 8.3 (oder die lokal getestete Version) stellen.
+## Phase B: Ziel vorbereiten
 
-## Phase C: Hochladen und installieren
+- [ ] Datenbank: Entscheidung Julius (19.09.2026), die **bestehende** Datenbank der alten Seite wird
+      weiterverwendet. Die neue Seite legt ihre Tabellen mit dem Präfix `fwg_` daneben, die alten
+      `wp_`-Tabellen bleiben unangetastet (Rollback). Zugang holt `bash tools/deploy-push.sh dbcreds`
+      aus der alten `wp-config.php` auf dem Server in `.deploy-creds.txt`. Lokal vorher einmal
+      `bash tools/prefix-umstellen.sh` (stellt die lokale Instanz auf `fwg_` um).
+- [ ] PHP-Version für fair-way-golf.com in konsoleH auf 8.3 stellen (lokal getestet: 8.3), macht Julius.
 
-- [ ] `installer.php` + Archiv in den neuen Ordner laden, `https://www.fair-way-golf.com/installer.php` öffnen.
-- [ ] DB-Daten eintragen, URL-Tausch `http://localhost:8092` → `https://www.fair-way-golf.com`.
-- [ ] Mit den lokalen Admin-Daten einloggen, Installer-Aufräumung bestätigen, Duplicator deinstallieren.
+## Phase C: Dateitausch und Installation (SFTP + Installer)
 
-## Phase D: wp-config.php produktiv (manuell ergänzen)
+Alles über `bash tools/deploy-push.sh <schritt>` (curl per SFTP auf www733.your-server.de, Port 22,
+Account `c5wkuy`; Zugang und DB-Daten in `.deploy-creds.txt`, Format im Skriptkopf). Jeder Schritt ist
+einzeln und prüft seine Voraussetzungen.
 
-```php
-define( 'WP_HOME',    'https://www.fair-way-golf.com' );
-define( 'WP_SITEURL', 'https://www.fair-way-golf.com' );
+Entscheidung Julius (19.09.2026): kein Rollback nötig, die alte Seite kann komplett weg, und es wird
+**nur innerhalb von `fair-way-golf.com`** gearbeitet, weil auf dem Server weitere Seiten liegen. Kein
+Umbenennen im Webspace-Root.
 
-/* Härtung */
-define( 'FS_METHOD', 'direct' );
-define( 'WP_DEBUG', false );
-define( 'WP_DEBUG_DISPLAY', false );
-define( 'DISALLOW_FILE_EDIT', true );
-define( 'DISABLE_WP_CRON', true ); // externer Cron, siehe Phase E
+- [ ] `status`: Inhalt von `fair-way-golf.com` (alte WordPress-Dateien), Domain antwortet.
+- [ ] `dbcreds`: DB-Zugang der alten Seite in `.deploy-creds.txt` übernehmen; alte `.htaccess` auf
+      PHP-Handler-Zeilen prüfen (falls Hetzner die PHP-Version darüber setzt, Zeile in
+      `docs/server-htaccess.md` übernehmen und Paket neu bauen).
+- [ ] `config`: DB-Zugang aus `.deploy-creds.txt` in `wordpress/_build/deploy/wp-config.php` eintragen.
+- [ ] `upload`: Installer, Zip, SQL und die neue Konfiguration als `wp-config-new.php` in den Ordner
+      laden. Die alte Seite läuft dabei weiter.
+- [ ] `install`: Installer-Schritte `check` (fwg_-Tabellen = 0), `clear` (löscht die alte Seite im
+      Ordner), `unzip`, `db` (Import, 0 Fehler, siteurl/home = https://www.fair-way-golf.com),
+      `activate` (wp-config-new.php wird wp-config.php). Zwischen `clear` und `activate` liefert die
+      Domain wenige Minuten lang eine leere Seite. Danach Startseite HTTP 200.
+- [ ] `cleanup`: löscht Zip, SQL und Installer auf dem Server; Installer-URL muss danach 404 liefern.
+- [ ] Die alten `wp_`-Tabellen bleiben in der Datenbank (Voranmeldungen aus dem ersten Anlauf);
+      Löschen oder Export später entscheiden.
 
-/* Fair-Way-Golf */
-define( 'FWG_CONTACT_EMAIL', 'hallo@fair-way-golf.com' );
-define( 'FWG_MEETING_URL',   'https://meetings.hubspot.com/…' );
-define( 'FWG_GA_ID',         'G-XXXXXXXXXX' ); // leer lassen = kein Analytics, kein Banner
+## Phase D: Nacharbeiten auf dem Server
 
-/* Brevo-SMTP (mu-plugins/fwg-smtp.php) */
-define( 'FWG_SMTP_HOST',   'smtp-relay.brevo.com' );
-define( 'FWG_SMTP_PORT',   587 );
-define( 'FWG_SMTP_USER',   '<brevo-login>' );
-define( 'FWG_SMTP_PASS',   '<brevo-smtp-key>' );
-define( 'FWG_SMTP_SECURE', 'tls' );
-define( 'FWG_MAIL_FROM',   'hallo@fair-way-golf.com' );
-```
-
-## Phase E: Server-Feinschliff
-
-- [ ] `.htaccess` im Webroot um den Block aus `docs/server-htaccess.md` ergänzen (Kompression,
-      Cache-Header, `Options -Indexes`, Sperre für `xmlrpc.php`, `readme.html`, `license.txt`,
-      `wp-config.php`); die Uploads-`.htaccess` (kein PHP) separat nach `wp-content/uploads/` legen.
+- [ ] Login unter https://www.fair-way-golf.com/wp-login.php mit `julius` und dem neuen Passwort aus
+      `.wp-admin-pass.txt`.
 - [ ] Einstellungen → Permalinks → Speichern (Rewrites, `wp-sitemap.xml`).
 - [ ] `blog_public = 1` prüfen (Einstellungen → Lesen, Suchmaschinen erlaubt).
 - [ ] Externen Cron einrichten (cron-job.org): `https://www.fair-way-golf.com/wp-cron.php?doing_wp_cron=1` alle 15 Minuten.
@@ -91,7 +86,7 @@ define( 'FWG_MAIL_FROM',   'hallo@fair-way-golf.com' );
 - [ ] Rechtstexte final: `curl -s https://www.fair-way-golf.com/impressum/ | grep -c '<mark>'` muss 0 ergeben
       (ebenso für /datenschutz/).
 
-## Phase F: Smoke-Test (extern)
+## Phase E: Smoke-Test (extern)
 
 - [ ] `curl -I https://fair-way-golf.com/` → 301 auf www; `https://www.fair-way-golf.com/` → 200.
 - [ ] Jede alte URL aus `docs/alte-urls.md` per `curl -I` prüfen (301 bzw. 410).
@@ -106,5 +101,6 @@ define( 'FWG_MAIL_FROM',   'hallo@fair-way-golf.com' );
 
 ## Rollback
 
-Ordner `fair-way-golf.com` in `fair-way-golf.com_neu` umbenennen und `fair-way-golf.com_alt_2026-09`
-zurück in `fair-way-golf.com`. Die alte Datenbank ist unverändert. Dauer: zwei Minuten.
+Entfällt (Entscheidung Julius, 19.09.2026): Die alte Seite wird beim Schritt `clear` gelöscht.
+Falls doch einmal nötig: one.com-Backup vom 02.07.2026 in `C:\Users\Julius\Downloads` plus die
+alten `wp_`-Tabellen in der Datenbank.

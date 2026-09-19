@@ -77,10 +77,10 @@ add_action(
 add_filter( 'should_load_separate_core_block_assets', '__return_true' );
 
 /** Kommentare komplett aus. */
+add_action( 'admin_menu', fn() => remove_menu_page( 'edit-comments.php' ), 99 );
 add_action(
 	'admin_init',
 	function () {
-		remove_menu_page( 'edit-comments.php' );
 		foreach ( get_post_types() as $type ) {
 			if ( post_type_supports( $type, 'comments' ) ) {
 				remove_post_type_support( $type, 'comments' );
