@@ -1,0 +1,1849 @@
+SAVETY FIRST 🛡️
+
+ Datenschutzerklärung
+
+ I. EInleitung und Überblick
+
+ Wir haben diese Datenschutzerklärung (Fassung 09.06.2023-311285538) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 und anwendbaren nationalen Gesetzen zu erklären, welche personenbezogenen Daten (kurz Daten) wir als Verantwortliche – und die von uns beauftragten Auftragsverarbeiter (z. B. Provider) – verarbeiten, zukünftig verarbeiten werden und welche rechtmäßigen Möglichkeiten Sie haben. Die verwendeten Begriffe sind geschlechtsneutral zu verstehen.
+Kurz gesagt: Wir informieren Sie umfassend über Daten, die wir über Sie verarbeiten.
+Datenschutzerklärungen klingen für gewöhnlich sehr technisch und verwenden juristische Fachbegriffe. Diese Datenschutzerklärung soll Ihnen hingegen die wichtigsten Dinge so einfach und transparent wie möglich beschreiben. Soweit es der Transparenz förderlich ist, werden technische Begriffe leserfreundlich erklärt, Links zu weiterführenden Informationen geboten und Grafiken zum Einsatz gebracht. Wir informieren damit in klarer und einfacher Sprache, dass wir im Rahmen unserer Geschäftstätigkeiten nur dann personenbezogene Daten verarbeiten, wenn eine entsprechende gesetzliche Grundlage gegeben ist. Das ist sicher nicht möglich, wenn man möglichst knappe, unklare und juristisch-technische Erklärungen abgibt, so wie sie im Internet oft Standard sind, wenn es um Datenschutz geht. Ich hoffe, Sie finden die folgenden Erläuterungen interessant und informativ und vielleicht ist die eine oder andere Information dabei, die Sie noch nicht kannten.
+Wenn trotzdem Fragen bleiben, möchten wir Sie bitten, sich an die unten bzw. im Impressum genannte verantwortliche Stelle zu wenden, den vorhandenen Links zu folgen und sich weitere Informationen auf Drittseiten anzusehen. Unsere Kontaktdaten finden Sie selbstverständlich auch im Impressum.
+
+ 1. Anwendungsbereich
+
+ Diese Datenschutzerklärung gilt für alle von uns im Unternehmen verarbeiteten personenbezogenen Daten und für alle personenbezogenen Daten, die von uns beauftragte Firmen (Auftragsverarbeiter) verarbeiten. Mit personenbezogenen Daten meinen wir Informationen im Sinne des Art. 4 Nr. 1 DSGVO wie zum Beispiel Name, E-Mail-Adresse und postalische Anschrift einer Person. Die Verarbeitung personenbezogener Daten sorgt dafür, dass wir unsere Dienstleistungen und Produkte anbieten und abrechnen können, sei es online oder offline. Der Anwendungsbereich dieser Datenschutzerklärung umfasst:
+alle Onlineauftritte (Websites, Onlineshops), die wir betreiben
+Social Media Auftritte und E-Mail-Kommunikation
+mobile Apps für Smartphones und andere Geräte
+Kurz gesagt: Die Datenschutzerklärung gilt für alle Bereiche, in denen personenbezogene Daten im Unternehmen über die genannten Kanäle strukturiert verarbeitet werden. Sollten wir außerhalb dieser Kanäle mit Ihnen in Rechtsbeziehungen eintreten, werden wir Sie gegebenenfalls gesondert informieren.
+
+ 2. Rechtsgrundlage
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+In der folgenden Datenschutzerklärung geben wir Ihnen transparente
+Informationen zu den rechtlichen Grundsätzen und Vorschriften, also den
+Rechtsgrundlagen der Datenschutz-Grundverordnung, die uns ermöglichen,
+personenbezogene Daten zu verarbeiten.
+
+Was das EU-Recht betrifft, beziehen wir uns auf die VERORDNUNG (EU) 2016/679
+DES EUROPÄISCHEN PARLAMENTS UND DES RATES vom 27. April 2016. Diese
+Datenschutz-Grundverordnung der EU können Sie selbstverständlich online auf
+EUR-Lex, dem Zugang zum EU-Recht, unter https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32016R0679
+nachlesen.
+
+Wir verarbeiten Ihre Daten nur, wenn mindestens eine der
+folgenden Bedingungen zutrifft:
+
+1.       Einwilligung
+(Artikel 6 Absatz 1 lit. a DSGVO): Sie haben uns Ihre Einwilligung gegeben,
+Daten zu einem bestimmten Zweck zu verarbeiten. Ein Beispiel wäre die
+Speicherung Ihrer eingegebenen Daten eines Kontaktformulars.
+
+2.       Vertrag
+(Artikel 6 Absatz 1 lit. b DSGVO): Um einen Vertrag oder vorvertragliche
+Verpflichtungen mit Ihnen zu erfüllen, verarbeiten wir Ihre Daten. Wenn wir zum
+Beispiel einen Kaufvertrag mit Ihnen abschließen, benötigen wir vorab
+personenbezogene Informationen.
+
+3.       Rechtliche
+Verpflichtung (Artikel 6 Absatz 1 lit. c DSGVO): Wenn wir einer rechtlichen
+Verpflichtung unterliegen, verarbeiten wir Ihre Daten. Zum Beispiel sind wir
+gesetzlich verpflichtet Rechnungen für die Buchhaltung aufzuheben. Diese
+enthalten in der Regel personenbezogene Daten.
+
+4.       Berechtigte
+Interessen (Artikel 6 Absatz 1 lit. f DSGVO): Im Falle berechtigter
+Interessen, die Ihre Grundrechte nicht einschränken, behalten wir uns die
+Verarbeitung personenbezogener Daten vor. Wir müssen zum Beispiel gewisse Daten
+verarbeiten, um unsere Website sicher und wirtschaftlich effizient betreiben zu
+können. Diese Verarbeitung ist somit ein berechtigtes Interesse.
+
+Weitere Bedingungen wie die Wahrnehmung von Aufnahmen im
+öffentlichen Interesse und Ausübung öffentlicher Gewalt sowie dem Schutz
+lebenswichtiger Interessen treten bei uns in der Regel nicht auf. Soweit eine
+solche Rechtsgrundlage doch einschlägig sein sollte, wird diese an der
+entsprechenden Stelle ausgewiesen.
+
+Zusätzlich zu der EU-Verordnung gelten auch noch nationale
+Gesetze:
+
+·      
+In Österreich ist dies das Bundesgesetz zum
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz),
+kurz DSG.
+
+·      
+In Deutschland gilt das Bundesdatenschutzgesetz,
+kurz BDSG.
+
+Sofern weitere regionale oder nationale Gesetze zur
+Anwendung kommen, informieren wir Sie in den folgenden Abschnitten darüber.
+
+ 3. kONTAKTDATEN des Verantwortlichen
+
+ Normal
+
+ 0
+
+ 21
+
+ false
+
+ false
+
+ false
+
+ DE
+
+ X-NONE
+
+ X-NONE
+
+Sollten Sie Fragen zum Datenschutz haben, finden Sie
+nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:
+
+Fair – Golf UG (haftungsbeschränkt)
+
+Hiltenspergerstr. 18, 80798 München
+
+E-Mail: datenschutz@fair-way-golf.com 
+
+Telefon: +49 89 41228542Impressum: http://www.fair-way-golf.com/impressum
+
+ 4. Rechte laut Datenschutzgrundverordnung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Laut Artikel 13 DSGVO stehen Ihnen die folgenden Rechte zu, damit es zu einer fairen und transparenten Verarbeitung von Daten kommt:
+·       Sie haben laut Artikel 15 DSGVO ein Auskunftsrecht darüber, ob wir Daten von Ihnen verarbeiten. Sollte das zutreffen, haben Sie Recht darauf eine Kopie der Daten zu erhalten und die folgenden Informationen zu erfahren:
+o   zu welchem Zweck wir die Verarbeitung durchführen;
+o   die Kategorien, also die Arten von Daten, die verarbeitet werden;
+o   wer diese Daten erhält und wenn die Daten an Drittländer übermittelt werden, wie die Sicherheit garantiert werden kann;
+o   wie lange die Daten gespeichert werden;
+o   das Bestehen des Rechts auf Berichtigung, Löschung oder Einschränkung der Verarbeitung und dem Widerspruchsrecht gegen die Verarbeitung;
+o   dass Sie sich bei einer Aufsichtsbehörde beschweren können (Links zu diesen Behörden finden Sie weiter unten);
+o   die Herkunft der Daten, wenn wir sie nicht bei Ihnen erhoben haben;
+o   ob Profiling durchgeführt wird, ob also Daten automatisch ausgewertet werden, um zu einem persönlichen Profil von Ihnen zu gelangen.
+·       Sie haben laut Artikel 16 DSGVO ein Recht auf Berichtigung der Daten, was bedeutet, dass wir Daten richtig stellen müssen, falls Sie Fehler finden.
+·       Sie haben laut Artikel 17 DSGVO das Recht auf Löschung („Recht auf Vergessenwerden“), was konkret bedeutet, dass Sie die Löschung Ihrer Daten verlangen dürfen.
+·       Sie haben laut Artikel 18 DSGVO das Recht auf Einschränkung der Verarbeitung, was bedeutet, dass wir die Daten nur mehr speichern dürfen aber nicht weiter verwenden.
+·       Sie haben laut Artikel 19 DSGVO das Recht auf Datenübertragbarkeit, was bedeutet, dass wir Ihnen auf Anfrage Ihre Daten in einem gängigen Format zur Verfügung stellen.
+·       Sie haben laut Artikel 21 DSGVO ein Widerspruchsrecht, welches nach Durchsetzung eine Änderung der Verarbeitung mit sich bringt.
+o   Wenn die Verarbeitung Ihrer Daten auf Artikel 6 Abs. 1 lit. e (öffentliches Interesse, Ausübung öffentlicher Gewalt) oder Artikel 6 Abs. 1 lit. f (berechtigtes Interesse) basiert, können Sie gegen die Verarbeitung Widerspruch einlegen. Wir prüfen danach so rasch wie möglich, ob wir diesem Widerspruch rechtlich nachkommen können.
+o   Werden Daten verwendet, um Direktwerbung zu betreiben, können Sie jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir dürfen Ihre Daten danach nicht mehr für Direktmarketing verwenden.
+o   Werden Daten verwendet, um Profiling zu betreiben, können Sie jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir dürfen Ihre Daten danach nicht mehr für Profiling verwenden.
+·       Sie haben laut Artikel 22 DSGVO unter Umständen das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung (zum Beispiel Profiling) beruhenden Entscheidung unterworfen zu werden.
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. Diese ist für Österreich die Datenschutzbehörde, deren Website Sie unter https://www.dsb.gv.at/ finden und für Deutschland können Sie sich an die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) wenden.
+Kurz gesagt: Sie haben Rechte – zögern Sie nicht, die oben gelistete verantwortliche Stelle bei uns zu kontaktieren!
+
+ 5. Speicherdauer
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+
+ 0
+
+ 21
+
+ false
+
+ false
+
+ false
+
+ DE
+
+ X-NONE
+
+ X-NONE
+
+Dass wir personenbezogene Daten nur so lange speichern, wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist, gilt als generelles Kriterium bei uns. Das bedeutet, dass wir personenbezogene Daten löschen, sobald der Grund für die Datenverarbeitung nicht mehr vorhanden ist. In einigen Fällen sind wir gesetzlich dazu verpflichtet, bestimmte Daten auch nach Wegfall des ursprünglichen Zwecks zu speichern, zum Beispiel zu Zwecken der Buchführung.
+Sollten Sie die Löschung Ihrer Daten wünschen oder die Einwilligung zur Datenverarbeitung widerrufen, werden die Daten so rasch wie möglich und soweit keine Pflicht zur Speicherung besteht, gelöscht.
+Über die konkrete Dauer der jeweiligen Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben.
+
+ 6. Kontaktdaten des Datenschutzbeauftragten
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Nachfolgend finden Sie die Kontaktdaten unseres Datenschutzbeauftragten.
+E-Mail: datenschutz@fair-way-golf.com 
+Telefon: +49 89 41228542
+
+ 7. Sicherheit der Datenverarbeitung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+
+ 0
+
+ 21
+
+ false
+
+ false
+
+ false
+
+ DE
+
+ X-NONE
+
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Um personenbezogene Daten zu schützen, haben wir sowohl technische als auch organisatorische Maßnahmen umgesetzt. Wo es uns möglich ist, verschlüsseln oder pseudonymisieren wir personenbezogene Daten. Dadurch machen wir es im Rahmen unserer Möglichkeiten so schwer wie möglich, dass Dritte aus unseren Daten auf persönliche Informationen schließen können.
+Art. 25 DSGVO spricht hier von “Datenschutz durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen” und meint damit, dass man sowohl bei Software (z. B. Formularen) also auch Hardware (z. B. Zugang zum Serverraum) immer an Sicherheit denkt und entsprechende Maßnahmen setzt. Im Folgenden gehen wir, falls erforderlich, noch auf konkrete Maßnahmen ein.
+
+ II. Erhebung, Verarbeitung und Nutzung Personenbezogener Daten
+
+ 1. Webhosting
+
+Normal
+
+0
+
+21
+
+false
+
+false
+
+false
+
+DE
+
+X-NONE
+
+X-NONE
+
+Normal
+
+0
+
+21
+
+false
+
+false
+
+false
+
+DE
+
+X-NONE
+
+X-NONE
+
+Normal
+
+0
+
+21
+
+false
+
+false
+
+false
+
+DE
+
+X-NONE
+
+X-NONE
+
+Normal
+
+0
+
+21
+
+false
+
+false
+
+false
+
+DE
+
+X-NONE
+
+X-NONE
+
+Webhosting Zusammenfassung
+👥 Betroffene: Besucher der Website
+🤝 Zweck: professionelles Hosting der Website und Absicherung des Betriebs
+📓 Verarbeitete Daten: IP-Adresse, Zeitpunkt des Websitebesuchs, verwendeter Browser und weitere Daten. Mehr Details dazu finden Sie weiter unten bzw. beim jeweils eingesetzten Webhosting Provider.
+📅 Speicherdauer: abhängig vom jeweiligen Provider, aber in der Regel 2 Wochen
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit.f DSGVO (Berechtigte Interessen)
+Was ist Webhosting?
+Wenn Sie heutzutage Websites besuchen, werden gewisse Informationen – auch personenbezogene Daten – automatisch erstellt und gespeichert, so auch auf dieser Website. Diese Daten sollten möglichst sparsam und nur mit Begründung verarbeitet werden. Mit Website meinen wir übrigens die Gesamtheit aller Webseiten auf einer Domain, d.h. alles von der Startseite (Homepage) bis hin zur aller letzten Unterseite (wie dieser hier). Mit Domain meinen wir zum Beispiel fair-way-golf.com.
+Wenn Sie eine Website auf einem Bildschirm ansehen möchten, verwenden Sie dafür ein Programm, das sich Webbrowser nennt. Sie kennen vermutlich einige Webbrowser beim Namen: Google Chrome, Microsoft Edge, Mozilla Firefox und Apple Safari.
+Dieser Webbrowser muss sich zu einem anderen Computer verbinden, wo der Code der Website gespeichert ist: dem Webserver. Der Betrieb eines Webservers ist eine komplizierte und aufwendige Aufgabe, weswegen dies in der Regel von professionellen Anbietern, den Providern, übernommen wird. Diese bieten Webhosting an und sorgen damit für eine verlässliche und fehlerfreie Speicherung der Daten von Websites.
+Bei der Verbindungsaufnahme des Browsers auf Ihrem Computer (Desktop, Laptop, Smartphone) und während der Datenübertragung zu und vom Webserver kann es zu einer Verarbeitung personenbezogener Daten kommen. Einerseits speichert Ihr Computer Daten, andererseits muss auch der Webserver Daten eine Zeit lang speichern, um einen ordentlichen Betrieb zu gewährleisten.
+Warum verarbeiten wir personenbezogene Daten?
+Die Zwecke der Datenverarbeitung sind:
+Professionelles Hosting der Website und Absicherung des Betriebs
+zur Aufrechterhaltung der Betriebs- und IT-Sicherheit
+Anonyme Auswertung des Zugriffsverhaltens zur Verbesserung unseres Angebots und ggf. zur Strafverfolgung bzw. Verfolgung von Ansprüchen
+Welche Daten werden verarbeitet?
+Auch während Sie unsere Website jetzt gerade besuchen, speichert unser Webserver, das ist der Computer auf dem diese Webseite gespeichert ist, in der Regel automatisch Daten wie
+die komplette Internetadresse (URL) der aufgerufenen Webseite (z. B. https://www.beispielwebsite.de/beispielunterseite.html?tid=311285538)
+Browser und Browserversion (z. B. Chrome 87)
+das verwendete Betriebssystem (z. B. Windows 10)
+die Adresse (URL) der zuvor besuchten Seite (Referrer URL) (z. B. https://www.beispielquellsite.de/vondabinichgekommen.html/)
+den Hostnamen und die IP-Adresse des Geräts von welchem aus zugegriffen wird (z. B. COMPUTERNAME und 194.23.43.121)
+Datum und Uhrzeit
+in Dateien, den sogenannten Webserver-Logfiles
+Wie lange werden Daten gespeichert?
+In der Regel werden die oben genannten Daten zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten von Behörden eingesehen werden.
+Kurz gesagt: Ihr Besuch wird durch unseren Provider (Firma, die unsere Website auf speziellen Computern (Servern) laufen lässt), protokolliert, aber wir geben Ihre Daten nicht ohne Zustimmung weiter!
+Rechtsgrundlage
+Die Rechtmäßigkeit der Verarbeitung personenbezogener Daten im Rahmen des Webhosting ergibt sich aus Art. 6 Abs. 1 lit. f DSGVO (Wahrung der berechtigten Interessen), denn die Nutzung von professionellem Hosting bei einem Provider ist notwendig, um das Unternehmen im Internet sicher und nutzerfreundlich präsentieren und Angriffe und Forderungen hieraus gegebenenfalls verfolgen zu können.
+
+ TLS-Verschlüsselung mit https
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+
+ 0
+
+ 21
+
+ false
+
+ false
+
+ false
+
+ DE
+
+ X-NONE
+
+ X-NONE
+
+Die Fair-Golf UG (haftungsbeschränkt) wird diese Datenschutzerklärung bei Bedarf aktualisieren und an neue Erfordernisse und Gesetze anpassen. Es wird deshalb empfohlen, dieses Dokument regelmäßig zu überprüfen, damit du über den Schutz deiner Daten informiert bist.
+Diese Datenschutzerklärung wurde zuletzt um die Bestimmungen der DSGVO aktualisiert am: 09. Juni 2021
+Bei Fragen zum Datenschutz wende Dich bitte an datenschutz@fair-way-golf.com.
+Alle Texte sind urheberrechtlich geschützt.
+Quelle: Erstellt mit dem Datenschutz Generator von AdSimple
+
+ 2. Kommunikation
+
+ Kommunikation Zusammenfassung 
+👥 Betroffene: Alle, die mit uns per Telefon, E-Mail oder Online-Formular kommunizieren
+📓 Verarbeitete Daten: z. B. Telefonnummer, Name, E-Mail-Adresse, eingegebene Formulardaten. Mehr Details dazu finden Sie bei der jeweils eingesetzten Kontaktart
+🤝 Zweck: Abwicklung der Kommunikation mit Kunden, Geschäftspartnern usw.
+📅 Speicherdauer: Dauer des Geschäftsfalls und der gesetzlichen Vorschriften
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. b DSGVO (Vertrag), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Wenn Sie mit uns Kontakt aufnehmen und per Telefon, E-Mail oder Online-Formular kommunizieren, kann es zur Verarbeitung personenbezogener Daten kommen.
+Die Daten werden für die Abwicklung und Bearbeitung Ihrer Frage und des damit zusammenhängenden Geschäftsvorgangs verarbeitet. Die Daten während ebensolange gespeichert bzw. so lange es das Gesetz vorschreibt.
+Betroffene Personen
+Von den genannten Vorgängen sind alle betroffen, die über die von uns bereit gestellten Kommunikationswege den Kontakt zu uns suchen.
+Telefon
+Wenn Sie uns anrufen, werden die Anrufdaten auf dem jeweiligen Endgerät und beim eingesetzten Telekommunikationsanbieter pseudonymisiert gespeichert. Außerdem können Daten wie Name und Telefonnummer im Anschluss per E-Mail versendet und zur Anfragebeantwortung gespeichert werden. Die Daten werden gelöscht, sobald der Geschäftsfall beendet wurde und es gesetzliche Vorgaben erlauben.
+E-Mail
+Wenn Sie mit uns per E-Mail kommunizieren, werden Daten gegebenenfalls auf dem jeweiligen Endgerät (Computer, Laptop, Smartphone,…) gespeichert und es kommt zur Speicherung von Daten auf dem E-Mail-Server. Die Daten werden gelöscht, sobald der Geschäftsfall beendet wurde und es gesetzliche Vorgaben erlauben.
+Online Formulare
+Wenn Sie mit uns mittels Online-Formular kommunizieren, werden Daten auf unserem Webserver gespeichert und gegebenenfalls an eine E-Mail-Adresse von uns weitergeleitet. Die Daten werden gelöscht, sobald der Geschäftsfall beendet wurde und es gesetzliche Vorgaben erlauben.
+Rechtsgrundlagen
+Die Verarbeitung der Daten basiert auf den folgenden Rechtsgrundlagen:
+6 Abs. 1 lit. a DSGVO (Einwilligung): Sie geben uns die Einwilligung Ihre Daten zu speichern und weiter für den Geschäftsfall betreffende Zwecke zu verwenden;
+6 Abs. 1 lit. b DSGVO (Vertrag): Es besteht die Notwendigkeit für die Erfüllung eines Vertrags mit Ihnen oder einem Auftragsverarbeiter wie z. B. dem Telefonanbieter oder wir müssen die Daten für vorvertragliche Tätigkeiten, wie z. B. die Vorbereitung eines Angebots, verarbeiten;
+6 Abs. 1 lit. f DSGVO (Berechtigte Interessen): Wir wollen Kundenanfragen und geschäftliche Kommunikation in einem professionellen Rahmen betreiben. Dazu sind gewisse technische Einrichtungen wie z. B. E-Mail-Programme, Exchange-Server und Mobilfunkbetreiber notwendig, um die Kommunikation effizient betreiben zu können.
+
+ 3. Cookies
+
+ Cookies Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: abhängig vom jeweiligen Cookie. Mehr Details dazu finden Sie weiter unten bzw. beim Hersteller der Software, der das Cookie setzt.
+📓 Verarbeitete Daten: Abhängig vom jeweils eingesetzten Cookie. Mehr Details dazu finden Sie weiter unten bzw. beim Hersteller der Software, der das Cookie setzt.
+📅 Speicherdauer: abhängig vom jeweiligen Cookie, kann von Stunden bis hin zu Jahren variieren
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit.f DSGVO (Berechtigte Interessen)
+
+Was sind Cookies?
+Unsere Website verwendet HTTP-Cookies, um nutzerspezifische Daten zu speichern.
+Im Folgenden erklären wir, was Cookies sind und warum Sie genutzt werden, damit Sie die folgende Datenschutzerklärung besser verstehen.
+Immer wenn Sie durch das Internet surfen, verwenden Sie einen Browser. Bekannte Browser sind beispielsweise Chrome, Safari, Firefox, Internet Explorer und Microsoft Edge. Die meisten Websites speichern kleine Text-Dateien in Ihrem Browser. Diese Dateien nennt man Cookies.
+Eines ist nicht von der Hand zu weisen: Cookies sind echt nützliche Helferlein. Fast alle Websites verwenden Cookies. Genauer gesprochen sind es HTTP-Cookies, da es auch noch andere Cookies für andere Anwendungsbereiche gibt. HTTP-Cookies sind kleine Dateien, die von unserer Website auf Ihrem Computer gespeichert werden. Diese Cookie-Dateien werden automatisch im Cookie-Ordner, quasi dem “Hirn” Ihres Browsers, untergebracht. Ein Cookie besteht aus einem Namen und einem Wert. Bei der Definition eines Cookies müssen zusätzlich ein oder mehrere Attribute angegeben werden.
+Cookies speichern gewisse Nutzerdaten von Ihnen, wie beispielsweise Sprache oder persönliche Seiteneinstellungen. Wenn Sie unsere Seite wieder aufrufen, übermittelt Ihr Browser die „userbezogenen“ Informationen an unsere Seite zurück. Dank der Cookies weiß unsere Website, wer Sie sind und bietet Ihnen die Einstellung, die Sie gewohnt sind. In einigen Browsern hat jedes Cookie eine eigene Datei, in anderen wie beispielsweise Firefox sind alle Cookies in einer einzigen Datei gespeichert.
+Die folgende Grafik zeigt eine mögliche Interaktion zwischen einem Webbrowser wie z. B. Chrome und dem Webserver. Dabei fordert der Webbrowser eine Website an und erhält vom Server ein Cookie zurück, welches der Browser erneut verwendet, sobald eine andere Seite angefordert wird.
+
+Es gibt sowohl Erstanbieter Cookies als auch Drittanbieter-Cookies. Erstanbieter-Cookies werden direkt von unserer Seite erstellt, Drittanbieter-Cookies werden von Partner-Websites (z.B. Google Analytics) erstellt. Jedes Cookie ist individuell zu bewerten, da jedes Cookie andere Daten speichert. Auch die Ablaufzeit eines Cookies variiert von ein paar Minuten bis hin zu ein paar Jahren. Cookies sind keine Software-Programme und enthalten keine Viren, Trojaner oder andere „Schädlinge“. Cookies können auch nicht auf Informationen Ihres PCs zugreifen.
+So können zum Beispiel Cookie-Daten aussehen:
+Name: _ga
+Wert: GA1.2.1326744211.152311285538-9
+Verwendungszweck: Unterscheidung der Websitebesucher
+Ablaufdatum: nach 2 Jahren
+Diese Mindestgrößen sollte ein Browser unterstützen können:
+Mindestens 4096 Bytes pro Cookie
+Mindestens 50 Cookies pro Domain
+Mindestens 3000 Cookies insgesamt
+Welche Arten von Cookies gibt es?
+Die Frage welche Cookies wir im Speziellen verwenden, hängt von den verwendeten Diensten ab und wird in den folgenden Abschnitten der Datenschutzerklärung geklärt. An dieser Stelle möchten wir kurz auf die verschiedenen Arten von HTTP-Cookies eingehen.
+Man kann 4 Arten von Cookies unterscheiden:
+Unerlässliche Cookies
+Diese Cookies sind nötig, um grundlegende Funktionen der Website sicherzustellen. Zum Beispiel braucht es diese Cookies, wenn ein User ein Produkt in den Warenkorb legt, dann auf anderen Seiten weitersurft und später erst zur Kasse geht. Durch diese Cookies wird der Warenkorb nicht gelöscht, selbst wenn der User sein Browserfenster schließt.
+Zweckmäßige Cookies
+Diese Cookies sammeln Infos über das Userverhalten und ob der User etwaige Fehlermeldungen bekommt. Zudem werden mithilfe dieser Cookies auch die Ladezeit und das Verhalten der Website bei verschiedenen Browsern gemessen.
+Zielorientierte Cookies
+Diese Cookies sorgen für eine bessere Nutzerfreundlichkeit. Beispielsweise werden eingegebene Standorte, Schriftgrößen oder Formulardaten gespeichert.
+Werbe-Cookies
+Diese Cookies werden auch Targeting-Cookies genannt. Sie dienen dazu dem User individuell angepasste Werbung zu liefern. Das kann sehr praktisch, aber auch sehr nervig sein.
+Üblicherweise werden Sie beim erstmaligen Besuch einer Website gefragt, welche dieser Cookiearten Sie zulassen möchten. Und natürlich wird diese Entscheidung auch in einem Cookie gespeichert.
+Wenn Sie mehr über Cookies wissen möchten und technische Dokumentationen nicht scheuen, empfehlen wir https://tools.ietf.org/html/rfc6265, dem Request for Comments der Internet Engineering Task Force (IETF) namens “HTTP State Management Mechanism”.
+Zweck der Verarbeitung über Cookies
+Der Zweck ist letztendlich abhängig vom jeweiligen Cookie. Mehr Details dazu finden Sie weiter unten bzw. beim Hersteller der Software, die das Cookie setzt.
+Welche Daten werden verarbeitet?
+Cookies sind kleine Gehilfen für eine viele verschiedene Aufgaben. Welche Daten in Cookies gespeichert werden, kann man leider nicht verallgemeinern, aber wir werden Sie im Rahmen der folgenden Datenschutzerklärung über die verarbeiteten bzw. gespeicherten Daten informieren.
+Speicherdauer von Cookies
+Die Speicherdauer hängt vom jeweiligen Cookie ab und wird weiter unter präzisiert. Manche Cookies werden nach weniger als einer Stunde gelöscht, andere können mehrere Jahre auf einem Computer gespeichert bleiben.
+Sie haben außerdem selbst Einfluss auf die Speicherdauer. Sie können über ihren Browser sämtliche Cookies jederzeit manuell löschen (siehe auch unten “Widerspruchsrecht”). Ferner werden Cookies, die auf einer Einwilligung beruhen, spätestens nach Widerruf Ihrer Einwilligung gelöscht, wobei die Rechtmäßigkeit der Speicherung bis dahin unberührt bleibt.
+Widerspruchsrecht – wie kann ich Cookies löschen?
+Wie und ob Sie Cookies verwenden wollen, entscheiden Sie selbst. Unabhängig von welchem Service oder welcher Website die Cookies stammen, haben Sie immer die Möglichkeit Cookies zu löschen, zu deaktivieren oder nur teilweise zuzulassen. Zum Beispiel können Sie Cookies von Drittanbietern blockieren, aber alle anderen Cookies zulassen.
+Wenn Sie feststellen möchten, welche Cookies in Ihrem Browser gespeichert wurden, wenn Sie Cookie-Einstellungen ändern oder löschen wollen, können Sie dies in Ihren Browser-Einstellungen finden:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Die Vorgangsweise ist je nach Browser verschieden. Am besten Sie suchen die Anleitung in Google mit dem Suchbegriff “Cookies löschen Chrome” oder “Cookies deaktivieren Chrome” im Falle eines Chrome Browsers.
+Rechtsgrundlage
+Seit 2009 gibt es die sogenannten „Cookie-Richtlinien“. Darin ist festgehalten, dass das Speichern von Cookies eine Einwilligung (Artikel 6 Abs. 1 lit. a DSGVO) von Ihnen verlangt. Innerhalb der EU-Länder gibt es allerdings noch sehr unterschiedliche Reaktionen auf diese Richtlinien. In Österreich erfolgte aber die Umsetzung dieser Richtlinie in § 96 Abs. 3 des Telekommunikationsgesetzes (TKG). In Deutschland wurden die Cookie-Richtlinien nicht als nationales Recht umgesetzt. Stattdessen erfolgte die Umsetzung dieser Richtlinie weitgehend in § 15 Abs.3 des Telemediengesetzes (TMG).
+Für unbedingt notwendige Cookies, wo keine Einwilligung vorliegt bestehen berechtigte Interessen (Artikel 6 Abs. 1 lit. f DSGVO), die in den meisten Fällen wirtschaftlicher Natur sind. Wir möchten den Besuchern der Website eine angenehme Benutzererfahrung bescheren und dafür sind Cookies oft unbedingt notwendig.
+In den folgenden Abschnitten werden Sie genauer über den Einsatz von Cookies informiert, sofern eingesetzte Software Cookies verwendet.
+
+ 4. Web Analytics
+
+ Web Analytics Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Auswertung der Besucherinformationen zur Optimierung des Webangebots.
+📓 Verarbeitete Daten: Zugriffsstatistiken, die Daten wie Standorte der Zugriffe, Gerätedaten, Zugriffsdauer und Zeitpunkt, Navigationsverhalten, Klickverhalten und IP-Adressen enthalten. Mehr Details dazu finden Sie beim jeweils eingesetzten Web Analytics Tool.
+📅 Speicherdauer: abhängig vom eingesetzten Web-Analytics-Tool
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist Web Analytics?
+Wir verwenden auf unserer Website Software zur Auswertung des Verhaltens der Website-Besucher, kurz Web Analytics oder Web-Analyse genannt. Dabei werden Daten gesammelt, die der jeweilige Analytic-Tool-Anbieter (auch Trackingtool genannt) speichert, verwaltet und verarbeitet. Mit Hilfe der Daten werden Analysen über das Nutzerverhalten auf unserer Website erstellt und uns als Websitebetreiber zur Verfügung gestellt. Zusätzlich bieten die meisten Tools verschiedene Testmöglichkeiten an. So können wir etwa testen, welche Angebote oder Inhalte bei unseren Besuchern am besten ankommen. Dafür zeigen wir Ihnen für einen begrenzten Zeitabschnitt zwei verschiedene Angebote. Nach dem Test (sogenannter A/B-Test) wissen wir, welches Produkt bzw. welcher Inhalt unsere Websitebesucher interessanter finden. Für solche Testverfahren, wie auch für andere Analytics-Verfahren, können auch Userprofile erstellt werden und die Daten in Cookies gespeichert werden.
+Warum betreiben wir Web Analytics?
+Mit unserer Website haben wir ein klares Ziel vor Augen: wir wollen für unsere Branche das besten Webangebot auf dem Markt liefern. Um dieses Ziel zu erreichen, wollen wir einerseits das beste und interessanteste Angebot bieten und andererseits darauf achten, dass Sie sich auf unserer Website rundum wohlfühlen. Mit Hilfe von Webanalyse-Tools können wir das Verhalten unserer Websitebesucher genauer unter die Lupe nehmen und dann entsprechend unser Webangebot für Sie und uns verbessern. So können wir beispielsweise erkennen wie alt unsere Besucher durchschnittlich sind, woher sie kommen, wann unsere Website am meisten besucht wird oder welche Inhalte oder Produkte besonders beliebt sind. All diese Informationen helfen uns die Website zu optimieren und somit bestens an Ihre Bedürfnisse, Interessen und Wünsche anzupassen.
+Welche Daten werden verarbeitet?
+Welche Daten genau gespeichert werden, hängt natürlich von den verwendeten Analyse-Tools ab. Doch in der Regel wird zum Beispiel gespeichert, welche Inhalte Sie auf unserer Website ansehen, auf welche Buttons oder Links Sie klicken, wann Sie eine Seite aufrufen, welchen Browser sie verwenden, mit welchem Gerät (PC, Tablet, Smartphone usw.) Sie die Website besuchen oder welches Computersystem Sie verwenden. Wenn Sie damit einverstanden waren, dass auch Standortdaten erhoben werden dürfen, können auch diese durch den Webanalyse-Tool-Anbieter verarbeitet werden.
+Zudem wird auch Ihre IP-Adresse gespeichert. Gemäß der Datenschutz-Grundverordnung (DSGVO) sind IP-Adressen personenbezogene Daten. Ihre IP-Adresse wird allerdings in der Regel pseudonymisiert (also in unkenntlicher und gekürzter Form) gespeichert. Für den Zweck der Tests, der Webanalyse und der Weboptimierung werden grundsätzlich keine direkten Daten, wie etwa Ihr Name, Ihr Alter, Ihre Adresse oder Ihre E-Mail-Adresse gespeichert. All diese Daten werden, sofern sie erhoben werden, pseudonymisiert gespeichert. So können Sie als Person nicht identifiziert werden.
+Wie lange die jeweiligen Daten gespeichert werden, hängt immer vom Anbieter ab. Manche Cookies speichern Daten nur für ein paar Minuten bzw. bis Sie die Website wieder verlassen, andere Cookies können Daten über mehrere Jahre speichern.
+Dauer der Datenverarbeitung
+Über die Dauer der Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben. Generell verarbeiten wir personenbezogene Daten nur so lange wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist. Wenn es, wie zum Beispiel im Fall von Buchhaltung, gesetzlich vorgeschrieben ist, kann diese Speicherdauer auch überschritten werden.
+Widerspruchsrecht
+Sie haben auch jederzeit das Recht und die Möglichkeit Ihre Einwilligung zur Verwendung von Cookies bzw. Drittanbietern zu widerrufen. Das funktioniert entweder über unser Cookie-Management-Tool oder über andere Opt-Out-Funktionen. Zum Beispiel können Sie auch die Datenerfassung durch Cookies verhindern, indem Sie in Ihrem Browser die Cookies verwalten, deaktivieren oder löschen.
+Rechtsgrundlage
+Der Einsatz von Web-Analytics setzt Ihre Einwilligung voraus, welche wir mit unserem Cookie Popup eingeholt haben. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Web-Analytics Tools vorkommen kann, dar.
+Zusätzlich zur Einwilligung besteht von unserer Seite ein berechtigtes Interesse daran, dass Verhalten der Websitebesucher zu analysieren und so unser Angebot technisch und wirtschaftlich zu verbessern. Mit Hilfe von Web-Analytics erkennen wir Fehler der Website, können Attacken identifizieren und die Wirtschaftlichkeit verbessern. Die Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Da bei Web-Analytics-Tools Cookies zum Einsatz kommen, empfehlen wir Ihnen auch das Lesen unserer allgemeinen Datenschutzerklärung zu Cookies. Um zu erfahren, welche Daten von Ihnen genau gespeichert und verarbeitet werden, sollten Sie die Datenschutzerklärungen der jeweiligen Tools durchlesen.
+Informationen zu speziellen Web-Analytics-Tools, erhalten Sie – sofern vorhanden – in den folgenden Abschnitten.
+
+ Firebase Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir verwenden auf unserer Website Firebase, ein Analyse- und Monitoring-Tool. Dienstanbieter ist das amerikanische Unternehmen Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Mehr über die Daten, die durch die Verwendung von Firebase verarbeitet werden, erfahren Sie in der Privacy Policy auf https://policies.google.com/privacy?hl=en-US .
+
+ Google Optimize Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir verwenden auf unserer Website Google Optimize, ein Website-Optimierungstool. Dienstanbieter ist das amerikanische Unternehmen Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Mehr über die Daten, die durch die Verwendung von Google Optimize verarbeitet werden, erfahren Sie in der Privacy Policy auf https://policies.google.com/privacy?hl=en-US .
+
+ 5. etracker Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+etracker Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Auswertung der Besucherinformationen zur Optimierung des Webangebots.
+📓 Verarbeitete Daten: unter anderem pseudonymisierte IP-Adresse, technische Informationen zu Browser, Betriebssystem und Endgerät, Verweildauer, Interaktionen auf der Website
+📅 Speicherdauer: abhängig vom eingesetzten Web-Analytics-Tool
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist etracker?
+Wir verwenden auf unserer Website das Analyse-Tracking-Tool etracker Analytics des deutschen Unternehmens etracker GmbH, Erste Brunnenstraße 1, D-20459 Hamburg. etracker Analytics ist eine Software, die Daten über Ihre Handlungen auf unserer Website sammelt und auswertet. Wir erhalten Analyse-Berichte wie Sie unsere Website verwenden und können so unser Angebot immer besser an Ihre Wünsche anpassen. In dieser Datenschutzerklärung gehen wir näher auf das Analyse-Tool ein und zeigen Ihnen vor allem, welche Daten wann, wie und wo gespeichert werden.
+Bei etracker Analytics handelt es sich um ein Analyse-Tool, das die Performance von unserer Website und Online-Kampagnen messen und entsprechend auch analysieren kann. So sammelt das Softwareprogramm etwa Daten darüber, wie lange Sie auch unserer Website sind, wie viele User unsere Website besuchen und von wo Sie zu unserer Website gekommen sind. Wir erhalten auch genaue Auswertungen über das Besucherverhalten auf unserer Website. So können wir beispielsweise in Erfahrung bringen, welche Buttons Sie gerne klicken oder welche Unterseiten Sie mögen und welche Sie eher meiden. All diese Informationen sind anonym. Das bedeutet, dass wir durch diese Daten nicht Sie als Person identifizieren, sondern lediglich allgemeine Userinformationen und Statistiken erhalten.
+Warum verwenden wir etracker auf unserer Website?
+Wir nutzen das Software-Tool, um die Qualität unserer Website und unseres Angebots zu steigern. Unser Ziel ist es, Ihnen den bestmöglichen Service zu liefern. Wir wollen, dass Sie sich auf unserer Website wohl fühlen und genau das bekommen, was Sie erwarten. Dafür müssen wir natürlich unser Angebot so gut wie möglich an Ihre Wünsche und Anforderungen anpassen.
+Die Daten helfen uns auch, unsere Online-Marketing und Werbe-Maßnahmen günstiger und individueller durchzuführen. Denn wir wollen natürlich unser Angebot auch wirklich nur Menschen zeigen, die sich auch dafür interessieren.
+Welche Daten werden von etracker gespeichert?
+Damit das Tracking funktioniert muss ein JavaScript-Code in die Website eingebunden werden. etracker funktioniert auf einer Pixel-Technologie.
+Standardmäßig verwendet etracker keine Cookies oder Technologien für das Tracking auf einer Website, da dies im sogenannten Cookie-less Modus durch Privacy-by-Design umgesetzt wurde. In diesem Fall werden nur absolut notwendige Cookies gesetzt. Wenn Sie allerdings der Verwendung von Cookies aktiv zugestimmt haben, nutzt etracker auch Cookies.
+Folgende Daten werden beim Seitenaufruf gespeichert und verarbeitet:
+Ihre pseudonymisierte IP-Adresse
+Technische Informationen zu Ihrem Browser, Betriebssystem und Ihrem verwendeten Endgerät
+Ortsinformationen bis maximal Stadtebene
+die aufgerufene URL mit dazugehörigem Seitentitel und optionale Informationen zum Seiteninhalt
+Referrer-Website: das ist die Website, von der Sie auf unsere Website gekommen sind
+die Folgeseite: das ist die Website, wo Sie im Anschluss hinklicken
+wie lange Sie auf unserer Website bleiben (Verweildauer)
+Interaktionen auf der Website. Das können zum Beispiel Klicks auf der Website sein, eingegebene Suchbegriffe, heruntergeladene Dateien, Videos oder bestellte Artikel.
+Hier werden also Webseiten-Daten vom Webserver genutzt und Informationen, die der Webbrowser zum Abruf von Webseiten an den Webserver überträgt. Diese Informationen werden bei jedem einzelnen Seitenabruf übertragen.
+Anders als bei anderen Technologien werden bei etracker keine Informationen aus dem Speicher Ihres Endgeräts ausgelesen und auch keine Daten auf Ihrem Endgerät gespeichert. Die Daten werden von etracker für keine anderen Zwecke verwendet oder an Dritte weitergegeben.
+Die verwendeten Cookies erhalten keine Informationen, die Sie als Person identifizieren können. Daten wie etwa IP-Adresse, Gerät und Domaindaten werden bei der Speicherung verschlüsselt bzw. verkürzt. So ist die Identifizierung einzelner Personen weder für uns noch für etracker möglich.
+Wenn Sie der Verwendung von Cookies zugestimmt haben, können folgenden Cookies gesetzt werden:
+Name: GS3_v
+Wert: 146480958311285538-9
+Verwendungszweck: Dieses Cookie wird vom etracker Optimizer Webservice gesetzt.
+Ablaufdatum: nach einem Jahr
+Name: _et_coid
+Wert: e9cc2b3efbf7807c6157e8b151baa2f3311285538-1
+Verwendungszweck: Dieses Cookie dient der Cookie-Erkennung und wird nur bei der Cookie-Aktivierung gesetzt.
+Ablaufdatum: nach 3 Jahren
+Name: pll_language
+Wert: de
+Verwendungszweck: Dieses Cookie dient dazu, die voreingestellte Sprache zu speichern.
+Ablaufdatum: nach einem Jahr
+Anmerkung: Bitte beachten Sie, dass die hier angeführte Liste lediglich eine Auswahl verwendeter Cookies darstellt und keinen Anspruch auf Vollständigkeit erheben kann. Welche Cookies im speziellen Fall gesetzt werden, ist von den jeweils eingesetzten Auswertungsmechanismen abhängig. Unter dem folgende Link, können Sie sich alle Cookies in einer Liste ansehen: https://www.etracker.com/docs/integration-setup/einstellungen-accounts/etracker-cookies/verwendete-cookies-zaehlung/
+Wie lange und wo werden die Daten gespeichert?
+Das Rechenzentrum (die Server) ist in Hamburg und auch die gesamte System-Administration finden in Hamburg statt. Somit werden alle Daten ausschließlich auf deutschen Servern gespeichert. Die Daten speichert etracker, bis der Vertrag mit uns als Kunde ausläuft. Nach einer kurzen Zeit nach Beendigung des Vertrags werden alle Daten endgültig gelöscht.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Sie haben jederzeit das Recht auf Auskunft, Berichtigung bzw. Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Sie können zudem auch jederzeit die Einwilligung zur Verarbeitung der Daten widerrufen.
+Falls Sie grundsätzlich Cookies deaktivieren, löschen oder verwalten wollen, gibt es für jeden Browser eine eigene Anleitung:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Rechtsgrundlage
+Der Einsatz von etracker setzt Ihre Einwilligung voraus, welche wir mit unserem Cookie Popup eingeholt haben. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Web-Analytics Tools vorkommen kann, dar.
+Zusätzlich zur Einwilligung besteht von unserer Seite ein berechtigtes Interesse daran, dass Verhalten der Websitebesucher zu analysieren und so unser Angebot technisch und wirtschaftlich zu verbessern. Mit Hilfe von etracker erkennen wir Fehler der Website, können Attacken identifizieren und die Wirtschaftlichkeit verbessern. Die Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Wir hoffen, wir konnten Ihnen die wichtigsten Informationen rund um die Datenverarbeitung von etracker näherbringen. Wenn Sie mehr über den Tracking-Dienst erfahren wollen, empfehlen wir Ihnen die Datenschutzerklärung des Unternehmens unter https://www.etracker.com/datenschutz/.
+
+ 6. Google Analytics Datenschutzerklärung
+
+ Google Analytics Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Auswertung der Besucherinformationen zur Optimierung des Webangebots.
+📓 Verarbeitete Daten: Zugriffsstatistiken, die Daten wie Standorte der Zugriffe, Gerätedaten, Zugriffsdauer und Zeitpunkt, Navigationsverhalten, Klickverhalten und IP-Adressen enthalten. Mehr Details dazu finden Sie weiter unten in dieser Datenschutzerklärung.
+📅 Speicherdauer: abhängig von den verwendeten Properties
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+Was ist Google Analytics?
+Wir verwenden auf unserer Website das Analyse-Tracking Tool Google Analytics (GA) des amerikanischen Unternehmens Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Google Analytics sammelt Daten über Ihre Handlungen auf unserer Website. Wenn Sie beispielsweise einen Link anklicken, wird diese Aktion in einem Cookie gespeichert und an Google Analytics versandt. Mithilfe der Berichte, die wir von Google Analytics erhalten, können wir unsere Website und unser Service besser an Ihre Wünsche anpassen. Im Folgenden gehen wir näher auf das Tracking-Tool ein und informieren Sie vor allem darüber, welche Daten gespeichert werden und wie Sie das verhindern können.
+Google Analytics ist ein Trackingtool, das der Datenverkehrsanalyse unserer Website dient. Damit Google Analytics funktioniert, wird ein Tracking-Code in den Code unserer Website eingebaut. Wenn Sie unsere Website besuchen, zeichnet dieser Code verschiedene Handlungen auf, die Sie auf unserer Website ausführen. Sobald Sie unsere Website verlassen, werden diese Daten an die Google-Analytics-Server gesendet und dort gespeichert.
+Google verarbeitet die Daten und wir bekommen Berichte über Ihr Userverhalten. Dabei kann es sich unter anderem um folgende Berichte handeln:
+Zielgruppenberichte: Über Zielgruppenberichte lernen wir unsere User besser kennen und wissen genauer, wer sich für unser Service interessiert.
+Anzeigeberichte: Durch Anzeigeberichte können wir unsere Onlinewerbung leichter analysieren und verbessern.
+Akquisitionsberichte: Akquisitionsberichte geben uns hilfreiche Informationen darüber, wie wir mehr Menschen für unser Service begeistern können.
+Verhaltensberichte: Hier erfahren wir, wie Sie mit unserer Website interagieren. Wir können nachvollziehen welchen Weg Sie auf unserer Seite zurücklegen und welche Links Sie anklicken.
+Conversionsberichte: Conversion nennt man einen Vorgang, bei dem Sie aufgrund einer Marketing-Botschaft eine gewünschte Handlung ausführen. Zum Beispiel, wenn Sie von einem reinen Websitebesucher zu einem Käufer oder Newsletter-Abonnent werden. Mithilfe dieser Berichte erfahren wir mehr darüber, wie unsere Marketing-Maßnahmen bei Ihnen ankommen. So wollen wir unsere Conversionrate steigern.
+Echtzeitberichte: Hier erfahren wir immer sofort, was gerade auf unserer Website passiert. Zum Beispiel sehen wir wie viele User gerade diesen Text lesen.
+Warum verwenden wir Google Analytics auf unserer Website?
+Unser Ziel mit dieser Website ist klar: Wir wollen Ihnen das bestmögliche Service bieten. Die Statistiken und Daten von Google Analytics helfen uns dieses Ziel zu erreichen.
+Die statistisch ausgewerteten Daten zeigen uns ein klares Bild von den Stärken und Schwächen unserer Website. Einerseits können wir unsere Seite so optimieren, dass sie von interessierten Menschen auf Google leichter gefunden wird. Andererseits helfen uns die Daten, Sie als Besucher besser zu verstehen. Wir wissen somit sehr genau, was wir an unserer Website verbessern müssen, um Ihnen das bestmögliche Service zu bieten. Die Daten dienen uns auch, unsere Werbe- und Marketing-Maßnahmen individueller und kostengünstiger durchzuführen. Schließlich macht es nur Sinn, unsere Produkte und Dienstleistungen Menschen zu zeigen, die sich dafür interessieren.
+Welche Daten werden von Google Analytics gespeichert?
+Google Analytics erstellt mithilfe eines Tracking-Codes eine zufällige, eindeutige ID, die mit Ihrem Browser-Cookie verbunden ist. So erkennt Sie Google Analytics als neuen User. Wenn Sie das nächste Mal unsere Seite besuchen, werden Sie als „wiederkehrender“ User erkannt. Alle gesammelten Daten werden gemeinsam mit dieser User-ID gespeichert. So ist es überhaupt erst möglich pseudonyme Userprofile auszuwerten.
+Um mit Google Analytics unsere Website analysieren zu können, muss eine Property-ID in den Tracking-Code eingefügt werden. Die Daten werden dann in der entsprechenden Property gespeichert. Für jede neu angelegte Property ist die Google Analytics 4-Property standardmäßig. Alternativ kann man aber auch noch die Universal Analytics Property erstellen. Je nach verwendeter Property werden Daten unterschiedlich lange gespeichert.
+Durch Kennzeichnungen wie Cookies und App-Instanz-IDs werden Ihre Interaktionen auf unserer Website gemessen. Interaktionen sind alle Arten von Handlungen, die Sie auf unserer Website ausführen. Wenn Sie auch andere Google-Systeme (wie z.B. ein Google-Konto) nützen, können über Google Analytics generierte Daten mit Drittanbieter-Cookies verknüpft werden. Google gibt keine Google Analytics-Daten weiter, außer wir als Websitebetreiber genehmigen das. Zu Ausnahmen kann es kommen, wenn es gesetzlich erforderlich ist.
+Folgende Cookies werden von Google Analytics verwendet:
+Name: _ga
+Wert: 2.1326744211.152311285538-5
+Verwendungszweck: Standardmäßig verwendet analytics.js das Cookie _ga, um die User-ID zu speichern. Grundsätzlich dient es zur Unterscheidung der Webseitenbesucher.
+Ablaufdatum: nach 2 Jahren
+Name: _gid
+Wert: 2.1687193234.152311285538-1
+Verwendungszweck: Das Cookie dient auch zur Unterscheidung der Webseitenbesucher
+Ablaufdatum: nach 24 Stunden
+Name: _gat_gtag_UA_<property-id>
+Wert: 1
+Verwendungszweck: Wird zum Senken der Anforderungsrate verwendet. Wenn Google Analytics über den Google Tag Manager bereitgestellt wird, erhält dieser Cookie den Namen _dc_gtm_ <property-id>.
+Ablaufdatum: nach 1 Minute
+Name: AMP_TOKEN
+Wert: keine Angaben
+Verwendungszweck: Das Cookie hat einen Token, mit dem eine User ID vom AMP-Client-ID-Dienst abgerufen werden kann. Andere mögliche Werte weisen auf eine Abmeldung, eine Anfrage oder einen Fehler hin.
+Ablaufdatum: nach 30 Sekunden bis zu einem Jahr
+Name: __utma
+Wert: 1564498958.1564498958.1564498958.1
+Verwendungszweck: Mit diesem Cookie kann man Ihr Verhalten auf der Website verfolgen und die Leistung messen. Das Cookie wird jedes Mal aktualisiert, wenn Informationen an Google Analytics gesendet werden.
+Ablaufdatum: nach 2 Jahren
+Name: __utmt
+Wert: 1
+Verwendungszweck: Das Cookie wird wie _gat_gtag_UA_<property-id> zum Drosseln der Anforderungsrate verwendet.
+Ablaufdatum: nach 10 Minuten
+Name: __utmb
+Wert: 3.10.1564498958
+Verwendungszweck: Dieses Cookie wird verwendet, um neue Sitzungen zu bestimmen. Es wird jedes Mal aktualisiert, wenn neue Daten bzw. Infos an Google Analytics gesendet werden.
+Ablaufdatum: nach 30 Minuten
+Name: __utmc
+Wert: 167421564
+Verwendungszweck: Dieses Cookie wird verwendet, um neue Sitzungen für wiederkehrende Besucher festzulegen. Dabei handelt es sich um ein Session-Cookie und wird nur solange gespeichert, bis Sie den Browser wieder schließen.
+Ablaufdatum: Nach Schließung des Browsers
+Name: __utmz
+Wert: m|utmccn=(referral)|utmcmd=referral|utmcct=/
+Verwendungszweck: Das Cookie wird verwendet, um die Quelle des Besucheraufkommens auf unserer Website zu identifizieren. Das heißt, das Cookie speichert, von wo Sie auf unsere Website gekommen sind. Das kann eine andere Seite bzw. eine Werbeschaltung gewesen sein.
+Ablaufdatum: nach 6 Monaten
+Name: __utmv
+Wert: keine Angabe
+Verwendungszweck: Das Cookie wird verwendet, um benutzerdefinierte Userdaten zu speichern. Es wird immer aktualisiert, wenn Informationen an Google Analytics gesendet werden.
+Ablaufdatum: nach 2 Jahren
+Anmerkung: Diese Aufzählung kann keinen Anspruch auf Vollständigkeit erheben, da Google die Wahl ihrer Cookies immer wieder auch verändert.
+Hier zeigen wir Ihnen einen Überblick über die wichtigsten Daten, die mit Google Analytics erhoben werden:
+Heatmaps: Google legt sogenannte Heatmaps an. Über Heatmaps sieht man genau jene Bereiche, die Sie anklicken. So bekommen wir Informationen, wo Sie auf unserer Seite „unterwegs“ sind.
+Sitzungsdauer: Als Sitzungsdauer bezeichnet Google die Zeit, die Sie auf unserer Seite verbringen, ohne die Seite zu verlassen. Wenn Sie 20 Minuten inaktiv waren, endet die Sitzung automatisch.
+Absprungrate (engl. Bouncerate): Von einem Absprung ist die Rede, wenn Sie auf unserer Website nur eine Seite ansehen und dann unsere Website wieder verlassen.
+Kontoerstellung: Wenn Sie auf unserer Website ein Konto erstellen bzw. eine Bestellung machen, erhebt Google Analytics diese Daten.
+IP-Adresse: Die IP-Adresse wird nur in gekürzter Form dargestellt, damit keine eindeutige Zuordnung möglich ist.
+Standort: Über die IP-Adresse kann das Land und Ihr ungefährer Standort bestimmt werden. Diesen Vorgang bezeichnet man auch als IP- Standortbestimmung.
+Technische Informationen: Zu den technischen Informationen zählen unter anderem Ihr Browsertyp, Ihr Internetanbieter oder Ihre Bildschirmauflösung.
+Herkunftsquelle: Google Analytics beziehungsweise uns interessiert natürlich auch über welche Website oder welche Werbung Sie auf unsere Seite gekommen sind.
+Weitere Daten sind Kontaktdaten, etwaige Bewertungen, das Abspielen von Medien (z.B., wenn Sie ein Video über unsere Seite abspielen), das Teilen von Inhalten über Social Media oder das Hinzufügen zu Ihren Favoriten. Die Aufzählung hat keinen Vollständigkeitsanspruch und dient nur zu einer allgemeinen Orientierung der Datenspeicherung durch Google Analytics.
+Wie lange und wo werden die Daten gespeichert?
+Google hat Ihre Server auf der ganzen Welt verteilt. Die meisten Server befinden sich in Amerika und folglich werden Ihre Daten meist auf amerikanischen Servern gespeichert. Hier können Sie genau nachlesen wo sich die Google-Rechenzentren befinden: https://www.google.com/about/datacenters/inside/locations/?hl=de
+Ihre Daten werden auf verschiedenen physischen Datenträgern verteilt. Das hat den Vorteil, dass die Daten schneller abrufbar sind und vor Manipulation besser geschützt sind. In jedem Google-Rechenzentrum gibt es entsprechende Notfallprogramme für Ihre Daten. Wenn beispielsweise die Hardware bei Google ausfällt oder Naturkatastrophen Server lahmlegen, bleibt das Risiko einer Dienstunterbrechung bei Google dennoch gering.
+Die Aufbewahrungsdauer der Daten hängt von den verwendeten Properties ab. Bei der Verwendung der neueren Google Analytics 4-Properties ist die Aufbewahrungsdauer Ihrer Userdaten auf 14 Monate fix eingestellt. Für andere sogenannte Ereignisdaten haben wir die Möglichkeit eine Aufbewahrungsdauer von 2 Monaten oder 14 Monaten zu wählen.
+Bei Universal Analytics-Properties ist bei Google Analytics eine Aufbewahrungsdauer Ihrer Userdaten von 26 Monaten standardisiert eingestellt. Dann werden Ihre Userdaten gelöscht. Allerdings haben wir die Möglichkeit, die Aufbewahrungsdauer von Nutzdaten selbst zu wählen. Dafür stehen uns fünf Varianten zur Verfügung:
+Löschung nach 14 Monaten
+Löschung nach 26 Monaten
+Löschung nach 38 Monaten
+Löschung nach 50 Monaten
+Keine automatische Löschung
+Zusätzlich gibt es auch die Option, dass Daten erst dann gelöscht werden, wenn Sie innerhalb des von uns gewählten Zeitraums nicht mehr unsere Website besuchen. In diesem Fall wird die Aufbewahrungsdauer jedes Mal zurückgesetzt, wenn Sie unsere Website innerhalb des festgelegten Zeitraums wieder besuchen.
+Wenn der festgelegte Zeitraum abgelaufen ist, werden einmal im Monat die Daten gelöscht. Diese Aufbewahrungsdauer gilt für Ihre Daten, die mit Cookies, Usererkennung und Werbe-IDs (z.B. Cookies der DoubleClick-Domain) verknüpft sind. Berichtergebnisse basieren auf aggregierten Daten und werden unabhängig von Nutzerdaten gespeichert. Aggregierte Daten sind eine Zusammenschmelzung von Einzeldaten zu einer größeren Einheit.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Nach dem Datenschutzrecht der Europäischen Union haben Sie das Recht, Auskunft über Ihre Daten zu erhalten, sie zu aktualisieren, zu löschen oder einzuschränken. Mithilfe des Browser-Add-ons zur Deaktivierung von Google Analytics-JavaScript (ga.js, analytics.js, dc.js) verhindern Sie, dass Google Analytics Ihre Daten verwendet. Das Browser-Add-on können Sie unter https://tools.google.com/dlpage/gaoptout?hl=de runterladen und installieren. Beachten Sie bitte, dass durch dieses Add-on nur die Datenerhebung durch Google Analytics deaktiviert wird.
+Falls Sie grundsätzlich Cookies (unabhängig von Google Analytics) deaktivieren, löschen oder verwalten wollen, gibt es für jeden Browser eine eigene Anleitung:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Bitte beachten Sie, dass bei der Verwendung dieses Tools Daten von Ihnen auch außerhalb der EU gespeichert und verarbeitet werden können. Die meisten Drittstaaten (darunter auch die USA) gelten nach derzeitigem europäischen Datenschutzrecht als nicht sicher. Daten an unsichere Drittstaaten dürfen also nicht einfach übertragen, dort gespeichert und verarbeitet werden, sofern es keine passenden Garantien (wie etwa EU-Standardvertragsklauseln) zwischen uns und dem außereuropäischen Dienstleister gibt.
+Rechtsgrundlage
+Der Einsatz von Google Analytics setzt Ihre Einwilligung voraus, welche wir mit unserem Cookie Popup eingeholt haben. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Web-Analytics Tools vorkommen kann, dar.
+Zusätzlich zur Einwilligung besteht von unserer Seite ein berechtigtes Interesse daran, dass Verhalten der Websitebesucher zu analysieren und so unser Angebot technisch und wirtschaftlich zu verbessern. Mit Hilfe von Google Analytics erkennen wir Fehler der Website, können Attacken identifizieren und die Wirtschaftlichkeit verbessern. Die Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Wir hoffen, wir konnten Ihnen die wichtigsten Informationen rund um die Datenverarbeitung von Google Analytics näherbringen. Wenn Sie mehr über den Tracking-Dienst erfahren wollen, empfehlen wir diese beiden Links: http://www.google.com/analytics/terms/de.html und https://support.google.com/analytics/answer/6004245?hl=de.
+
+ Google Analytics IP-Anonymisierung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir haben auf dieser Webseite die IP-Adressen-Anonymisierung von Google Analytics implementiert. Diese Funktion wurde von Google entwickelt, damit diese Webseite die geltenden Datenschutzbestimmungen und Empfehlungen der lokalen Datenschutzbehörden einhalten kann, wenn diese eine Speicherung der vollständigen IP-Adresse untersagen. Die Anonymisierung bzw. Maskierung der IP findet statt, sobald die IP-Adressen im Google Analytics-Datenerfassungsnetzwerk eintreffen und bevor eine Speicherung oder Verarbeitung der Daten stattfindet.
+Mehr Informationen zur IP-Anonymisierung finden Sie auf https://support.google.com/analytics/answer/2763052?hl=de.
+
+ Google Analytics Berichte zu demografischen Merkmalen und Interessen
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir haben in Google Analytics die Funktionen für Werbeberichte eingeschaltet. Die Berichte zu demografischen Merkmalen und Interessen enthalten Angaben zu Alter, Geschlecht und Interessen. Damit können wir uns – ohne diese Daten einzelnen Personen zuordnen zu können – ein besseres Bild von unseren Nutzern machen. Mehr über die Werbefunktionen erfahren Sie auf https://support.google.com/analytics/answer/3450482?hl=de_AT&utm_id=ad.
+Sie können die Nutzung der Aktivitäten und Informationen Ihres Google Kontos unter “Einstellungen für Werbung” auf https://adssettings.google.com/authenticated per Checkbox beenden.
+
+ Google Analytics Deaktivierungslink
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wenn Sie auf folgenden Deaktivierungslink klicken, können Sie verhindern, dass Google weitere Besuche auf dieser Webseite erfasst. Achtung: Das Löschen von Cookies, die Nutzung des Inkognito/Privatmodus Ihres Browsers, oder die Nutzung eines anderen Browsers führt dazu, dass wieder Daten erhoben werden.
+Google Analytics deaktivieren
+
+ Google Analytics Zusatz zur Datenverarbeitung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir haben mit Google einen Direktkundenvertrag zur Verwendung von Google Analytics abgeschlossen, indem wir den “Zusatz zur Datenverarbeitung” in Google Analytics akzeptiert haben.
+Mehr über den Zusatz zur Datenverarbeitung für Google Analytics finden Sie hier: https://support.google.com/analytics/answer/3379636?hl=de&utm_id=ad
+
+ Google Analytics Google-Signale Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir haben in Google Analytics die Google-Signale aktiviert. So werden die bestehenden Google-Analytics-Funktionen (Werbeberichte, Remarketing, gerätübergreifende Berichte und Berichte zu Interessen und demografische Merkmale) aktualisiert, um zusammengefasste und anonymisierte Daten von Ihnen zu erhalten, sofern Sie personalisierte Anzeigen in Ihrem Google-Konto erlaubt haben.
+Das besondere daran ist, dass es sich dabei um ein Cross-Device-Tracking handelt. Das heißt Ihre Daten können geräteübergreifend analysiert werden. Durch die Aktivierung von Google-Signale werden Daten erfasst und mit dem Google-Konto verknüpft. Google kann dadurch zum Beispiel erkennen, wenn Sie auf unsere Webseite über ein Smartphone ein Produkt ansehen und erst später über einen Laptop das Produkt kaufen. Dank der Aktivierung von Google-Signale können wir gerätübergreifende Remarketing-Kampagnen starten, die sonst in dieser Form nicht möglich wären. Remarketing bedeutet, dass wir Ihnen auch auf anderen Webseiten unser Angebot zeigen können.
+In Google Analytics werden zudem durch die Google-Signale weitere Besucherdaten wie Standort, Suchverlauf, YouTube-Verlauf und Daten über Ihre Handlungen auf unserer Webseite, erfasst. Wir erhalten dadurch von Google bessere Werbeberichte und nützlichere Angaben zu Ihren Interessen und demografischen Merkmalen. Dazu gehören Ihr Alter, welche Sprache sie sprechen, wo Sie wohnen oder welchem Geschlecht Sie angehören. Weiters kommen auch noch soziale Kriterien wie Ihr Beruf, Ihr Familienstand oder Ihr Einkommen hinzu. All diese Merkmal helfen Google Analytics Personengruppen bzw. Zielgruppen zu definieren.
+Die Berichte helfen uns auch Ihr Verhalten, Ihre Wünsche und Interessen besser einschätzen zu können. Dadurch können wir unsere Dienstleistungen und Produkte für Sie optimieren und anpassen. Diese Daten laufen standardmäßig nach 26 Monaten ab. Bitte beachten Sie, dass diese Datenerfassung nur erfolgt, wenn Sie personalisierte Werbung in Ihrem Google-Konto zugelassen haben. Es handelt sich dabei immer um zusammengefasste und anonyme Daten und nie um Daten einzelner Personen. In Ihrem Google-Konto können Sie diese Daten verwalten bzw. auch löschen.
+
+ Normal
+
+ 0
+
+ 21
+
+ false
+
+ false
+
+ false
+
+ DE
+
+ X-NONE
+
+ X-NONE
+
+ 7. MonsterInsights Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+MonsterInsights Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Auswertung der Besucherinformationen zur Optimierung des Webangebots.
+📓 Verarbeitete Daten: Zugriffsstatistiken, die Daten wie Standorte der Zugriffe, Gerätedaten, Zugriffsdauer und Zeitpunkt, Navigationsverhalten, Klickverhalten und IP-Adressen enthalten. Mehr Details dazu finden Sie weiter unten bzw. in der Google Analytics Datenschutzerklärung.
+📅 Speicherdauer: abhängig von den verwendeten Google Analytics Properties
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist MonsterInsights?
+Wir nutzen auf unserer Website das „Google Analytics Plugin for WordPress“ des amerikanischen Unternehmens MonsterInsights LCC (7732 Maywood Crest Dr, West Palm Beach, Florida, 33412, USA). Das Plugin wird meist einfach nur MonsterInsights genannt. Mit Hilfe des Plugins können Ihre Nutzerdaten bei Google Analytics gespeichert, verwaltet und verarbeitet werden. Etwa wenn Sie auf einen Link klicken, speichert Google Analytics diesen “Klick” über das eingebundene Plugin und bietet durch solche gesammelten Daten aufschlussreiche Webanalysen an. In dieser Datenschutzerklärung gehen wir näher auf MonsterInsights ein und informieren Sie welche Daten wo und wie gespeichert werden.
+MonsterInsights nutzt für seine Dienste die Google Analytics Reporting API, um Daten über unsere Website bzw. das Besucherverhalten zu sammeln. Diese Daten werden ausgewertet und erscheinen dann als Diagramme, Grafiken und Tabellen direkt auf unserem WordPress-Dashboard. Damit das Plugin funktioniert, wird ein Google-Analytics-Trackingcode in unsere WordPress-Seite eingebunden. Das Plugin bietet Funktionen wie etwa Seitenanalysen, Statistiken oder Werbeanzeigen-Verfolgung. Wir können also mit Hilfe des Plug-ins Tracking-Funktionen wie zum Beispiel Event-Tracking, eCommerce-Tracking oder Outbound-Link-Tracking ganz einfach und ohne Programmierkenntnisse für unsere Website einrichten. Alle wichtigen Statistiken sehen wir zusammengefasst an einem einzigen Ort direkt in unserem Dashboard.
+Warum verwenden wir MonsterInsights?
+MonsterInsights macht den Umgang mit Google Analytics für uns deutlich einfacher, da wir die wichtigsten Analysen gleich auf unserem Dashboard zu Gesicht bekommen und nicht immer zu Google Analytics wechseln müssen. Google Analytics bietet uns viele wichtige Daten über das Besucherverhalten auf unserer Website. Mit Hilfe dieser Daten können wir unsere Website bzw. unser Angebot besser an Ihre Wünsche anpassen. Die erhaltenen Statistiken nutzen wir, um unsere Website interessanter zu machen und etwaige Werbeanzeigen zielgerichtet einzusetzen.
+Welche Daten werden durch MonsterInsights bzw. Google Analytics gespeichert?
+Durch die Installation des MonsterInsights-Plugins wird ein Google-Analytics-Trackingcode in unsere WordPress-Website eingebunden. Damit erstellt Google Analytics eine zufällige, eindeutige ID, die mit Ihrem Browser-Cookie verbunden ist. Auf diese Weise werden Sie als neuer Besucher unserer Website erkannt. Besuchen Sie uns wieder, werden Sie als sogenannter “wiederkehrender” User erkannt. Mit dieser User-ID werden dann alle gesammelten Daten gespeichert. So werden pseudonyme Userprofile erstellt und ausgewertet. Ihre Handlungen auf unserer Website werden in Cookies und App-Instanz-IDs gespeichert. Sofern Sie mit anderen Google-Diensten verknüpft sind, können die generierten Daten auch mit Drittanbieter-Cookies verbunden werden.
+Das gesamte Tracking wird von Google Analytics durchgeführt und gespeichert. MonsterInsights gibt alle Daten direkt zu Google Analytics weiter, um sie im Auftrag von MonsterInsights zu verarbeiten. Google gibt diese Daten nur dann weiter, wenn wir es erlauben oder es gesetzlich erforderlich ist. MonsterInsights verwendet keine eigenen Cookies, um Daten zu speichern, sondern der von MonsterInsights hinzugefügte Code lädt Google Analytics, welches Cookies hinzufügt.
+Es wird zum Beispiel erhoben, von welcher Website Sie zu uns gekommen sind, auf welche Buttons und Links Sie klicken, wie lange Sie auf einer bestimmten Seite bleiben und wann Sie die Website wieder verlassen. Weiters wird auch Ihre IP-Adresse in gekürzter Form dargestellt und gespeichert, damit keine eindeutige Zuordnung möglich ist. Es kann über die IP-Adresse auch ungefähr Ihr Standort bestimmt werden und zudem werden auch technische Informationen wie Gerätetyp, Browsertyp, Internetanbieter oder die Bildschirmauflösung gespeichert.
+Wenn Sie Näheres über die Datenspeicherung und Datenverarbeitung wissen wollen, empfehlen wir Ihnen unsere allgemeine Datenschutzerklärung zu Google Analytics.
+Wie lange und wo werden die Daten gespeichert?
+MonsterInsights speichert die erhobenen Daten nicht, sondern leitet Sie an Google Analytics weiter. Dort werden die Daten auf den Servern von Google gespeichert. Diese Server sind weltweit verteilt, aber die meisten befinden sich in den USA. Unter dem Link https://www.google.com/about/datacenters/locations/?hl=de sehen Sie genau an welchen Standorten die Rechenzentren zu finden sind. Standardmäßig werden Ihre Daten bei Google 26 Monate aufbewahrt, doch es gibt für Sie auch die Möglichkeit zwischen verschiedenen Aufbewahrungszeiten zu wählen. Sehen Sie sich auch dazu unsere Google Analytics Datenschutzerklärung an. Die Aufbewahrungsdauer gilt für Daten, die mit Cookies, Nutzungserkennung und Werbe-ID verknüpft sind. Webanalysen, die in Form von Berichten erscheinen, entstehen durch aggregierte Daten und werden unabhängig von Ihren Userdaten gespeichert.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Sie haben jederzeit das Recht auf Auskunft, Aktualisierung, Löschung und Einschränkung Ihrer Daten. Wenn Sie das Browser-Add-on https://tools.google.com/dlpage/gaoptout?hl=de herunterladen und installieren, können Sie durch die Deaktivierung von Google-Analytics-JavaScript verhindern, dass Google Analytics Ihre Daten benutzt.
+Sie können aber auch grundsätzlich Cookies über Ihren Browser deaktivieren, verwalten oder löschen. Im Folgenden zeigen wir Ihnen die Anleitungen für die gängigsten Browser:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Rechtsgrundlage
+Der Einsatz von MonsterInsights setzt Ihre Einwilligung voraus, welche wir mit unserem Cookie Popup eingeholt haben. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Web-Analytics Tools vorkommen kann, dar.
+Zusätzlich zur Einwilligung besteht von unserer Seite ein berechtigtes Interesse daran, dass Verhalten der Websitebesucher zu analysieren und so unser Angebot technisch und wirtschaftlich zu verbessern. Mit Hilfe von MonsterInsights erkennen wir Fehler der Website, können Attacken identifizieren und die Wirtschaftlichkeit verbessern. Die Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Wenn Sie mehr über das WordPress-Plugin MonsterInsights erfahren wollen, empfehlen wir Ihnen die Website https://www.monsterinsights.com/. Für nähere Informationen über die Datenverarbeitung durch Google Analytics empfehlen wir unsere Google Analytics Datenschutzerklärung, Googles Informationsseite unter https://support.google.com/analytics/answer/6004245?hl=de und die Website zu den Nutzungsbedingungen für Google Analytics unter https://marketingplatform.google.com/about/analytics/terms/de/.
+
+ 8. WP Statistics Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+WP Statistics Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Auswertung der Besucherinformationen zur Optimierung des Webangebots.
+📓 Verarbeitete Daten: Zugriffsstatistiken, die Daten wie etwa anonymisierte IP-Adressen, Dauer des Websitebesuchs oder Ihr Klickverhalten enthalten.
+📅 Speicherdauer: die Daten werden gespeichert, bis sie für die Zwecke nicht mehr benötigt werden
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist WP Statistics?
+Wir verwenden auf unserer Website das Analyse-Plugin WP Statistics. Entwickelt wurde dieses Plugin von Veronalabs (5460 W Main St, Verona, NY 13478, Vereinigte Staaten), einem amerikanischen Software-Unternehmen. Mit diesem Plugin erhalten wir einfache Statistiken, wie Sie als User unsere Website nutzen. In dieser Datenschutzerklärung gehen wir näher auf das Analyse-Tool ein und zeigen Ihnen, welche Daten wo und wie lange gespeichert werden.
+Bei diesem Plugin handelt es sich um eine Analyse-Software, die speziell für Websites entwickelt wurde, die das Content-Management-System WordPress verwenden. WordPress hilft uns, unsere Website auch ohne Programmierkenntnisse leicht zu bearbeiten. WP Statistics kann etwa Daten darüber sammeln, wie lange Sie auf unserer Website verweilen, welche Unterseiten Sie besuchen, wie viele Besucher auf der Website sind oder von welcher Website Sie zu uns gekommen sind. Es werden durch WP Statistics keine Cookies gesetzt und Sie können als Person durch die erhobenen Daten nicht identifiziert werden.
+Warum verwenden wir WP Statistics?
+Mithilfe von WP Statistics erhalten wir einfache Statistiken, die uns dabei helfen, unsere Website für Sie noch interessanter und besser zu machen. Unsere Website und die darauf angebotenen Inhalte, Produkte und/oder Dienstleistungen sollen Ihren Anforderungen und Wünschen so gut wie möglich entsprechen. Um dieses Ziel zu erreichen, müssen wir natürlich auch in Erfahrung bringen, wo wir Verbesserungen und Änderungen vornehmen sollen. Die erhaltenen Statistiken, helfen uns dabei, diesem Ziel einen Schritt näher zu kommen.
+Welche Daten werden von WP Statistics gespeichert?
+WP Statistics setzt keine Cookies und durch die erhobenen Daten werden nur in anonymisierter Form Statistiken über die Verwendung unserer Website erstellt. WP Statistics anonymisiert auch Ihre IP-Adresse. Sie als Person können nicht identifiziert werden.
+Durch WP Statistics werden Besucher-Daten (sogenannte Visitos´Data) erhoben, wenn sich Ihr Webbrowser mit unserem Webserver verbindet. Diese Daten werden in unserer Datenbank auf unserem Server gespeichert. Dazu zählen beispielsweise:
+die Adresse (URL) der aufgerufenen Webseite
+Browser und Browserversion
+das verwendete Betriebssystem
+die Adresse (URL) der zuvor besuchten Seite (Referrer URL)
+den Hostname und die IP-Adresse des Geräts von welchem aus zugegriffen wird
+Datum und Uhrzeit
+Informationen zu Land/Stadt
+Anzahl der Besucher, die von einer Suchmaschine kommen
+Dauer des Webseitenaufenthalts
+Klicks auf der Website
+Die Daten werden nicht weitergegeben und auch nicht verkauft.
+Wie lange und wo werden die Daten gespeichert?
+Alle Daten werden lokal auf unserem Webserver gespeichert. Die Daten werden solange auf unserem Webserver gespeichert, bis sie für die oben angeführten Zwecke nicht mehr benötigt werden.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Sie haben jederzeit das Recht auf Auskunft, Berichtigung bzw. Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Sie können zudem auch jederzeit die Einwilligung zur Verarbeitung von Daten widerrufen.
+Rechtsgrundlage
+Der Einsatz von WP Statistics setzt Ihre Einwilligung voraus, welche wir mit unserem Cookie Popup eingeholt haben. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Web-Analytics Tools vorkommen kann, dar.
+Zusätzlich zur Einwilligung besteht von unserer Seite ein berechtigtes Interesse daran, dass Verhalten der Websitebesucher zu analysieren und so unser Angebot technisch und wirtschaftlich zu verbessern. Mit Hilfe von WP Statistics erkennen wir Fehler der Website, können Attacken identifizieren und die Wirtschaftlichkeit verbessern. Die Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Wir haben Ihnen nun die wichtigsten Informationen zur Datenverarbeitung durch WP Analytics mitgeteilt. Dadurch, dass das Plugin keine Cookies verwendet und die Daten zur statistischen Auswertung lokal im Webserver gespeichert werden, wird hier mit Ihren Daten sehr sorgsam umgegangen. Wenn Sie mehr über WP Analytics erfahren wollen, sollten Sie sich die Datenschutzerklärung des Unternehmens unter https://wp-statistics.com/privacy-and-policy/ ansehen.
+
+ 9. Online-Marketing
+
+ Online-Marketing Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Auswertung der Besucherinformationen zur Optimierung des Webangebots.
+📓 Verarbeitete Daten: Zugriffsstatistiken, die Daten wie Standorte der Zugriffe, Gerätedaten, Zugriffsdauer und Zeitpunkt, Navigationsverhalten, Klickverhalten und IP-Adressen enthalten. Auch personenbezogene Daten wie Name oder E-Mail-Adresse können verarbeitet werden. Mehr Details dazu finden Sie beim jeweils eingesetzten Online-Marketing-Tool.
+📅 Speicherdauer: abhängig von den eingesetzten Online-Marketing-Tools
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit.f DSGVO (Berechtigte Interessen)
+
+Was ist Online-Marketing?
+Unter Online-Marketing bezeichnet man alle Maßnahmen, die online durchgeführt werden, um Marketingziele wie etwa die Steigerung der Markenbekanntheit oder einen Geschäftsabschluss zu erreichen. Weiters zielen unserer Online-Marketing-Maßnahmen darauf ab, Menschen auf unsere Website aufmerksam zu machen. Um unser Angebot vielen interessierten Menschen zeigen zu können, betreiben wir also Online-Marketing. Meistens handelt es sich dabei um Onlinewerbung, Content-Marketing oder Suchmaschinenoptimierung. Damit wir Online-Marketing effizient und zielgerecht einsetzen können, werden auch personenbezogene Daten gespeichert und verarbeitet. Die Daten helfen uns einerseits unsere Inhalte nur wirklich jenen Personen zu zeigen, die sich dafür auch interessieren und andererseits können wir den Werbeerfolg unserer Online-Marketing-Maßnahmen messen.
+Warum nutzen wir Online-Marketing-Tools?
+Wir wollen jedem Menschen, der sich für unser Angebot interessiert, unsere Website zeigen. Uns ist bewusst, dass dies ohne bewusst gesetzte Maßnahmen nicht möglich ist. Darum machen wir Online-Marketing. Es gibt verschiedene Tools, die uns die Arbeit an unseren Online-Marketing-Maßnahmen erleichtern und zusätzlich über Daten stets Verbesserungsvorschläge liefern. So können wir unsere Kampagnen genauer an unsere Zielgruppe richten. Zweck dieser eingesetzten Online-Marketing-Tools ist also letztlich die Optimierung unseres Angebots.
+Welche Daten werden verarbeitet?
+Damit unser Online-Marketing funktioniert und der Erfolg der Maßnahmen gemessen werden kann, werden Userprofile erstellt und Daten beispielsweise in Cookies (das sind kleine Text-Dateien) gespeichert. Mit Hilfe dieser Daten können wir nicht nur Werbung in klassischer Hinsicht schalten, sondern auch direkt auf unserer Website, unsere Inhalte so darstellen, wie es Ihnen am liebsten ist. Dafür gibt es verschiedene Drittanbieter-Tools, die diese Funktionen anbieten und entsprechend auch Daten von Ihnen sammeln und speichern. In den benannten Cookies wird zum Beispiel gespeichert, welche Webseiten Sie auf unserer Website besucht haben, wie lange Sie diese Seiten angesehen haben, welche Links oder Buttons Sie klicken oder von welcher Website sie zu uns gekommen sind. Zusätzlich können auch technische Informationen gespeichert werden. Etwa Ihre IP-Adresse, welchen Browser Sie nutzen, von welchem Endgerät Sie unsere Website besuchen oder die Uhrzeit, wann Sie unserer Website aufgerufen haben und wann Sie sie wieder verlassen haben. Wenn Sie eingewilligt haben, dass wir auch Ihren Standort bestimmen dürfen, können wir auch diesen speichern und verarbeiten.
+Ihre IP-Adresse wird in pseudonymisierter Form (also gekürzt) gespeichert. Eindeutige Daten, die Sie als Person direkt identifizieren, wie etwa Name, Adresse oder E-Mail-Adresse, werden im Rahmen der Werbe- und Online-Marketing-Verfahren auch nur in pseudonymisierter Form gespeichert. Wir können Sie also nicht als Person identifizieren, sondern wir haben nur die pseudonymisierten, gespeicherten Informationen in den Userprofilen gespeichert.
+Die Cookies können unter Umständen auch auf anderen Websites, die mit denselben Werbetools arbeiten, eingesetzt, analysiert und für Werbezwecke verwendet werden. Die Daten können dann auch auf den Servern der Werbetools-Anbieter gespeichert werden.
+In Ausnahmefällen können auch eindeutige Daten (Namen, Mail-Adresse usw.) in den Userprofilen gespeichert werden. Zu dieser Speicherung kommt es etwa, wenn Sie Mitglied eines Social-Media-Kanals sind, dass wir für unsere Online-Marketing-Maßnahmen nutzen und das Netzwerk bereits früher eingegangene Daten mit dem Userprofil verbindet.
+Bei allen von uns verwendeten Werbetools, die Daten von Ihnen auf deren Servern speichert, erhalten wir immer nur zusammengefasste Informationen und nie Daten, die Sie als Einzelperson erkennbar machen. Die Daten zeigen lediglich, wie gut gesetzte Werbemaßnahmen funktionierten. Zum Beispiel sehen wir, welche Maßnahmen Sie oder andere User dazu bewogen haben, auf unsere Website zu kommen und dort eine Dienstleistung oder ein Produkt zu erwerben. Anhand der Analysen können wir unser Werbeangebot in Zukunft verbessern und noch genauer an die Bedürfnisse und Wünsche interessierter Personen anpassen.
+Dauer der Datenverarbeitung
+Über die Dauer der Datenverarbeitung informieren wir Sie weiter unten, sofern wir weitere Informationen dazu haben. Generell verarbeiten wir personenbezogene Daten nur so lange wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist. Daten, die in Cookies gespeichert werden, werden unterschiedlich lange gespeichert. Manche Cookies werden bereits nach dem Verlassen der Website wieder gelöscht, anderen können über einige Jahre in Ihrem Browser gespeichert sein. In den jeweiligen Datenschutzerklärungen der einzelnen Anbieter erhalten Sie in der Regel genaue Informationen über die einzelnen Cookies, die der Anbieter verwendet.
+Widerufsrecht
+Sie haben auch jederzeit das Recht und die Möglichkeit Ihre Einwilligung zur Verwendung von Cookies bzw. Drittanbietern zu widerrufen. Das funktioniert entweder über unser Cookie-Management-Tool oder über andere Opt-Out-Funktionen. Zum Bespiel können Sie auch die Datenerfassung durch Cookies verhindern, indem Sie in Ihrem Browser die Cookies verwalten, deaktivieren oder löschen. Die Rechtmäßigkeit der Verarbeitung bis zum Widerruf bleibt unberührt.
+Da bei Online-Marketing-Tools Cookies zum Einsatz kommen können, empfehlen wir Ihnen auch unsere allgemeine Datenschutzerklärung über Cookies. Um zu erfahren, welche Daten von Ihnen genau gespeichert und verarbeitet werden, sollten Sie die Datenschutzerklärungen der jeweiligen Tools durchlesen.
+Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass Drittanbieter eingesetzt werden dürfen, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Online-Marketing-Tools vorkommen kann, dar.
+Von unserer Seite besteht zudem ein berechtigtes Interesse, Online-Marketing-Maßnahmen zu messen, um mithilfe der gewonnenen Daten unser Angebot und unsere Maßnahmen zu optimieren. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Informationen zu speziellen Online-Marketing-Tools erhalten Sie – sofern vorhanden – in den folgenden Abschnitten.
+
+ HubSpot Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir verwenden auf unserer Website HubSpot, ein Tool für digitales Marketing. Dienstanbieter ist das amerikanische Unternehmen HubSpot, Inc., 25 First St 2nd Floor Cambridge, MA, USA. Das Unternehmen hat unter anderem auch in Irland einen Firmensitz mit der Adresse 1 Sir John Rogerson’s Quay, Dublin 2, Irland. Mehr über die Daten, die durch die Verwendung von HubSpot verarbeitet werden, erfahren Sie in der Privacy Policy auf https://legal.hubspot.com/de/privacy-policy . 
+
+ 10. E-Mail-Marketing
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+E-Mail-Marketing Zusammenfassung 
+👥 Betroffene: Newsletter-Abonnenten
+🤝 Zweck: Direktwerbung per E-Mail, Benachrichtigung über systemrelevante Ereignisse
+📓 Verarbeitete Daten: Eingegebene Daten bei der Registrierung jedoch mindestens die E-Mail-Adresse. Mehr Details dazu finden Sie beim jeweils eingesetzten E-Mail-Marketing-Tool.
+📅 Speicherdauer: Dauer des Bestehens des Abonnements
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (berechtigte Interessen)
+
+Was ist E-Mail-Marketing?
+Um Sie stets auf dem Laufenden zu halten, nutzen wir auch die Möglichkeit des E-Mail-Marketings. Dabei werden, sofern Sie dem Empfang unserer E-Mails bzw. Newsletter zugestimmt haben, auch Daten von Ihnen verarbeitet und gespeichert. E-Mail-Marketing ist ein Teilbereich des Online-Marketings. Dabei werden Neuigkeiten oder allgemeine Informationen über ein Unternehmen, Produkte oder Dienstleistungen per E-Mail an eine bestimmte Gruppe an Menschen, die sich dafür interessieren, gesendet.
+Wenn Sie an unserem E-Mail-Marketing (meist per Newsletter) teilnehmen wollen, müssen Sie sich im Normalfall einfach nur mit Ihrer E-Mail-Adresse anmelden. Dafür füllen Sie ein Online-Formular aus und senden es ab. Es kann aber auch vorkommen, dass wir Sie etwa um Ihre Anrede und Ihren Namen bitten, damit wir Sie auch persönlich anschreiben können.
+Grundsätzlich funktioniert das Anmelden zu Newslettern mit Hilfe des sogenannten „Double-Opt-In-Verfahrens“. Nachdem Sie sich für unseren Newsletter auf unserer Website angemeldet haben, bekommen Sie eine E-Mail, über die Sie die Newsletter-Anmeldung bestätigen. So wird sichergestellt, dass Ihnen die E-Mail-Adresse gehört und sich niemand mit einer fremden E-Mail-Adresse angemeldet hat. Wir oder ein von uns verwendetes Benachrichtigungs-Tool protokolliert jede einzelne Anmeldung. Dies ist nötig, damit wir den rechtlich korrekten Anmeldevorgang auch nachweisen können. Dabei wird in der Regel der Zeitpunkt der Anmeldung, der Zeitpunkt der Anmeldebestätigung und Ihre IP-Adresse gespeichert. Zusätzlich wird auch protokolliert, wenn Sie Änderungen Ihrer gespeicherten Daten vornehmen.
+Warum nutzen wir E-Mail-Marketing?
+Wir wollen natürlich mit Ihnen in Kontakt bleiben und Ihnen stets die wichtigsten Neuigkeiten über unser Unternehmen präsentieren. Dafür nutzen wir unter anderem E-Mail-Marketing – oft auch nur “Newsletter” bezeichnet – als wesentlichen Bestandteil unseres Online-Marketings. Sofern Sie sich damit einverstanden erklären oder es gesetzlich erlaubt ist, schicken wir Ihnen Newsletter, System-E-Mails oder andere Benachrichtigungen per E-Mail. Wenn wir im folgenden Text den Begriff „Newsletter“ verwenden, meinen wir damit hauptsächlich regelmäßig versandte E-Mails. Natürlich wollen wir Sie mit unseren Newsletter in keiner Weise belästigen. Darum sind wir wirklich stets bemüht, nur relevante und interessante Inhalte zu bieten. So erfahren Sie etwa mehr über unser Unternehmen, unsere Leistungen oder Produkte. Da wir unsere Angebote auch immer verbessern, erfahren Sie über unseren Newsletter auch immer, wenn es Neuigkeiten gibt oder wir gerade spezielle, lukrative Aktionen anbieten. Sofern wir einen Dienstleister, der ein professionelles Versand-Tool anbietet, für unser E-Mail-Marketing beauftragen, machen wir das, um Ihnen schnelle und sichere Newsletter bieten zu können. Zweck unseres E-Mail-Marketings ist grundsätzlich, Sie über neue Angebote zu informieren und auch unseren unternehmerischen Zielen näher zu kommen.
+Welche Daten werden verarbeitet?
+Wenn Sie über unsere Website Abonnent unseres Newsletters werden, bestätigen Sie per E-Mail die Mitgliedschaft in einer E-Mail-Liste. Neben IP-Adresse und E-Mail-Adresse können auch Ihre Anrede, Ihr Name, Ihre Adresse und Ihre Telefonnummer gespeichert werden. Allerdings nur, wenn Sie dieser Datenspeicherungen zustimmen. Die als solche markierten Daten sind notwendig, damit Sie an dem angebotenen Dienst teilnehmen können. Die Angabe ist freiwillig, die Nichtangabe führt jedoch dazu, dass Sie den Dienst nicht nutzen können. Zusätzlich können etwa auch Informationen zu Ihrem Gerät oder zu Ihren bevorzugten Inhalten auf unserer Website gespeichert werden. Mehr zur Speicherung von Daten, wenn Sie eine Website besuchen, finden Sie im Abschnitt “Automatische Datenspeicherung”.
+Dauer der Datenverarbeitung
+Wenn Sie Ihre E-Mail-Adresse aus unserem E-Mail/Newsletter-Verteiler austragen, dürfen wir Ihre Adresse bis zu drei Jahren auf Grundlage unserer berechtigten Interessen speichern, damit wir Ihre damalige Einwilligung noch nachweisen können. Verarbeiten dürfen wir diese Daten nur, wenn wir uns gegen etwaige Ansprüche wehren müssen.
+Wenn Sie allerdings bestätigen, dass Sie uns die Einwilligung zur Newsletter-Anmeldung gegeben haben, können Sie jederzeit einen individuellen Löschantrag stellen. Widersprechen Sie der Einwilligung dauerhaft, behalten wir uns das Recht vor, Ihre E-Mail-Adresse in einer Sperrliste zu speichern. Solange Sie freiwillig unseren Newsletter abonniert haben, solange behalten wir selbstverständlich auch Ihre E-Mail-Adresse.
+Widerruf – wie kann ich mein Abo kündigen?
+Sie haben jederzeit die Möglichkeit Ihre Newsletter-Anmeldung zu kündigen. Dafür müssen Sie lediglich Ihre Einwilligung zur Newsletter-Anmeldung widerrufen. Das dauert im Normalfall nur wenige Sekunden bzw. einen oder zwei Klicks. Meistens finden Sie direkt am Ende jeder E-Mail einen Link, um das Newsletter-Abonnement zu kündigen. Wenn der Link im Newsletter wirklich nicht zu finden ist, kontaktieren Sie uns bitte per Mail und wir werden Ihr Newsletter-Abo unverzüglich kündigen.
+Rechtsgrundlage
+Das Versenden unseres Newsletters erfolgt auf Grundlage Ihrer Einwilligung (Artikel 6 Abs. 1 lit. a DSGVO). Das heißt, wir dürfen Ihnen nur dann einen Newsletter schicken, wenn Sie sich zuvor aktiv dafür angemeldet haben. Wenn eine Einwilligung nicht nötig ist, dann erfolgt der Newsletter-Versand auf Grundlage des berechtigten Interesses am Direktmarketing (Artikel 6 Abs. 1 lit. f), sofern dies rechtlich erlaubt ist. Auch wenn wir einen Dienstleister beauftragen, passiert dies auf der Grundlage unseres berechtigten Interesses. Ihren Registrierungsprozess zeichnen wir auf, damit wir stets nachweisen können, dass dieser unseren Gesetzen entspricht.
+Informationen zu speziellen E-Mail-Marketing Diensten und wie diese personenbezogene Daten verarbeiten, erfahren Sie – sofern vorhanden – in den folgenden Abschnitten.
+
+ 11. Google Ads (Google AdWords) Conversion-Tracking Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Google Ads (Google AdWords) Conversion-Tracking Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: wirtschaftlicher Erfolg und die Optimierung unserer Serviceleistung.
+📓 Verarbeitete Daten: Zugriffsstatistiken, die Daten wie Standorte der Zugriffe, Gerätedaten, Zugriffsdauer und Zeitpunkt, Navigationsverhalten, Klickverhalten und IP-Adressen enthalten. Auch personenbezogene Daten wie Name oder E-Mail-Adresse können verarbeitet werden.
+📅 Speicherdauer: Conversion-Cookies laufen in der Regel nach 30 Tagen ab und übermitteln keine personenbezogenen Daten
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit.f DSGVO (Berechtigte Interessen)
+
+Was ist Google Ads Conversion-Tracking?
+Wir verwenden als Online-Marketing-Maßnahme Google Ads (früher Google AdWords), um unsere Produkte und Dienstleistungen zu bewerben. So wollen wir im Internet mehr Menschen auf die hohe Qualität unserer Angebote aufmerksam machen. Im Rahmen unserer Werbe-Maßnahmen durch Google Ads verwenden wir auf unserer Website das Conversion-Tracking der Firma Google Inc. In Europa ist allerdings für alle Google-Dienste das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) verantwortlich. Mithilfe dieses kostenlosen Tracking-Tools können wir unser Werbeangebot an Ihre Interessen und Bedürfnisse besser anpassen. Im Folgenden Artikel wollen wir genauer darauf eingehen, warum wir Conversion-Tracking benutzen, welche Daten dabei gespeichert werden und wie Sie diese Datenspeicherung verhindern.
+Google Ads (früher Google AdWords) ist das hauseigene Online-Werbesystem der Firma Google Inc. Wir sind von der Qualität unseres Angebots überzeugt und wollen, dass so viele Menschen wie möglich unsere Webseite kennenlernen. Im Onlinebereich bietet Google Ads dafür die beste Plattform. Natürlich wollen wir auch einen genauen Überblick über den Kosten-Nutzen-Faktor unserer Werbeaktionen gewinnen. Darum verwenden wir das Conversion-Tracking-Tool von Google Ads.
+Doch was ist eine Conversion eigentlich? Eine Conversion entsteht, wenn Sie von einem rein interessierten Webseitenbesucher zu einem handelnden Besucher werden. Dies passiert immer dann, wenn Sie auf unsere Anzeige klicken und im Anschluss eine andere Aktion ausführen, wie zum Beispiel unsere Webseite besuchen. Mit dem Conversion-Tracking-Tool von Google erfassen wir, was nach einem Klick eines Users auf unsere Google Ads-Anzeige geschieht. Zum Beispiel können wir so sehen, ob Produkte gekauft werden, Dienstleistungen in Anspruch genommen werden oder ob sich User für unseren Newsletter angemeldet haben.
+Warum verwenden wir Google Ads Conversion-Tracking auf unserer Website?
+Wir setzen Google Ads ein, um auch auf anderen Webseiten auf unser Angebot aufmerksam zu machen. Ziel ist es, dass unsere Werbekampagnen wirklich auch nur jene Menschen erreichen, die sich für unsere Angebote interessieren. Mit dem Conversion-Tracking Tool sehen wir welche Keywords, Anzeigen, Anzeigengruppen und Kampagnen zu den gewünschten Kundenaktionen führen. Wir sehen wie viele Kunden mit unseren Anzeigen auf einem Gerät interagieren und dann eine Conversion durchführen. Durch diese Daten können wir unseren Kosten-Nutzen-Faktor berechnen, den Erfolg einzelner Werbemaßnahmen messen und folglich unsere Online-Marketing-Maßnahmen optimieren. Wir können weiters mithilfe der gewonnenen Daten unsere Webseite für Sie interessanter gestalten und unser Werbeangebot noch individueller an Ihre Bedürfnisse anpassen.
+Welche Daten werden bei Google Ads Conversion-Tracking gespeichert?
+Wir haben ein Conversion-Tracking-Tag oder Code-Snippet auf unserer Webseite eingebunden, um gewisse User-Aktionen besser analysieren zu können. Wenn Sie nun eine unserer Google Ads-Anzeigen anklicken, wird auf Ihrem Computer (meist im Browser) oder Mobilgerät das Cookie „Conversion“ von einer Google-Domain gespeichert. Cookies sind kleine Textdateien, die Informationen auf Ihrem Computer speichern.
+Hier die Daten der wichtigsten Cookies für das Conversion-Tracking von Google:
+Name: Conversion
+Wert: EhMI_aySuoyv4gIVled3Ch0llweVGAEgt-mr6aXd7dYlSAGQ311285538-3
+Verwendungszweck: Dieses Cookie speichert jede Conversion, die Sie auf unserer Seite machen, nachdem Sie über eine Google Ad zu uns gekommen sind.
+Ablaufdatum: nach 3 Monaten
+Name: _gac
+Wert: 1.1558695989.EAIaIQobChMIiOmEgYO04gIVj5AYCh2CBAPrEAAYASAAEgIYQfD_BwE
+Verwendungszweck: Dies ist ein klassisches Google Analytics-Cookie und dient dem Erfassen verschiedener Handlungen auf unserer Webseite.
+Ablaufdatum: nach 3 Monaten
+Anmerkung: Das Cookie _gac scheint nur in Verbindung mit Google Analytics auf. Die oben angeführte Aufzählung hat keinen Anspruch auf Vollständigkeit, da Google für analytische Auswertung immer wieder auch andere Cookies verwendet.
+Sobald Sie eine Aktion auf unserer Webseite abschließen, erkennt Google das Cookie und speichert Ihre Handlung als sogenannte Conversion. Solange Sie auf unserer Webseite surfen und das Cookie noch nicht abgelaufen ist, erkennen wir und Google, dass Sie über unsere Google-Ads-Anzeige zu uns gefunden haben. Das Cookie wird ausgelesen und mit den Conversion-Daten zurück an Google Ads gesendet. Es ist auch möglich, dass noch andere Cookies zur Messung von Conversions verwendet werden. Das Conversion-Tracking von Google Ads kann mithilfe von Google Analytics noch verfeinert und verbessert werden. Bei Anzeigen, die Google an verschiedenen Orten im Web anzeigt, werden unter unserer Domain möglicherweise Cookies mit dem Namen “__gads” oder “_gac” gesetzt. Seit September 2017 werden diverse Kampagneninformationen von analytics.js mit dem _gac-Cookie gespeichert. Das Cookie speichert diese Daten, sobald Sie eine unserer Seiten aufrufen, für die die automatische Tag-Kennzeichnung von Google Ads eingerichtet wurde. Im Gegensatz zu Cookies, die für Google-Domains gesetzt werden, kann Google diese Conversion-Cookies nur lesen, wenn Sie sich auf unserer Webseite befinden. Wir erheben und erhalten keine personenbezogenen Daten. Wir bekommen von Google einen Bericht mit statistischen Auswertungen. So erfahren wir beispielsweise die Gesamtanzahl der User, die unsere Anzeige angeklickt haben und wir sehen, welche Werbemaßnahmen gut ankamen.
+Wie lange und wo werden die Daten gespeichert?
+An dieser Stelle wollen wir darauf hinweisen, dass wir keinen Einfluss darauf haben, wie Google die erhobenen Daten weiterverwendet. Laut Google werden die Daten verschlüsselt und auf sicheren Servern gespeichert. In den meisten Fällen laufen Conversion-Cookies nach 30 Tagen ab und übermitteln keine personenbezogenen Daten. Die Cookies mit dem Namen „Conversion“ und „_gac“ (das in Verbindung mit Google Analytics zum Einsatz kommt) haben ein Ablaufdatum von 3 Monaten.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Sie haben die Möglichkeit am Conversion-Tracking von Google Ads nicht teilzunehmen. Wenn Sie das Cookie des Google Conversion-Trackings über Ihren Browser deaktivieren, blockieren Sie das Conversion-Tracking. In diesem Fall werden Sie in der Statistik des Tracking-Tools nicht berücksichtigt. Sie können die Cookie-Einstellungen in Ihrem Browser jederzeit verändern. Bei jedem Browser funktioniert dies etwas anders. Hier finden Sie die Anleitung, wie Sie Cookies in Ihrem Browser verwalten:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Durch das Herunterladen und Installieren dieses Browser-Plug-ins auf https://support.google.com/ads/answer/7395996 werden ebenfalls alle „Werbecookies“ deaktiviert. Bedenken Sie, dass Sie durch das Deaktivieren dieser Cookies nicht die Werbeanzeigen verhindern, sondern nur die personalisierte Werbung.
+Bitte beachten Sie, dass bei der Verwendung dieses Tools Daten von Ihnen auch außerhalb der EU gespeichert und verarbeitet werden können. Die meisten Drittstaaten (darunter auch die USA) gelten nach derzeitigem europäischen Datenschutzrecht als nicht sicher. Daten an unsichere Drittstaaten dürfen also nicht einfach übertragen, dort gespeichert und verarbeitet werden, sofern es keine passenden Garantien (wie etwa EU-Standardvertragsklauseln) zwischen uns und dem außereuropäischen Dienstleister gibt.
+Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass das Google Ads Conversion Tracking eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch das Google Ads Conversion Tracking vorkommen kann, dar.
+Von unserer Seite besteht zudem ein berechtigtes Interesse, das Google Ads Conversion Tracking zu verwenden, um unser Online-Service und unsere Marketingmaßnahmen zu optimieren. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Wenn Sie Näheres über den Datenschutz bei Google erfahren möchten, empfehlen wir die allgemeine Datenschutzerklärung von Google: https://policies.google.com/privacy?hl=de.
+
+ III. Zahlung
+
+ 1. Zahlungsanbieter
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Zahlungsanbieter Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Ermöglichung und Optimierung des Zahlungsvorgangs auf unserer Website
+📓 Verarbeitete Daten: Daten wie etwa Name, Adresse, Bankdaten (Kontonummer, Kreditkartennummer, Passwörter, TANs usw.), IP-Adresse und Vertragsdaten
+Mehr Details dazu finden Sie beim jeweils eingesetzten Zahlungsanbieter-Tool.
+📅 Speicherdauer: abhängig vom verwendeten Zahlungsanbieter
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. b DSGVO (Erfüllung eines Vertrags)
+
+Was ist ein Zahlungsanbieter?
+Wir verwenden auf unserer Website Online-Zahlungssysteme, die uns und Ihnen ein sicheres und reibungsloses Bezahlverfahren ermöglichen. Dabei können unter anderem auch personenbezogene Daten an den jeweiligen Zahlungsanbieter gesendet, gespeichert und dort verarbeitet werden. Bei Zahlungsanbietern handelt es sich um Online-Zahlungssysteme, die es Ihnen ermöglichen eine Bestellung über Online-Banking durchzuführen. Dabei wird die Zahlungsabwicklung durch den von Ihnen gewählten Zahlungsanbieter durchgeführt. Wir erhalten anschließend eine Information über die getätigte Zahlung. Diese Methode kann jeder User nutzen, der ein aktives Online-Banking-Konto mit PIN und TAN hat. Es gibt kaum noch Banken, die solche Zahlungsmethoden nicht anbieten bzw. akzeptieren.
+Warum verwenden wir Zahlungsanbieter auf unserer Website?
+Wir wollen natürlich mit unserer Website und unserem eingebundenen Onlineshop das bestmögliche Service bietet, damit Sie sich auf unserer Seite wohl fühlen und unsere Angebote nutzen. Wir wissen, dass Ihre Zeit kostbar ist und speziell Zahlungsabwicklungen schnell und reibungslos funktionieren müssen. Aus diesen Gründen bieten wir Ihnen diverse Zahlungsanbieter an. Sie können Ihren bevorzugten Zahlungsanbieter wählen und so in gewohnter Manier bezahlen.
+Welche Daten werden verarbeitet?
+Welche Daten genau verarbeitet werden, hängt natürlich von dem jeweiligen Zahlungsanbieter ab. Doch grundsätzlich werden Daten wie Name, Adresse, Bankdaten (Kontonummer, Kreditkartennummer, Passwörter, TANs usw.) gespeichert. Dabei handelt es sich um notwendige Daten, um überhaupt eine Transaktion durchführen zu können. Zudem können auch etwaige Vertragsdaten und Userdaten, wie zum Beispiel wann Sie unsere Website besuchen, für welche Inhalte Sie sich interessieren oder welche Unterseiten Sie anklicken, gespeichert werden. Auch Ihre IP-Adresse und Informationen zu Ihrem verwendeten Computer werden von den meisten Zahlungsanbietern gespeichert.
+Die Daten werden in der Regel auf den Servern der Zahlungsanbietern gespeichert und verarbeitet. Wir als Websitebetreiber erhalten diese Daten nicht. Wir werden nur darüber informiert, ob die Zahlung funktioniert hat oder nicht. Für Identitäts- und Bonitätsprüfungen kann es vorkommen, dass Zahlungsanbieter Daten an die entsprechende Stelle weiterleiten. Für alle Zahlungsgeschäfte gelten immer die Geschäfts- und Datenschutzgrundlagen des jeweiligen Anbieters. Schauen Sie sich daher bitte immer auch die Allgemeinen Geschäftsbedingen und die Datenschutzerklärung des Zahlungsanbieters an. Sie haben auch jederzeit das Recht beispielsweise Daten löschen oder korrigieren zu lassen. Bitte setzen Sie sich bezüglich Ihrer Rechte (Widerrufsrecht, Auskunftsrecht und Betroffenheitsrecht) mit dem jeweiligen Dienstanbieter in Verbindung.
+Dauer der Datenverarbeitung
+Über die Dauer der Datenverarbeitung informieren wir Sie weiter unten sofern wir weitere Informationen dazu haben. Generell verarbeiten wir personenbezogene Daten nur so lange wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist. Wenn es wie zum Beispiel im Fall von Buchhaltung gesetzlich vorgeschrieben ist, kann diese Speicherdauer auch überschritten werden. So bewahren wir zu einem Vertrag gehörige Buchungsbelege (Rechnungen, Vertragsurkunden, Kontoauszüge u.a.) 10 Jahre (§ 147 AO) sowie sonstige relevante Geschäftsunterlagen 6 Jahre (§ 247 HGB) nach Anfallen auf.
+Widerspruchsrecht
+Sie haben immer das Recht auf Auskunft, Berichtigung und Löschung Ihrer personenbezogenen Daten. Bei Fragen können Sie auch jederzeit Verantwortliche des verwendeten Zahlungsanbieter kontaktieren. Kontaktdaten finden Sie entweder in unserer spezifischen Datenschutzerklärung oder auf der Website des entsprechenden Zahlungsanbieters.
+Cookies, die Zahlungsanbieter für ihre Funktionen verwenden, können Sie in Ihrem Browser löschen, deaktivieren oder verwalten. Je nachdem welchen Browser Sie verwenden, funktioniert dies auf unterschiedliche Art und Weise. Bitte beachten Sie aber, dass dann eventuell der Zahlungsvorgang nicht mehr funktioniert.
+Rechtsgrundlage
+Wir bieten also zur Abwicklung von vertraglichen bzw. rechtlichen Beziehungen (Art. 6 Abs. 1 lit. b DSGVO)  neben den herkömmlichen Bank-/Kreditinstitutionen auch andere Zahlungsdienstleister an. In den Datenschutzerklärungen der einzelnen Zahlungsanbietern (wie zum Beispiel Amazon Payments, Apple Pay oder Discover) wird Ihnen ein genauer Überblick über die Datenverarbeitung und Datenspeicherung geboten. Zudem können Sie sich bei Fragen zu datenschutzrelevanten Themen stets an die Verantwortlichen richten.
+Informationen zu den speziellen Zahlungsanbietern erfahren Sie – sofern vorhanden – in den folgenden Abschnitten.
+
+ PayPal Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir nutzen auf unserer Website den Online-Bezahldienst PayPal. Dienstanbieter ist das amerikanische Unternehmen PayPal Inc. Für den europäischen Raum ist das Unternehmen PayPal Europe (S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg) verantwortlich. Mehr über die Daten, die durch die Verwendung von PayPal verarbeitet werden, erfahren Sie in der Privacy Policy auf https://www.paypal.com/de/webapps/mpp/ua/privacy-full.
+
+ Visa Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wir nutzen auf unserer Website Visa, einen weltweit agierenden Zahlungsanbieter. Dienstanbieter ist das amerikanische Unternehmen Visa Inc. Für den europäischen Raum ist das Unternehmen Visa Europe Services Inc. (1 Sheldon Square, London W2 6TT, Großbritannien) zuständig. Mehr über die Daten, die durch die Verwendung von Visa verarbeitet werden, erfahren Sie in der Privacy Policy auf https://www.visa.de/nutzungsbedingungen/visa-privacy-center.html. 
+
+ 2. Klarna Checkout Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Klarna Checkout Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung des Zahlungsvorgangs auf unserer Website
+📓 Verarbeitete Daten: Daten wie etwa Name, Adresse, Bankdaten (Kontonummer, Kreditkartennummer, Passwörter, TANs usw.), IP-Adresse und Vertragsdaten
+Mehr Details dazu finden Sie weiter unten in dieser Datenschutzerklärung.
+📅 Speicherdauer: Daten werden gespeichert, solange Klarna sie für den Verarbeitungszweck benötigt.
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. c DSGVO (Rechtliche Verpflichtung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist Klarna Checkout?
+Wir verwenden auf unserer Website das Online-Zahlungssystem Klarna Checkout des schwedischen Unternehmens Klarna Bank AB. Die Klarna-Bank hat ihren Hauptfirmensitz in Sveavägen 46, 111 34 Stockholm, Schweden. Wenn Sie sich für diesen Dienst entscheiden, werden unter anderem personenbezogene Daten an Klarna gesendet, gespeichert und verarbeitet. In dieser Datenschutzerklärung möchten wir Ihnen einen Überblick über die Datenverarbeitung durch Klarna geben.
+Klarna Checkout ist ein Zahlungssystem für Bestellungen in einem Onlineshop. Dabei wählt der Nutzer die Zahlungsart und Klarna Checkout übernimmt den gesamten Zahlungsprozess. Nachdem ein Nutzer einmal eine Zahlung über das Checkout-System durchgeführt hat und die entsprechenden Daten angegeben hat, können zukünftige Online-Einkäufe noch schneller und einfacher durchgeführt werden. Das Klarna-System erkennt dann bereits nach Eingabe der E-Mail-Adresse und Postleitzahl den bestehenden Kunden.
+Warum verwenden wir Klarna Checkout für unsere Webseite?
+Unser Ziel mit unserer Website und unserem eingebundenen Onlineshop ist es, Ihnen das bestmögliche Service zu bieten. Dazu zählt neben dem Gesamterlebnis auf der Website und neben unseren Angeboten auch eine reibungslose, schnelle und sichere Zahlungsabwicklung Ihrer Bestellungen. Um das zu gewährleisten, nutzen wir das Zahlungssystem Klarna Checkout.
+Welche Daten werden von Klarna Checkout gespeichert?
+Sobald Sie sich für den Zahlungsdienst Klarna entscheiden und über die Zahlungsmethode Klarna Checkout bezahlen, übermitteln Sie auch personenbezogene Daten an das Unternehmen. Auf der Klarna Checkout-Seite werden technische Daten wie Browsertyp, Betriebssystem, unsere Internetadresse, Datum und Uhrzeit, Spracheinstellungen, Zeitzoneneinstellungen und IP-Adresse von Ihnen erhoben und an die Server von Klarna übermittelt und dort gespeichert. Diese Daten werden auch dann gespeichert, wenn Sie noch keine Bestellung abgeschlossen haben.
+Wenn Sie ein Produkt oder eine Dienstleistung über unseren Shop bestellen, müssen Sie in die vorgegebenen Felder Daten zu Ihrer Person eingeben. Diese Daten werden durch Klarna für die Zahlungsabwicklung verarbeitet. Dabei können zur Bonitäts- und Identitätsprüfung speziell folgende personenbezogenen Daten (sowie allgemeine Produktinformationen) durch Klarna gespeichert und verarbeitet werden:
+Kontaktinformationen: Namen, Geburtsdatum, nationale Ausweisnummer, Titel, Rechnungs- und Lieferadresse, E-Mail-Adresse, Telefonnummer, Nationalität oder Gehalt.
+Zahlungsinformationen wie Kreditkartendaten oder Ihre Kontonummer
+Produktinformationen wie Sendungsnummer, Art des Artikels und Preis des Produkts
+Zudem gibt es auch noch Daten, die optional erhoben werden können, sofern Sie sich dazu bewusst entscheiden. Das sind etwa politische, religiöse oder weltanschauliche Überzeugungen oder diverse Gesundheitsdaten.
+Klarna kann auch selbst oder über Dritte (wie beispielsweise über uns oder über öffentliche Datenbanken) neben den oben genannten Daten auch Daten zu den Waren oder Dienstleistungen, die Sie kaufen oder bestellen erheben. Das kann zum Beispiel die Sendungsnummer oder die Art des bestellten Artikels sein, aber auch Auskünfte über Ihre Bonität, über Ihr Einkommen oder Kreditgewährungen. Klarna kann Ihre personenbezogenen Daten auch Dienstleister wie etwa Softwareanbieter, Datenspeicheranbieter oder uns als Händler weitergeben.
+Wenn Daten automatisch in ein Formular eingetragen werden, dann sind immer Cookies im Spiel. Wenn Sie diese Funktion nicht nutzen wollen, können Sie jederzeit diese Cookies deaktivieren. Weiter unten im Text finden Sie eine Anleitung, wie Sie Cookies in Ihrem Browser grundsätzlich löschen, deaktivieren oder verwalten. Unsere Tests haben ergeben, dass von Klarna direkt keine Cookies gesetzt werden. Wenn Sie die Zahlungsmethode “Klarna Sofort” wählen und auf “Bestellen” klicken, werden Sie auf die Sofort-Website weitergeleitet. Nach der erfolgreichen Zahlung kommen Sie auf unsere Dankesseite. Dort wird von sofort.com folgendes Cookie gesetzt:
+Name: SOFUEB
+Wert: e8cipp378mdscn9e17kajlfhv7311285538-4
+Verwendungszweck: Dieses Cookie speichert Ihre Session-ID.
+Ablaufdatum: nach Beenden der Browsersitzung
+Wie lange und wo werden die Daten gespeichert?
+Klarna ist bemüht Ihre Daten nur innerhalb der EU bzw. des Europäischen Wirtschaftsraums (EWR) zu speichern. Es kann aber auch vorkommen, dass Daten außerhalb des EU/EWR übertragen werden. Wenn das passiert, stellt Klarna sicher, dass der Datenschutz im Einklang mit der DSGVO steht und das Drittland in einer Angemessenheitsentscheidung der Europäischen Union steht. Die Daten werden immer gespeichert, solange Klarna sie für den Verarbeitungszweck benötigt.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Sie können Ihre Einwilligung, dass Klarna personenbezogene Daten verarbeitet jederzeit widerrufen. Sie haben auch immer das Recht auf Auskunft, Berichtigung und Löschung Ihrer personenbezogenen Daten. Dafür müssen Sie lediglich das Unternehmen bzw. das Datenschutzteam des Unternehmens per E-Mail an datenschutz@klarna.de kontaktieren. Über die Klarna-Webseite „Meine Datenschutzanfrage“ können Sie ebenfalls mit Klarna direkt in Kontakt treten.
+Cookies, die Klarna für ihre Funktionen möglicherweise verwendet, können Sie in Ihrem Browser löschen, deaktivieren oder verwalten. Je nachdem welchen Browser Sie verwenden, funktioniert dies auf unterschiedliche Art und Weise. Die folgenden Anleitungen zeigen, wie Sie Cookies in Ihrem Browser verwalten:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Rechtsgrundlage
+Wir bieten im Rahmen von vertraglichen bzw. rechtlichen Beziehungen, wegen gesetzlicher Pflichten (Art. 6 Abs. 1 lit. c DSGVO) und auf Grundlage des berechtigten Interesses (Art. 6 Abs. 1 lit.f DSGVO) neben Bank-/Kreditinstitutionen auch den Zahlungsdienstleister Klarna Checkout an.
+Wir hoffen Ihnen einen guten Überblick über die Datenverarbeitung durch Klarna geboten zu haben. Wenn Sie mehr über den Umgang mit Ihren Daten erfahren wollen, empfehlen wir Ihnen die Klarna-Datenschutzerklärung unter https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_at/privacy.
+
+ 3. Sofortüberweisung Datenschutzerklärung
+
+ Sofortüberweisung Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung des Zahlungsvorgangs auf unserer Website
+📓 Verarbeitete Daten: Daten wie etwa Name, Adresse, Bankdaten (Kontonummer, Kreditkartennummer, Passwörter, TANs usw.), IP-Adresse und Vertragsdaten
+Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung
+📅 Speicherdauer: Daten werden innerhalb der rechtlichen Aufbewahrungspflicht gespeichert
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. c DSGVO (Rechtliche Verpflichtung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist eine „Sofortüberweisung“?
+Wir bieten auf unserer Website die Zahlungsmethode „Sofortüberweisung“ des Unternehmens Sofort GmbH zur bargeldlosen Bezahlung an. Die Sofort GmbH gehört seit 2014 zum schwedischen Unternehmen Klarna, hat aber ihren Firmensitz in Deutschland, Theresienhöhe 12, 80339 München.
+Entscheiden Sie sich für diese Zahlungsmethode werden unter anderem auch personenbezogene Daten an die Sofort GmbH bzw. an Klarna übermittelt, gespeichert und dort verarbeitet. Mit diesem Datenschutztext geben wir Ihnen einen Überblick über die Datenverarbeitung durch die Sofort GmbH.
+Bei der Sofortüberweisung handelt es sich um ein Online-Zahlungssystem, das es Ihnen ermöglicht eine Bestellung über Online-Banking durchzuführen. Dabei wird die Zahlungsabwicklung durch die Sofort GmbH durchgeführt und wir erhalten sofort eine Information über die getätigte Zahlung. Diese Methode kann jeder User nutzen, der ein aktives Online-Banking-Konto mit PIN und TAN hat. Nur noch wenige Banken unterstützen diese Zahlungsmethode noch nicht.
+Warum verwenden wir „Sofortüberweisung“ auf unserer Website?
+Unser Ziel mit unserer Website und unserem eingebundenen Onlineshop ist es, Ihnen das bestmögliche Service zu bieten. Dazu zählt neben dem Gesamterlebnis auf der Website und neben unseren Angeboten auch eine reibungslose, schnelle und sichere Zahlungsabwicklung Ihrer Bestellungen. Um das zu gewährleisten, nutzen wir „Sofortüberweisung“ als Zahlungssystem.
+Welche Daten werden von „Sofortüberweisung“ gespeichert?
+Wenn Sie über den Sofort/Klarna-Dienst eine Sofortüberweisung durchführen, werden Daten wie Name, Kontonummer, Bankleitzahl, Betreff, Betrag und Datum auf den Servern des Unternehmens gespeichert. Diese Informationen erhalten auch wir über die Zahlungsbestätigung.
+Im Rahmen der Kontodeckungsprüfung überprüft die Sofort GmbH, ob Ihr Kontostand und Überziehungskreditrahmen den Zahlungsbetrag abdeckt. In manchen Fällen wird auch überprüft, ob in den letzten 30 Tagen Sofortüberweisungen erfolgreich durchgeführt wurden. Weiters wird Ihre User-Identifikation (wie etwa Verfügernummer oder Vertragsnummer) in gekürzter („gehashter“) Form und Ihre IP-Adresse erhoben und gespeichert. Bei SEPA-Überweisungen wird auch BIC und IBAN gespeichert.
+Laut dem Unternehmen werden sonst keine weiteren personenbezogenen Daten (wie Kontostände, Umsatzdaten, Verfügungsrahmen, Kontolisten, Mobiltelefonnummer, Authentifizierungszertifikate, Sicherheitscodses oder PIN/TAN) erhoben, gespeichert oder an Dritte weitergegeben.
+Sofortüberweisung nutzt auch Cookies, um den eigenen Dienst benutzerfreundlicher zu gestalten. Wenn Sie ein Produkt bestellen, werden Sie auf die Sofort bzw. Klarna-Website umgeleitet. Nach der erfolgreichen Zahlung werden Sie auf unsere Dankesseite weitergeleitet. Hier werden folgende drei Cookies gesetzt:
+Name: SOFUEB
+Wert: e8cipp378mdscn9e17kajlfhv7311285538-5
+Verwendungszweck: Dieses Cookie speichert Ihre Session-ID.
+Ablaufdatum: nach Beenden der Browsersitzung
+Name: User[user_cookie_rules] Wert: 1
+Verwendungszweck: Dieses Cookie speichert Ihre Zustimmung zur Verwendung von Cookies.
+Ablaufdatum: nach 10 Jahren
+Name: _ga
+Wert: GA1.2.69759879.1589470706
+Verwendungszweck: Standardmäßig verwendet analytics.js das Cookie _ga, um die User-ID zu speichern. Grundsätzlich dient es zur Unterscheidung der Webseitenbesucher. Hier handelt es sich um ein Cookie von Google Analytics.
+Ablaufdatum: nach 2 Jahren
+Anmerkung: Die hier angeführten Cookies erheben keinen Anspruch auch Vollständigkeit. Es kann immer sein, dass Sofortüberweisung auch andere Cookies verwendet.
+Wie lange und wo werden die Daten gespeichert?
+Alle erhobenen Daten werden innerhalb der rechtlichen Aufbewahrungspflicht gespeichert. Diese Pflicht kann zwischen drei und zehn Jahren dauern.
+Klarna/Sofort GmbH versucht Daten nur innerhalb der EU bzw. des Europäischen Wirtschaftsraums (EWR) zu speichern. Wenn Daten außerhalb des EU/EWR übertragen werden, muss der Datenschutz mit der DSGVO übereinstimmen und das Land in einer Angemessenheitsentscheidung der EU stehen.
+Wie kann ich meine Daten löschen oder die Datenspeicherung verhindern?
+Sie können Ihre Einwilligung, dass Klarna personenbezogene Daten verarbeitet jederzeit widerrufen. Sie haben auch immer das Recht auf Auskunft, Berichtigung und Löschung Ihrer personenbezogenen Daten. Dafür können Sie einfach das Datenschutzteam des Unternehmens per E-Mail an datenschutz@sofort.com kontaktieren.
+Mögliche Cookies, die Sofortüberweisung verwendet, können Sie in Ihrem Browser verwalten, löschen oder deaktivieren. Abhängig von Ihrem bevorzugten Browser funktioniert das auf unterschiedliche Weise. Die folgenden Anleitungen zeigen wie Sie Cookies in den gängigsten Browsern verwalten:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Rechtsgrundlage
+Wir bieten im Rahmen von vertraglichen bzw. rechtlichen Beziehungen, wegen gesetzlicher Pflichten (Art. 6 Abs. 1 lit. c DSGVO) und auf Grundlage des berechtigten Interesses (Art. 6 Abs. 1 lit.f DSGVO) neben Bank-/Kreditinstitutionen auch den Zahlungsdienstleister Sofortüberweisung an.
+Wenn Sie mehr über die Datenverarbeitung durch die „Sofortüberweisung“ des Unternehmens Sofort GmbH erfahren wollen, empfehlen wir Ihnen die Datenschutzerklärung unter https://www.sofort.de/datenschutz.html.
+
+ IV. Berechtigungen für die Nutzung unserer App
+
+ 1. Kamera
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Um bei unseren Partnerplätzen den Check-In durführen zu können musst du den QR-Code im Clubhaus scannen. Dafür ist der Zugriff unserer App auf deine Kamera deines Mobiltelefons notwendig.
+
+ 2. Ortungsdienst
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wenn du freigibst, dass unsere App auf deinen Standort zugreifen kann, wird uns dein Standort mitgeteilt. Dies geschieht ausschließlich, um dir Golflätze und Turniere in deiner Umgebung anzuzeigen und damit zur Vertragserfüllung gemäß Art. 6 Abs. 1 b) DSGVO. Die Daten werden nicht gespeichert.
+
+ 3. Push Notification
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Bei uns hast du die Möglichkeit Push Benachrichtigungen zu bekommen. Das sind Mitteilungen, die dir unsere App senden kann, wenn du Sie gerade nicht benutzt. Beispielsweise Scan deinen QR-Code, Informationen über interessante Turniere, Ereignisse auf deinen Favoriten Platzen, Updates, Störungen oder andere für den Service relevante Punkte informiert zu werden. Die Push-Benachrichtigungen können jederzeit in den Einstellungen ein- und ausgeschaltet werden. Du kannst diese Push-Benachrichtigungen in den App-Einstellungen deines Mobilgeräts jederzeit ein- und ausschalten.
+Sollten die Push-Benachrichtigungen aktiviert sein, wird eine eindeutige Kennnummer deines Mobilgeräts (Geräte-ID) an den Dienst kommuniziert, der von uns für die Ausführung dieses Angebotes verwendet wird.
+Die rechtliche Grundlage für diesen Service basiert auf Art. 6 Abs. 1 b) DSGVO. Die Speicherdauer besteht nur während der Inanspruchnahme des Push-Services.
+
+ 4. Anmeldung über Clubmanagement Software
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Um über unsere App Startzeiten buchen zu können ist es wichtig, dass Sie sich über eines unserer Startzeitensysteme registrieren. Hierzu folgen die weiteren Inforationen sobald wir diese Anbieter final über eine API integriert haben.
+
+ 5. Kontaktaufnahme
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Wenn du Fragen zum Thema Datenschutz hast, kannst du uns eine E-Mail an datenschutz@fair-way-golf.com schicken.
+Um die Anfrage und im gegebenen Fall die Korrespondenz zu bearbeiten, werden deine Angaben nur für diesen Zweck gespeichert. Die Speicherung ist damit durch deine Einwilligung gerechtfertigt und damit nach Art. 6 Abs. 1a) DSGVO zulässig.
+
+ 6. Newsletter
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Um unser Newsletter zu Abonnieren kannst du auf allen Plattformen das Anmeldeformular ausfüllen. Durch den Klick auf den Buttons „Absenden“ bestätigst du, dass du unser Newsletter erhalten möchtest. Das Abonnieren unseres Newsletters ist unabhängig von einer Registrierung für unser Angebot möglich.
+Wenn du unseren Newsletter nicht mehr erhalten möchtest, kannst du dem Erhalt jederzeit widersprechen. Hierfür musst du uns dies lediglich in Schriftform (E-Mail, Brief) an die in Ziffer I. 2. genannten Kontaktdaten mitteilen.
+
+V. Besuch auf unsren Seiten
+
+ 1. Facebook Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Facebook Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung unserer Serviceleistung
+📓 Verarbeitete Daten: Daten wie etwa Kundendaten, Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.
+Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung.
+📅 Speicherdauer: bis die Daten für Facebooks Zwecke nicht mehr nützlich sind
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was sind Facebook-Tools?
+Wir verwenden auf unserer Webseite ausgewählte Tools von Facebook. Facebook ist ein Social Media Network des Unternehmens Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2 Ireland. Mithilfe dieser Tools können wir Ihnen und Menschen, die sich für unsere Produkte und Dienstleistungen interessieren, das bestmögliche Angebot bieten. Im Folgenden geben wir einen Überblick über die verschiedenen Facebook Tools, welche Daten an Facebook gesendet werden und wie Sie diese Daten löschen können.
+Neben vielen anderen Produkten bietet Facebook auch die sogenannten “Facebook Business Tools” an. Das ist die offizielle Bezeichnung von Facebook. Da der Begriff aber kaum bekannt ist, haben wir uns dafür entschieden, sie lediglich Facebook-Tools zu nennen. Darunter finden sich unter anderem:
+Facebook-Pixel
+soziale Plug-ins (wie z.B der „Gefällt mir“- oder „Teilen“-Button)
+Facebook Login
+Account Kit
+APIs (Programmierschnittstelle)
+SDKs (Sammlung von Programmierwerkzeugen)
+Plattform-Integrationen
+Plugins
+Codes
+Spezifikationen
+Dokumentationen
+Technologien und Dienstleistungen
+Durch diese Tools erweitert Facebook Dienstleistungen und hat die Möglichkeit, Informationen über User-Aktivitäten außerhalb von Facebook zu erhalten.
+Warum verwenden wir Facebook-Tools auf unserer Website?
+Wir wollen unsere Dienstleistungen und Produkte nur Menschen zeigen, die sich auch wirklich dafür interessieren. Mithilfe von Werbeanzeigen (Facebook-Ads) können wir genau diese Menschen erreichen. Damit den Usern passende Werbung gezeigt werden kann, benötigt Facebook allerdings Informationen über die Wünsche und Bedürfnisse der Menschen. So werden dem Unternehmen Informationen über das Userverhalten (und Kontaktdaten) auf unserer Webseite zur Verfügung gestellt. Dadurch sammelt Facebook bessere User-Daten und kann interessierten Menschen die passende Werbung über unsere Produkte bzw. Dienstleistungen anzeigen. Die Tools ermöglichen somit maßgeschneiderte Werbekampagnen auf Facebook.
+Daten über Ihr Verhalten auf unserer Webseite nennt Facebook „Event-Daten“. Diese werden auch für Messungs- und Analysedienste verwendet. Facebook kann so in unserem Auftrag „Kampagnenberichte“ über die Wirkung unserer Werbekampagnen erstellen. Weiters bekommen wir durch Analysen einen besseren Einblick, wie Sie unsere Dienstleistungen, Webseite oder Produkte verwenden. Dadurch optimieren wir mit einigen dieser Tools Ihre Nutzererfahrung auf unserer Webseite. Beispielsweise können Sie mit den sozialen Plug-ins Inhalte auf unserer Seite direkt auf Facebook teilen.
+Welche Daten werden von Facebook-Tools gespeichert?
+Durch die Nutzung einzelner Facebook-Tools können personenbezogene Daten (Kundendaten) an Facebook gesendet werden. Abhängig von den benutzten Tools können Kundendaten wie Name, Adresse, Telefonnummer und IP-Adresse versandt werden.
+Facebook verwendet diese Informationen, um die Daten mit den Daten, die es selbst von Ihnen hat (sofern Sie Facebook-Mitglied sind) abzugleichen. Bevor Kundendaten an Facebook übermittelt werden, erfolgt ein sogenanntes „Hashing“. Das bedeutet, dass ein beliebig großer Datensatz in eine Zeichenkette transformiert wird. Dies dient auch der Verschlüsselung von Daten.
+Neben den Kontaktdaten werden auch „Event-Daten“ übermittelt. Unter „Event-Daten“ sind jene Informationen gemeint, die wir über Sie auf unserer Webseite erhalten. Zum Beispiel, welche Unterseiten Sie besuchen oder welche Produkte Sie bei uns kaufen. Facebook teilt die erhaltenen Informationen nicht mit Drittanbietern (wie beispielsweise Werbetreibende), außer das Unternehmen hat eine explizite Genehmigung oder ist rechtlich dazu verpflichtet. „Event-Daten“ können auch mit Kontaktdaten verbunden werden. Dadurch kann Facebook bessere personalisierte Werbung anbieten. Nach dem bereits erwähnten Abgleichungsprozess löscht Facebook die Kontaktdaten wieder.
+Um Werbeanzeigen optimiert ausliefern zu können, verwendet Facebook die Event-Daten nur, wenn diese mit anderen Daten (die auf andere Weise von Facebook erfasst wurden) zusammengefasst wurden. Diese Event-Daten nützt Facebook auch für Sicherheits-, Schutz-, Entwicklungs- und Forschungszwecke. Viele dieser Daten werden über Cookies zu Facebook übertragen. Cookies sind kleine Text-Dateien, die zum Speichern von Daten bzw. Informationen in Browsern verwendet werden. Je nach verwendeten Tools und abhängig davon, ob Sie Facebook-Mitglied sind, werden unterschiedlich viele Cookies in Ihrem Browser angelegt. In den Beschreibungen der einzelnen Facebook Tools gehen wir näher auf einzelne Facebook-Cookies ein. Allgemeine Informationen über die Verwendung von Facebook-Cookies erfahren Sie auch auf https://www.facebook.com/policies/cookies.
+Wie lange und wo werden die Daten gespeichert?
+Grundsätzlich speichert Facebook Daten bis sie nicht mehr für die eigenen Dienste und Facebook-Produkte benötigt werden. Facebook hat auf der ganzen Welt Server verteilt, wo seine Daten gespeichert werden. Kundendaten werden allerdings, nachdem sie mit den eigenen Userdaten abgeglichen wurden, innerhalb von 48 Stunden gelöscht.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Entsprechend der Datenschutz Grundverordnung haben Sie das Recht auf Auskunft, Berichtigung, Übertragbarkeit und Löschung Ihrer Daten.
+Eine komplette Löschung der Daten erfolgt nur, wenn Sie Ihr Facebook-Konto vollständig löschen. Und so funktioniert das Löschen Ihres Facebook-Kontos:
+1) Klicken Sie rechts bei Facebook auf Einstellungen.
+2) Anschließend klicken Sie in der linken Spalte auf „Deine Facebook-Informationen“.
+3) Nun klicken Sie “Deaktivierung und Löschung”.
+4) Wählen Sie jetzt „Konto löschen“ und klicken Sie dann auf „Weiter und Konto löschen“
+5) Geben Sie nun Ihr Passwort ein, klicken Sie auf „Weiter“ und dann auf „Konto löschen“
+Die Speicherung der Daten, die Facebook über unsere Seite erhält, erfolgt unter anderem über Cookies (z.B. bei sozialen Plugins). In Ihrem Browser können Sie einzelne oder alle Cookies deaktivieren, löschen oder verwalten. Je nach dem welchen Browser Sie verwenden, funktioniert dies auf unterschiedliche Art und Weise. Die folgenden Anleitungen zeigen, wie Sie Cookies in Ihrem Browser verwalten:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie es erlauben oder nicht.
+Bitte beachten Sie, dass bei der Verwendung dieses Tools Daten von Ihnen auch außerhalb der EU gespeichert und verarbeitet werden können. Die meisten Drittstaaten (darunter auch die USA) gelten nach derzeitigem europäischen Datenschutzrecht als nicht sicher. Daten an unsichere Drittstaaten dürfen also nicht einfach übertragen, dort gespeichert und verarbeitet werden, sofern es keine passenden Garantien (wie etwa EU-Standardvertragsklauseln) zwischen uns und dem außereuropäischen Dienstleister gibt.
+Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Social-Media-Elemente verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.
+Wir hoffen wir haben Ihnen die wichtigsten Informationen über die Nutzung und Datenverarbeitung durch die Facebook-Tools nähergebracht. Wenn Sie mehr darüber erfahren wollen, wie Facebook Ihre Daten verwendet, empfehlen wir Ihnen die Datenrichtlinien auf https://www.facebook.com/about/privacy/update.
+
+ Facebook Soziale Plug-ins Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Auf unserer Webseite sind sogenannte soziale Plug-ins des Unternehmens Facebook Inc. eingebaut. Sie erkennen diese Buttons am klassischen Facebook-Logo, wie dem „Gefällt mir“-Button (die Hand mit erhobenem Daumen) oder an einer eindeutigen „Facebook Plug-in“-Kennzeichnung. Ein soziales Plug-in ist ein kleiner Teil von Facebook, der in unsere Seite integriert ist. Jedes Plug-in hat eine eigene Funktion. Die am meisten verwendeten Funktionen sind die bekannten “Gefällt mir”- und “Teilen”-Buttons.
+Folgende soziale Plug-ins werden von Facebook angeboten:
+“Speichern”-Button
+“Gefällt mir”-Button, Teilen, Senden und Zitat
+Seiten-Plug-in
+Kommentare
+Messenger-Plug-in
+Eingebettete Beiträge und Videoplayer
+Gruppen-Plug-in
+Auf https://developers.facebook.com/docs/plugins erhalten Sie nähere Informationen, wie die einzelnen Plug-ins verwendet werden. Wir nützen die sozialen Plug-ins einerseits, um Ihnen ein besseres Usererlebnis auf unserer Seite zu bieten, andererseits weil Facebook dadurch unsere Werbeanzeigen optimieren kann.
+Sofern Sie ein Facebook-Konto haben oder facebook.com schon mal besucht haben, hat Facebook bereits mindestens ein Cookie in Ihrem Browser gesetzt. In diesem Fall sendet Ihr Browser über dieses Cookie Informationen an Facebook, sobald Sie unsere Seite besuchen bzw. mit sozialen Plug-ins (z.B. dem „Gefällt mir“-Button) interagieren.
+Die erhaltenen Informationen werden innerhalb von 90 Tagen wieder gelöscht bzw. anonymisiert. Laut Facebook gehören zu diesen Daten Ihre IP-Adresse, welche Webseite Sie besucht haben, das Datum, die Uhrzeit und weitere Informationen, die Ihren Browser betreffen.
+Um zu verhindern, dass Facebook während Ihres Besuches auf unserer Webseite viele Daten sammelt und mit den Facebook-Daten verbindet, müssen Sie sich während des Webseitenbesuchs von Facebook abmelden (ausloggen).
+Falls Sie bei Facebook nicht angemeldet sind oder kein Facebook-Konto besitzen, sendet Ihr Browser weniger Informationen an Facebook, weil Sie weniger Facebook-Cookies haben. Dennoch können Daten wie beispielsweise Ihre IP-Adresse oder welche Webseite Sie besuchen an Facebook übertragen werden. Wir möchten noch ausdrücklich darauf hinweisen, dass wir über die genauen Inhalte der Daten nicht exakt Bescheid wissen. Wir versuchen aber Sie nach unserem aktuellen Kenntnisstand so gut als möglich über die Datenverarbeitung aufzuklären. Wie Facebook die Daten nutzt, können Sie auch in den Datenrichtline des Unternehmens unter https://www.facebook.com/about/privacy/update nachlesen.
+Folgende Cookies werden in Ihrem Browser mindestens gesetzt, wenn Sie eine Webseite mit sozialen Plug-ins von Facebook besuchen:
+Name: dpr
+Wert: keine Angabe
+Verwendungszweck: Dieses Cookie wird verwendet, damit die sozialen Plug-ins auf unserer Webseite funktionieren.
+Ablaufdatum: nach Sitzungsende
+Name: fr
+Wert: 0jieyh4311285538c2GnlufEJ9..Bde09j…1.0.Bde09j
+Verwendungszweck: Auch das Cookie ist nötig, dass die Plug-ins einwandfrei funktionieren.
+Ablaufdatum:: nach 3 Monaten
+Anmerkung: Diese Cookies wurden nach einem Test gesetzt, auch wenn Sie nicht Facebook-Mitglied sind.
+Sofern Sie bei Facebook angemeldet sind, können Sie Ihre Einstellungen für Werbeanzeigen unter https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen selbst verändern. Falls Sie kein Facebook-User sind, können Sie auf http://www.youronlinechoices.com/de/praferenzmanagement/grundsätzlich Ihre nutzungsbasierte Online-Werbung verwalten. Dort haben Sie die Möglichkeit, Anbieter zu deaktivieren bzw. zu aktivieren.
+Wenn Sie mehr über den Datenschutz von Facebook erfahren wollen, empfehlen wir Ihnen die eigenen Datenrichtlinien des Unternehmens auf https://www.facebook.com/policy.php.
+
+ 2. Instagram Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Instagram Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung unserer Serviceleistung
+📓 Verarbeitete Daten: Daten wie etwa Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse.
+Mehr Details dazu finden Sie weiter unten in der Datenschutzerklärung.
+📅 Speicherdauer: bis Instagram die Daten für ihre Zwecke nicht mehr benötigt
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist Instagram?
+Wir haben auf unserer Webseite Funktionen von Instagram eingebaut. Instagram ist eine Social Media Plattform des Unternehmens Instagram LLC, 1601 Willow Rd, Menlo Park CA 94025, USA. Instagram ist seit 2012 ein Tochterunternehmen von Facebook Inc. und gehört zu den Facebook-Produkten. Das Einbetten von Instagram-Inhalten auf unserer Webseite nennt man Embedding. Dadurch können wir Ihnen Inhalte wie Buttons, Fotos oder Videos von Instagram direkt auf unserer Webseite zeigen. Wenn Sie Webseiten unserer Webpräsenz aufrufen, die eine Instagram-Funktion integriert haben, werden Daten an Instagram übermittelt, gespeichert und verarbeitet. Instagram verwendet dieselben Systeme und Technologien wie Facebook. Ihre Daten werden somit über alle Facebook-Firmen hinweg verarbeitet.
+Im Folgenden wollen wir Ihnen einen genaueren Einblick geben, warum Instagram Daten sammelt, um welche Daten es sich handelt und wie Sie die Datenverarbeitung weitgehend kontrollieren können. Da Instagram zu Facebook Inc. gehört, beziehen wir unsere Informationen einerseits von den Instagram-Richtlinien, andererseits allerdings auch von den Facebook-Datenrichtlinien selbst.
+Instagram ist eines der bekanntesten Social Media Netzwerken weltweit. Instagram kombiniert die Vorteile eines Blogs mit den Vorteilen von audiovisuellen Plattformen wie YouTube oder Vimeo. Sie können auf „Insta“ (wie viele der User die Plattform salopp nennen) Fotos und kurze Videos hochladen, mit verschiedenen Filtern bearbeiten und auch in anderen sozialen Netzwerken verbreiten. Und wenn Sie selbst nicht aktiv sein wollen, können Sie auch nur anderen interessante Users folgen.
+Warum verwenden wir Instagram auf unserer Website?
+Instagram ist jene Social Media Plattform, die in den letzten Jahren so richtig durch die Decke ging. Und natürlich haben auch wir auf diesen Boom reagiert. Wir wollen, dass Sie sich auf unserer Webseite so wohl wie möglich fühlen. Darum ist für uns eine abwechslungsreiche Aufbereitung unserer Inhalte selbstverständlich. Durch die eingebetteten Instagram-Funktionen können wir unseren Content mit hilfreichen, lustigen oder spannenden Inhalten aus der Instagram-Welt bereichern. Da Instagram eine Tochtergesellschaft von Facebook ist, können uns die erhobenen Daten auch für personalisierte Werbung auf Facebook dienlich sein. So bekommen unsere Werbeanzeigen nur Menschen, die sich wirklich für unsere Produkte oder Dienstleistungen interessieren.
+Instagram nützt die gesammelten Daten auch zu Messungs- und Analysezwecken. Wir bekommen zusammengefasste Statistiken und so mehr Einblick über Ihre Wünsche und Interessen. Wichtig ist zu erwähnen, dass diese Berichte Sie nicht persönlich identifizieren.
+Welche Daten werden von Instagram gespeichert?
+Wenn Sie auf eine unserer Seiten stoßen, die Instagram-Funktionen (wie Instagrambilder oder Plug-ins) eingebaut haben, setzt sich Ihr Browser automatisch mit den Servern von Instagram in Verbindung. Dabei werden Daten an Instagram versandt, gespeichert und verarbeitet. Und zwar unabhängig, ob Sie ein Instagram-Konto haben oder nicht. Dazu zählen Informationen über unserer Webseite, über Ihren Computer, über getätigte Käufe, über Werbeanzeigen, die Sie sehen und wie Sie unser Angebot nutzen. Weiters werden auch Datum und Uhrzeit Ihrer Interaktion mit Instagram gespeichert. Wenn Sie ein Instagram-Konto haben bzw. eingeloggt sind, speichert Instagram deutlich mehr Daten über Sie.
+Facebook unterscheidet zwischen Kundendaten und Eventdaten. Wir gehen davon aus, dass dies bei Instagram genau so der Fall ist. Kundendaten sind zum Beispiel Name, Adresse, Telefonnummer und IP-Adresse. Diese Kundendaten werden erst an Instagram übermittelt werden, wenn Sie zuvor „gehasht“ wurden. Hashing meint, ein Datensatz wird in eine Zeichenkette verwandelt. Dadurch kann man die Kontaktdaten verschlüsseln. Zudem werden auch die oben genannten „Event-Daten“ übermittelt. Unter „Event-Daten“ versteht Facebook – und folglich auch Instagram – Daten über Ihr Userverhalten. Es kann auch vorkommen, dass Kontaktdaten mit Event-Daten kombiniert werden. Die erhobenen Kontaktdaten werden mit den Daten, die Instagram bereits von Ihnen hat, abgeglichen.
+Über kleine Text-Dateien (Cookies), die meist in Ihrem Browser gesetzt werden, werden die gesammelten Daten an Facebook übermittelt. Je nach verwendeten Instagram-Funktionen und ob Sie selbst ein Instagram-Konto haben, werden unterschiedlich viele Daten gespeichert.
+Wir gehen davon aus, dass bei Instagram die Datenverarbeitung gleich funktioniert wie bei Facebook. Das bedeutet: wenn Sie ein Instagram-Konto haben oder www.instagram.com besucht haben, hat Instagram zumindest ein Cookie gesetzt. Wenn das der Fall ist, sendet Ihr Browser über das Cookie Infos an Instagram, sobald Sie mit einer Instagram-Funktion in Berührung kommen. Spätestens nach 90 Tagen (nach Abgleichung) werden diese Daten wieder gelöscht bzw. anonymisiert. Obwohl wir uns intensiv mit der Datenverarbeitung von Instagram beschäftigt haben, können wir nicht ganz genau sagen, welche Daten Instagram exakt sammelt und speichert.
+Im Folgenden zeigen wir Ihnen Cookies, die in Ihrem Browser mindestens gesetzt werden, wenn Sie auf eine Instagram-Funktion (wie z.B. Button oder ein Insta-Bild) klicken. Bei unserem Test gehen wir davon aus, dass Sie kein Instagram-Konto haben. Wenn Sie bei Instagram eingeloggt sind, werden natürlich deutlich mehr Cookies in Ihrem Browser gesetzt.
+Diese Cookies wurden bei unserem Test verwendet:
+Name: csrftoken
+Wert: “”
+Verwendungszweck: Dieses Cookie wird mit hoher Wahrscheinlichkeit aus Sicherheitsgründen gesetzt, um Fälschungen von Anfragen zu verhindern. Genauer konnten wir das allerdings nicht in Erfahrung bringen.
+Ablaufdatum: nach einem Jahr
+Name: mid
+Wert: “”
+Verwendungszweck: Instagram setzt dieses Cookie, um die eigenen Dienstleistungen und Angebote in und außerhalb von Instagram zu optimieren. Das Cookie legt eine eindeutige User-ID fest.
+Ablaufdatum: nach Ende der Sitzung
+Name: fbsr_311285538124024
+Wert: keine Angaben
+Verwendungszweck: Dieses Cookie speichert die Log-in-Anfrage für User der Instagram-App. 
+Ablaufdatum: nach Ende der Sitzung
+Name: rur
+Wert: ATN
+Verwendungszweck: Dabei handelt es sich um ein Instagram-Cookie, das die Funktionalität auf Instagram gewährleistet.
+Ablaufdatum: nach Ende der Sitzung
+Name: urlgen
+Wert: “{“194.96.75.33″: 1901}:1iEtYv:Y833k2_UjKvXgYe311285538”
+Verwendungszweck: Dieses Cookie dient den Marketingzwecken von Instagram.
+Ablaufdatum: nach Ende der Sitzung
+Anmerkung: Wir können hier keinen Vollständigkeitsanspruch erheben. Welche Cookies im individuellen Fall gesetzt werden, hängt von den eingebetteten Funktionen und Ihrer Verwendung von Instagram ab.
+Wie lange und wo werden die Daten gespeichert?
+Instagram teilt die erhaltenen Informationen zwischen den Facebook-Unternehmen mit externen Partnern und mit Personen, mit denen Sie sich weltweit verbinden. Die Datenverarbeitung erfolgt unter Einhaltung der eigenen Datenrichtlinie. Ihre Daten sind, unter anderem aus Sicherheitsgründen, auf den Facebook-Servern auf der ganzen Welt verteilt. Die meisten dieser Server stehen in den USA.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Dank der Datenschutz Grundverordnung haben Sie das Recht auf Auskunft, Übertragbarkeit, Berichtigung und Löschung Ihrer Daten. In den Instagram-Einstellungen können Sie Ihre Daten verwalten. Wenn Sie Ihre Daten auf Instagram völlig löschen wollen, müssen Sie Ihr Instagram-Konto dauerhaft löschen.
+Und so funktioniert die Löschung des Instagram-Kontos:
+Öffnen Sie zuerst die Instagram-App. Auf Ihrer Profilseite gehen Sie nach unten und klicken Sie auf „Hilfebereich“. Jetzt kommen Sie auf die Webseite des Unternehmens. Klicken Sie auf der Webseite auf „Verwalten des Kontos“ und dann auf „Dein Konto löschen“.
+Wenn Sie Ihr Konto ganz löschen, löscht Instagram Posts wie beispielsweise Ihre Fotos und Status-Updates. Informationen, die andere Personen über Sie geteilt haben, gehören nicht zu Ihrem Konto und werden folglich nicht gelöscht.
+Wie bereits oben erwähnt, speichert Instagram Ihre Daten in erster Linie über Cookies. Diese Cookies können Sie in Ihrem Browser verwalten, deaktivieren oder löschen. Abhängig von Ihrem Browser funktioniert die Verwaltung immer ein bisschen anders. Hier zeigen wir Ihnen die Anleitungen der wichtigsten Browser.
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Sie können auch grundsätzlich Ihren Browser so einrichten, dass Sie immer informiert werden, wenn ein Cookie gesetzt werden soll. Dann können Sie immer individuell entscheiden, ob Sie das Cookie zulassen wollen oder nicht.
+Bitte beachten Sie, dass bei der Verwendung dieses Tools Daten von Ihnen auch außerhalb der EU gespeichert und verarbeitet werden können. Die meisten Drittstaaten (darunter auch die USA) gelten nach derzeitigem europäischen Datenschutzrecht als nicht sicher. Daten an unsichere Drittstaaten dürfen also nicht einfach übertragen, dort gespeichert und verarbeitet werden, sofern es keine passenden Garantien (wie etwa EU-Standardvertragsklauseln) zwischen uns und dem außereuropäischen Dienstleister gibt.
+Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene Social-Media-Elemente verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. Die meisten Social-Media-Plattformen setzen auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.
+Wir haben versucht, Ihnen die wichtigsten Informationen über die Datenverarbeitung durch Instagram näherzubringen. Auf https://help.instagram.com/519522125107875 
+können Sie sich noch näher mit den Datenrichtlinien von Instagram auseinandersetzen.
+
+ 3. YouTube Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+YouTube Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung unserer Serviceleistung
+📓 Verarbeitete Daten: Daten wie etwa Kontaktdaten, Daten zum Nutzerverhalten, Informationen zu Ihrem Gerät und Ihre IP-Adresse können gespeichert werden.
+Mehr Details dazu finden Sie weiter unten in dieser Datenschutzerklärung.
+📅 Speicherdauer: Daten bleiben grundsätzlich gespeichert, solange sie für den Dienstzweck nötig sind
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist YouTube?
+Wir haben auf unserer Website YouTube-Videos eingebaut. So können wir Ihnen interessante Videos direkt auf unserer Seite präsentieren. YouTube ist ein Videoportal, das seit 2006 eine Tochterfirma von Google ist. Betrieben wird das Videoportal durch YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Wenn Sie auf unserer Website eine Seite aufrufen, die ein YouTube-Video eingebettet hat, verbindet sich Ihr Browser automatisch mit den Servern von YouTube bzw. Google. Dabei werden (je nach Einstellungen) verschiedene Daten übertragen. Für die gesamte Datenverarbeitung im europäischen Raum ist Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) verantwortlich.
+Im Folgenden wollen wir Ihnen genauer erklären, welche Daten verarbeitet werden, warum wir YouTube-Videos eingebunden haben und wie Sie Ihre Daten verwalten oder löschen können.
+Auf YouTube können die User kostenlos Videos ansehen, bewerten, kommentieren und selbst hochladen. Über die letzten Jahre wurde YouTube zu einem der wichtigsten Social-Media-Kanäle weltweit. Damit wir Videos auf unserer Webseite anzeigen können, stellt YouTube einen Codeausschnitt zur Verfügung, den wir auf unserer Seite eingebaut haben.
+Warum verwenden wir YouTube-Videos auf unserer Website?
+YouTube ist die Videoplattform mit den meisten Besuchern und dem besten Content. Wir sind bemüht, Ihnen die bestmögliche User-Erfahrung auf unserer Webseite zu bieten. Und natürlich dürfen interessante Videos dabei nicht fehlen. Mithilfe unserer eingebetteten Videos stellen wir Ihnen neben unseren Texten und Bildern weiteren hilfreichen Content zur Verfügung. Zudem wird unsere Webseite auf der Google-Suchmaschine durch die eingebetteten Videos leichter gefunden. Auch wenn wir über Google Ads Werbeanzeigen schalten, kann Google – dank der gesammelten Daten – diese Anzeigen wirklich nur Menschen zeigen, die sich für unsere Angebote interessieren.
+Welche Daten werden von YouTube gespeichert?
+Sobald Sie eine unserer Seiten besuchen, die ein YouTube-Video eingebaut hat, setzt YouTube zumindest ein Cookie, das Ihre IP-Adresse und unsere URL speichert. Wenn Sie in Ihrem YouTube-Konto eingeloggt sind, kann YouTube Ihre Interaktionen auf unserer Webseite meist mithilfe von Cookies Ihrem Profil zuordnen. Dazu zählen Daten wie Sitzungsdauer, Absprungrate, ungefährer Standort, technische Informationen wie Browsertyp, Bildschirmauflösung oder Ihr Internetanbieter. Weitere Daten können Kontaktdaten, etwaige Bewertungen, das Teilen von Inhalten über Social Media oder das Hinzufügen zu Ihren Favoriten auf YouTube sein.
+Wenn Sie nicht in einem Google-Konto oder einem Youtube-Konto angemeldet sind, speichert Google Daten mit einer eindeutigen Kennung, die mit Ihrem Gerät, Browser oder App verknüpft sind. So bleibt beispielsweise Ihre bevorzugte Spracheinstellung beibehalten. Aber viele Interaktionsdaten können nicht gespeichert werden, da weniger Cookies gesetzt werden.
+In der folgenden Liste zeigen wir Cookies, die in einem Test im Browser gesetzt wurden. Wir zeigen einerseits Cookies, die ohne angemeldetes YouTube-Konto gesetzt werden. Andererseits zeigen wir Cookies, die mit angemeldetem Account gesetzt werden. Die Liste kann keinen Vollständigkeitsanspruch erheben, weil die Userdaten immer von den Interaktionen auf YouTube abhängen.
+Name: YSC
+Wert: b9-CV6ojI5Y311285538-1
+Verwendungszweck: Dieses Cookie registriert eine eindeutige ID, um Statistiken des gesehenen Videos zu speichern.
+Ablaufdatum: nach Sitzungsende
+Name: PREF
+Wert: f1=50000000
+Verwendungszweck: Dieses Cookie registriert ebenfalls Ihre eindeutige ID. Google bekommt über PREF Statistiken, wie Sie YouTube-Videos auf unserer Webseite verwenden.
+Ablaufdatum: nach 8 Monaten
+Name: GPS
+Wert: 1
+Verwendungszweck: Dieses Cookie registriert Ihre eindeutige ID auf mobilen Geräten, um den GPS-Standort zu tracken.
+Ablaufdatum: nach 30 Minuten
+Name: VISITOR_INFO1_LIVE
+Wert: 95Chz8bagyU
+Verwendungszweck: Dieses Cookie versucht die Bandbreite des Users auf unseren Webseiten (mit eingebautem YouTube-Video) zu schätzen.
+Ablaufdatum: nach 8 Monaten
+Weitere Cookies, die gesetzt werden, wenn Sie mit Ihrem YouTube-Konto angemeldet sind:
+Name: APISID
+Wert: zILlvClZSkqGsSwI/AU1aZI6HY7311285538-
+Verwendungszweck: Dieses Cookie wird verwendet, um ein Profil über Ihre Interessen zu erstellen. Genützt werden die Daten für personalisierte Werbeanzeigen.
+Ablaufdatum: nach 2 Jahren
+Name: CONSENT
+Wert: YES+AT.de+20150628-20-0
+Verwendungszweck: Das Cookie speichert den Status der Zustimmung eines Users zur Nutzung unterschiedlicher Services von Google. CONSENT dient auch der Sicherheit, um User zu überprüfen und Userdaten vor unbefugten Angriffen zu schützen.
+Ablaufdatum: nach 19 Jahren
+Name: HSID
+Wert: AcRwpgUik9Dveht0I
+Verwendungszweck: Dieses Cookie wird verwendet, um ein Profil über Ihre Interessen zu erstellen. Diese Daten helfen personalisierte Werbung anzeigen zu können.
+Ablaufdatum: nach 2 Jahren
+Name: LOGIN_INFO
+Wert: AFmmF2swRQIhALl6aL…
+Verwendungszweck: In diesem Cookie werden Informationen über Ihre Login-Daten gespeichert.
+Ablaufdatum: nach 2 Jahren
+Name: SAPISID
+Wert: 7oaPxoG-pZsJuuF5/AnUdDUIsJ9iJz2vdM
+Verwendungszweck: Dieses Cookie funktioniert, indem es Ihren Browser und Ihr Gerät eindeutig identifiziert. Es wird verwendet, um ein Profil über Ihre Interessen zu erstellen.
+Ablaufdatum: nach 2 Jahren
+Name: SID
+Wert: oQfNKjAsI311285538-
+Verwendungszweck: Dieses Cookie speichert Ihre Google-Konto-ID und Ihren letzten Anmeldezeitpunkt in digital signierter und verschlüsselter Form.
+Ablaufdatum: nach 2 Jahren
+Name: SIDCC
+Wert: AN0-TYuqub2JOcDTyL
+Verwendungszweck: Dieses Cookie speichert Informationen, wie Sie die Webseite nutzen und welche Werbung Sie vor dem Besuch auf unserer Seite möglicherweise gesehen haben.
+Ablaufdatum: nach 3 Monaten
+Wie lange und wo werden die Daten gespeichert?
+Die Daten, die YouTube von Ihnen erhält und verarbeitet werden auf den Google-Servern gespeichert. Die meisten dieser Server befinden sich in Amerika. Unter https://www.google.com/about/datacenters/inside/locations/?hl=de  sehen Sie genau wo sich die Google-Rechenzentren befinden. Ihre Daten sind auf den Servern verteilt. So sind die Daten schneller abrufbar und vor Manipulation besser geschützt.
+Die erhobenen Daten speichert Google unterschiedlich lang. Manche Daten können Sie jederzeit löschen, andere werden automatisch nach einer begrenzten Zeit gelöscht und wieder andere werden von Google über längere Zeit gespeichert. Einige Daten (wie Elemente aus „Meine Aktivität“, Fotos oder Dokumente, Produkte), die in Ihrem Google-Konto gespeichert sind, bleiben so lange gespeichert, bis Sie sie löschen. Auch wenn Sie nicht in einem Google-Konto angemeldet sind, können Sie einige Daten, die mit Ihrem Gerät, Browser oder App verknüpft sind, löschen.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Grundsätzlich können Sie Daten im Google Konto manuell löschen. Mit der 2019 eingeführten automatischen Löschfunktion von Standort- und Aktivitätsdaten werden Informationen abhängig von Ihrer Entscheidung – entweder 3 oder 18 Monate gespeichert und dann gelöscht.
+Unabhängig, ob Sie ein Google-Konto haben oder nicht, können Sie Ihren Browser so konfigurieren, dass Cookies von Google gelöscht bzw. deaktiviert werden. Je nachdem welchen Browser Sie verwenden, funktioniert dies auf unterschiedliche Art und Weise. Die folgenden Anleitungen zeigen, wie Sie Cookies in Ihrem Browser verwalten:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie es erlauben oder nicht. Da YouTube ein Tochterunternehmen von Google ist, gibt es eine gemeinsame Datenschutzerklärung. Wenn Sie mehr über den Umgang mit Ihren Daten erfahren wollen, empfehlen wir Ihnen die Datenschutzerklärung unter https://policies.google.com/privacy?hl=de.
+Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass Daten von Ihnen durch eingebundene YouTube-Elemente verarbeitet und gespeichert werden können, gilt diese Einwilligung als Rechtsgrundlage der Datenverarbeitung (Art. 6 Abs. 1 lit. a DSGVO). Grundsätzlich werden Ihre Daten auch auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) an einer schnellen und guten Kommunikation mit Ihnen oder anderen Kunden und Geschäftspartnern gespeichert und verarbeitet. YouTube setzt auch Cookies in Ihrem Browser, um Daten zu speichern. Darum empfehlen wir Ihnen, unseren Datenschutztext über Cookies genau durchzulesen und die Datenschutzerklärung oder die Cookie-Richtlinien des jeweiligen Dienstanbieters anzusehen.
+
+ 4. Google Maps Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Google Maps Datenschutzerklärung Zusammenfassung 
+👥 Betroffene: Besucher der Website
+🤝 Zweck: Optimierung unserer Serviceleistung
+📓 Verarbeitete Daten: Daten wie etwa eingegebene Suchbegriffe, Ihre IP-Adresse und auch die Breiten- bzw. Längenkoordinaten.
+Mehr Details dazu finden Sie weiter unten in dieser Datenschutzerklärung.
+📅 Speicherdauer: abhängig von den gespeicherten Daten
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
+
+Was ist Google Maps?
+Wir benützen auf unserer Website Google Maps der Firma Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Mit Google Maps können wir Ihnen Standorte besser zeigen und damit unser Service an Ihre Bedürfnisse anpassen. Durch die Verwendung von Google Maps werden Daten an Google übertragen und auf den Google-Servern gespeichert. Hier wollen wir nun genauer darauf eingehen, was Google Maps ist, warum wir diesen Google-Dienst in Anspruch nehmen, welche Daten gespeichert werden und wie Sie dies unterbinden können.
+Google Maps ist ein Internet-Kartendienst der Firma Google. Mit Google Maps können Sie online über einen PC, ein Tablet oder eine App genaue Standorte von Städten, Sehenswürdigkeiten, Unterkünften oder Unternehmen suchen. Wenn Unternehmen auf Google My Business vertreten sind, werden neben dem Standort noch weitere Informationen über die Firma angezeigt. Um die Anfahrtsmöglichkeit anzuzeigen, können Kartenausschnitte eines Standorts mittels HTML-Code in eine Website eingebunden werden. Google Maps zeigt die Erdoberfläche als Straßenkarte oder als Luft- bzw. Satellitenbild. Dank der Street View Bilder und den hochwertigen Satellitenbildern sind sehr genaue Darstellungen möglich.
+Warum verwenden wir Google Maps auf unserer Website?
+All unsere Bemühungen auf dieser Seite verfolgen das Ziel, Ihnen eine nützliche und sinnvolle Zeit auf unserer Webseite zu bieten. Durch die Einbindung von Google Maps können wir Ihnen die wichtigsten Informationen zu diversen Standorten liefern. Sie sehen auf einen Blick wo wir unseren Firmensitz haben. Die Wegbeschreibung zeigt Ihnen immer den besten bzw. schnellsten Weg zu uns. Sie können den Anfahrtsweg für Routen mit dem Auto, mit öffentlichen Verkehrsmitteln, zu Fuß oder mit dem Fahrrad abrufen. Für uns ist die Bereitstellung von Google Maps Teil unseres Kundenservice.
+Welche Daten werden von Google Maps gespeichert?
+Damit Google Maps ihren Dienst vollständig anbieten kann, muss das Unternehmen Daten von Ihnen aufnehmen und speichern. Dazu zählen unter anderem die eingegebenen Suchbegriffe, Ihre IP-Adresse und auch die Breiten- bzw. Längenkoordinaten. Benutzen Sie die Routenplaner-Funktion wird auch die eingegebene Startadresse gespeichert. Diese Datenspeicherung passiert allerdings auf den Webseiten von Google Maps. Wir können Sie darüber nur informieren, aber keinen Einfluss nehmen. Da wir Google Maps in unsere Webseite eingebunden haben, setzt Google mindestens ein Cookie (Name: NID) in Ihrem Browser. Dieses Cookie speichert Daten über Ihr Userverhalten. Google nutzt diese Daten in erster Linie, um eigene Dienste zu optimieren und individuelle, personalisierte Werbung für Sie bereitzustellen.
+Folgendes Cookie wird aufgrund der Einbindung von Google Maps in Ihrem Browser gesetzt:
+Name: NID
+Wert: 188=h26c1Ktha7fCQTx8rXgLyATyITJ311285538-5
+Verwendungszweck: NID wird von Google verwendet, um Werbeanzeigen an Ihre Google-Suche anzupassen. Mit Hilfe des Cookies „erinnert“ sich Google an Ihre am häufigsten eingegebenen Suchanfragen oder Ihre frühere Interaktion mit Anzeigen. So bekommen Sie immer maßgeschneiderte Werbeanzeigen. Das Cookie enthält eine einzigartige ID, die Google benutzt, um Ihre persönlichen Einstellungen für Werbezwecke zu sammeln.
+Ablaufdatum: nach 6 Monaten
+Anmerkung: Wir können bei den Angaben der gespeicherten Daten keine Vollständigkeit gewährleisten. Speziell bei der Verwendung von Cookies sind Veränderungen nie auszuschließen. Um das Cookie NID zu identifizieren, wurde eine eigene Testseite angelegt, wo ausschließlich Google Maps eingebunden war.
+Wie lange und wo werden die Daten gespeichert?
+Die Google-Server stehen in Rechenzentren auf der ganzen Welt. Die meisten Server befinden sich allerdings in Amerika. Aus diesem Grund werden Ihre Daten auch vermehrt in den USA gespeichert. Hier können Sie genau nachlesen wo sich die Google-Rechenzentren befinden: https://www.google.com/about/datacenters/inside/locations/?hl=de
+Die Daten verteilt Google auf verschiedenen Datenträgern. Dadurch sind die Daten schneller abrufbar und werden vor etwaigen Manipulationsversuchen besser geschützt. Jedes Rechenzentrum hat auch spezielle Notfallprogramme. Wenn es zum Beispiel Probleme bei der Google-Hardware gibt oder eine Naturkatastrophe die Server lahm legt, bleiben die Daten ziemlich sicher trotzdem geschützt.
+Manche Daten speichert Google für einen festgelegten Zeitraum. Bei anderen Daten bietet Google lediglich die Möglichkeit, diese manuell zu löschen. Weiters anonymisiert das Unternehmen auch Informationen (wie zum Beispiel Werbedaten) in Serverprotokollen, indem es einen Teil der IP-Adresse und Cookie-Informationen nach 9 bzw.18 Monaten löscht.
+Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?
+Mit der 2019 eingeführten automatischen Löschfunktion von Standort- und Aktivitätsdaten werden Informationen zur Standortbestimmung und Web-/App-Aktivität – abhängig von Ihrer Entscheidung – entweder 3 oder 18 Monate gespeichert und dann gelöscht. Zudem kann man diese Daten über das Google-Konto auch jederzeit manuell aus dem Verlauf löschen. Wenn Sie Ihre Standorterfassung vollständig verhindern wollen, müssen Sie im Google-Konto die Rubrik „Web- und App-Aktivität“ pausieren. Klicken Sie „Daten und Personalisierung“ und dann auf die Option „Aktivitätseinstellung“. Hier können Sie die Aktivitäten ein- oder ausschalten.
+In Ihrem Browser können Sie weiters auch einzelne Cookies deaktivieren, löschen oder verwalten. Je nach dem welchen Browser Sie verwenden, funktioniert dies immer etwas anders. Die folgenden Anleitungen zeigen, wie Sie Cookies in Ihrem Browser verwalten:
+Chrome: Cookies in Chrome löschen, aktivieren und verwalten
+Safari: Verwalten von Cookies und Websitedaten mit Safari
+Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben
+Internet Explorer: Löschen und Verwalten von Cookies
+Microsoft Edge: Löschen und Verwalten von Cookies
+Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie es erlauben oder nicht.
+Bitte beachten Sie, dass bei der Verwendung dieses Tools Daten von Ihnen auch außerhalb der EU gespeichert und verarbeitet werden können. Die meisten Drittstaaten (darunter auch die USA) gelten nach derzeitigem europäischen Datenschutzrecht als nicht sicher. Daten an unsichere Drittstaaten dürfen also nicht einfach übertragen, dort gespeichert und verarbeitet werden, sofern es keine passenden Garantien (wie etwa EU-Standardvertragsklauseln) zwischen uns und dem außereuropäischen Dienstleister gibt.
+Rechtsgrundlage
+Wenn Sie eingewilligt haben, dass Google Maps eingesetzt werden darf, ist die Rechtsgrundlage der entsprechenden Datenverarbeitung diese Einwilligung. Diese Einwilligung stellt laut Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) die Rechtsgrundlage für die Verarbeitung personenbezogener Daten, wie sie bei der Erfassung durch Google Maps vorkommen kann, dar.
+Von unserer Seite besteht zudem ein berechtigtes Interesse, Google Maps zu verwenden, um unser Online-Service zu optimieren. Die dafür entsprechende Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen).
+Wenn Sie mehr über die Datenverarbeitung von Google erfahren wollen, empfehlen wir Ihnen die hauseigene Datenschutzerklärung des Unternehmens unter https://policies.google.com/privacy?hl=de.
+
+ VI. Haftung für Links
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Unser Angebot enthält Links auf die Websites externer Anbieter. Die hinter den Links befindlichen Websites wurden im Zeitpunkt der Schaltung der Links überprüft. Ihre Inhalte werden nicht Gegenstand unseres Angebots. Sollten wir erkennen, dass sich hinter den Links geänderte, rechtswidrige Inhalte befinden, werden wir die Links nach Kenntnisnahme umgehend entfernen.
+
+ VII. Änderung der Datenschutzerklärung
+
+ Normal
+ 0
+
+ 21
+
+ false
+ false
+ false
+
+ DE
+ X-NONE
+ X-NONE
+
+Die Fair-Golf UG (haftungsbeschränkt) wird diese Datenschutzerklärung bei Bedarf aktualisieren und an neue Erfordernisse und Gesetze anpassen. Es wird deshalb empfohlen, dieses Dokument regelmäßig zu überprüfen, damit du über den Schutz deiner Daten informiert bist.
+Diese Datenschutzerklärung wurde zuletzt um die Bestimmungen der DSGVO aktualisiert am: 09. Juni 2021
+Bei Fragen zum Datenschutz wende Dich bitte an datenschutz@fair-way-golf.com.
+Alle Texte sind urheberrechtlich geschützt.
+Quelle: Erstellt mit dem Datenschutz Generator von AdSimple

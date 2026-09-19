@@ -1,0 +1,14 @@
+/*
+Theme Name: Fair-Way-Golf
+Theme URI: https://www.fair-way-golf.com/
+Author: Julius Klinzer
+Description: Eigenes Theme für fair-way-golf.com. Eine Mitgliedschaft, alle Partnerplätze. Inhalte leben in den Templates, kein Page-Builder.
+Version: 1.0.0
+Requires at least: 6.6
+Tested up to: 7.0
+Requires PHP: 8.1
+License: Proprietary
+Text Domain: fairwaygolf
+*/
+
+/* Die Styles liegen in assets/css/tokens.css und assets/css/main.css (siehe inc/assets.php). */

@@ -1,0 +1,58 @@
+name: fairwaygolf
+
+services:
+  wordpress:
+    image: wordpress:latest
+    container_name: fwg_wordpress
+    restart: unless-stopped
+    ports:
+      - "8092:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: fwg
+      WORDPRESS_DB_PASSWORD: fwg_password
+      WORDPRESS_DB_NAME: fwg_wordpress
+      WORDPRESS_CONFIG_EXTRA: |
+        define('WP_ENVIRONMENT_TYPE', 'local');
+        define('WP_DEBUG', true);
+        define('WP_DEBUG_DISPLAY', false);
+        define('WP_DEBUG_LOG', true);
+        define('FWG_SMTP_HOST', 'mailhog');
+        define('FWG_SMTP_PORT', 1025);
+        define('FWG_SMTP_SECURE', '');
+    volumes:
+      - ./wordpress:/var/www/html
+    depends_on:
+      - db
+
+  db:
+    image: mariadb:11
+    container_name: fwg_db
+    restart: unless-stopped
+    environment:
+      MARIADB_DATABASE: fwg_wordpress
+      MARIADB_USER: fwg
+      MARIADB_PASSWORD: fwg_password
+      MARIADB_ROOT_PASSWORD: fwg_root_password
+    volumes:
+      - ./db:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin:latest
+    container_name: fwg_phpmyadmin
+    restart: unless-stopped
+    ports:
+      - "8093:80"
+    environment:
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: fwg_root_password
+    depends_on:
+      - db
+
+  mailhog:
+    image: mailhog/mailhog:latest
+    container_name: fwg_mailhog
+    restart: unless-stopped
+    ports:
+      - "8027:8025"

@@ -1,0 +1,37 @@
+# WordPress-Core, Datenbank, Uploads sind generiert. Nur Theme und mu-plugins sind Code.
+/wordpress/*
+!/wordpress/wp-content/
+/wordpress/wp-content/*
+!/wordpress/wp-content/themes/
+/wordpress/wp-content/themes/*
+!/wordpress/wp-content/themes/fairwaygolf/
+!/wordpress/wp-content/mu-plugins/
+/db/
+
+# Zugangsdaten und lokale Geheimnisse
+.deploy-creds.txt
+.wp-admin-pass.txt
+.env
+*.pem
+
+# Lokale Claude-Einstellungen
+.claude/settings.local.json
+.universum-stand
+
+# Build- und Paketartefakte
+node_modules/
+*.zip
+*.tar.gz
+*.sql
+*.sql.gz
+/tools/screenshots/
+/tools/reports/
+/.impeccable/review/
+/.impeccable/mocks/
+/design/alt-medien/
+
+# Betriebssystem und Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*:Zone.Identifier

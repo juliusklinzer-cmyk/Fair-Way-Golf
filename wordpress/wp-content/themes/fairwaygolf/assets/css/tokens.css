@@ -1,0 +1,90 @@
+/* ============================================================
+   Fair-Way-Golf — Design-Tokens (verbindlich: DESIGN.md)
+   Richtung: helle Seite, Foto-Panels mit runden Ecken, Dunkelgrün
+   als Marke und für Panels, Lindgrün als Akzent auf Grün.
+   ============================================================ */
+
+@font-face { font-family: 'Rajdhani'; font-style: normal; font-weight: 500; font-display: swap; src: url('../fonts/rajdhani-500.woff2') format('woff2'); }
+@font-face { font-family: 'Rajdhani'; font-style: normal; font-weight: 600; font-display: swap; src: url('../fonts/rajdhani-600.woff2') format('woff2'); }
+@font-face { font-family: 'Rajdhani'; font-style: normal; font-weight: 700; font-display: swap; src: url('../fonts/rajdhani-700.woff2') format('woff2'); }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 400; font-display: swap; src: url('../fonts/barlow-400.woff2') format('woff2'); }
+@font-face { font-family: 'Barlow'; font-style: italic; font-weight: 400; font-display: swap; src: url('../fonts/barlow-400-italic.woff2') format('woff2'); }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 500; font-display: swap; src: url('../fonts/barlow-500.woff2') format('woff2'); }
+@font-face { font-family: 'Barlow'; font-style: normal; font-weight: 600; font-display: swap; src: url('../fonts/barlow-600.woff2') format('woff2'); }
+
+:root {
+	/* Farben */
+	--fwg-green: #005949;          /* Marke, Panels, Primär-Button */
+	--fwg-green-deep: #013f34;     /* Hover, dunkle Panel-Ecke */
+	--fwg-green-soft: #0b6b58;     /* zweite Panelstufe */
+	--fwg-lime: #b9f06a;           /* Akzent auf Grün: Buttons, Marker */
+	--fwg-lime-deep: #9fdb4a;      /* Hover auf Lime */
+	--fwg-mint: #dff3e8;           /* helle Tint-Fläche, Chips */
+	--fwg-ink: #101614;            /* Text auf Weiß */
+	--fwg-ink-muted: #5a6661;      /* Sekundärtext auf Weiß (5,1:1) */
+	--fwg-on-green: #ffffff;
+	--fwg-on-green-muted: #cfe6dc; /* Sekundärtext auf Grün (9,5:1) */
+	--fwg-line: #e3e9e6;
+	--fwg-surface: #ffffff;
+	--fwg-surface-alt: #f4f6f5;    /* graue Panels */
+	--fwg-error: #b3261e;
+	--fwg-error-tint: #fbeae8;
+	--fwg-scrim: linear-gradient(180deg, rgba(0, 25, 20, 0.05) 0%, rgba(0, 25, 20, 0.15) 45%, rgba(0, 25, 20, 0.72) 100%);
+
+	/* Schrift */
+	--fwg-font-display: 'Rajdhani', 'Arial Narrow', sans-serif;
+	--fwg-font-body: 'Barlow', system-ui, -apple-system, 'Segoe UI', sans-serif;
+	--fwg-text-display: clamp(2.5rem, 1.4rem + 3.6vw, 4.75rem);    /* Hero */
+	--fwg-text-h2: clamp(2.125rem, 1.4rem + 2.4vw, 3.75rem);
+	--fwg-text-h3: clamp(1.5rem, 1.25rem + 0.8vw, 2rem);
+	--fwg-text-h4: 1.375rem;
+	--fwg-text-number: clamp(3.5rem, 2rem + 5vw, 7rem);
+	--fwg-text-lead: clamp(1.125rem, 1.05rem + 0.35vw, 1.3125rem);
+	--fwg-text-body: 1.0625rem;
+	--fwg-text-small: 0.9375rem;
+	--fwg-text-micro: 0.8125rem;
+	--fwg-leading-display: 1.0;
+	--fwg-leading-tight: 1.12;
+	--fwg-leading-body: 1.6;
+
+	/* Abstände */
+	--fwg-space-1: 4px;
+	--fwg-space-2: 8px;
+	--fwg-space-3: 12px;
+	--fwg-space-4: 16px;
+	--fwg-space-5: 24px;
+	--fwg-space-6: 32px;
+	--fwg-space-7: 48px;
+	--fwg-space-8: 64px;
+	--fwg-space-9: 96px;
+	--fwg-space-10: 128px;
+	--fwg-section-y: clamp(56px, 7vw, 112px);
+	--fwg-gap: clamp(16px, 2vw, 28px);
+	--fwg-page-x: clamp(16px, 3vw, 48px);
+
+	/* Container */
+	--fwg-container: 1280px;
+	--fwg-container-narrow: 760px;
+
+	/* Radien: Panels 28, Kacheln 20, Felder 14, Buttons Pill */
+	--fwg-radius-panel: 28px;
+	--fwg-radius-tile: 20px;
+	--fwg-radius-field: 14px;
+	--fwg-radius-pill: 999px;
+
+	/* Elevation */
+	--fwg-shadow: 0 20px 50px -24px rgba(0, 49, 40, 0.35);
+
+	/* Motion */
+	--fwg-ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+	--fwg-ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+	--fwg-dur-fast: 160ms;
+	--fwg-dur-base: 250ms;
+	--fwg-dur-slow: 500ms;
+
+	/* Layer */
+	--fwg-z-header: 40;
+	--fwg-z-menu: 50;
+	--fwg-z-popup: 60;
+	--fwg-z-consent: 70;
+}
