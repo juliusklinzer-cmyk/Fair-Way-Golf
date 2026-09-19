@@ -21,9 +21,12 @@ verändert. Kanonische Variante: https://www.fair-way-golf.com/.
       `selector1._domainkey`, `selector2._domainkey`), sonst scheitert DMARC für die normalen Mails.
 - [ ] **DMARC** in Stufen: erst `v=DMARC1; p=none; rua=mailto:dmarc@fair-way-golf.com`, nach zwei
       Wochen ohne Fehlberichte `p=quarantine`, später `p=reject`.
-- [ ] **GA4**: Property für www.fair-way-golf.com anlegen, Mess-ID notieren. In der Property:
-      Datenaufbewahrung auf 14 Monate, Google-Signale aus, keine Werbefunktionen (so steht es in der
-      Datenschutzerklärung).
+- [x] **GA4** (19.09.2026): bestehende Property „Fair-Way-Golf – GA4“ (352922895, Konto FairWayGolf),
+      Web-Stream 4608621286, Mess-ID `G-W3C5ZYZKLL` in der `wp-config.php` auf dem Server. Consent-Banner
+      (Klaro) ist damit live, Google lädt erst nach Zustimmung (geprüft: Skripte als text/plain).
+      Offen in der Property: Datenaufbewahrung auf 14 Monate, Google-Signale aus (Datenschutzerklärung).
+      Die zweite Property „fair-way-golf.com/ GA4 - MonsterInsights“ stammt von der alten Seite und
+      kann gelöscht werden.
 - [ ] **HubSpot**: Meeting-Link von Julius prüfen (Konstante `FWG_MEETING_URL`).
 - [ ] **Postfach**: `hallo@fair-way-golf.com` existiert in Microsoft 365 (Alias auf Julius)? Sonst
       `FWG_CONTACT_EMAIL` auf `info@fair-way-golf.com` setzen.
