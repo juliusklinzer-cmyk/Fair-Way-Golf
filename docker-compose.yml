@@ -21,6 +21,7 @@ services:
         define('FWG_SMTP_HOST', 'mailhog');
         define('FWG_SMTP_PORT', 1025);
         define('FWG_SMTP_SECURE', '');
+        define('FWG_GA_ID', 'G-LOKAL00000'); // nur damit der Consent-Banner lokal sichtbar ist
     volumes:
       - ./wordpress:/var/www/html
     depends_on:

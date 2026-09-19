@@ -1,0 +1,264 @@
+/* Fair-Way-Golf – Klaro-Anpassungen, 1:1 aus firmengolf.app übernommen (zentrierte Modal-Box,
+   Fokus-Backdrop, Markenstil), nur Farben und Schrift-Variablen auf Fair-Way-Golf umgestellt. */
+
+/* Backdrop: grau + blurry, damit der Fokus auf dem Banner liegt */
+.klaro .cm-bg {
+	background: rgba(40, 44, 42, 0.5);
+	-webkit-backdrop-filter: blur(6px);
+	backdrop-filter: blur(6px);
+}
+
+/* Zentrierte Box — fest auf den Viewport zentriert, border-box gegen Padding-Überlauf */
+.klaro .cookie-modal-notice {
+	box-sizing: border-box;
+	position: fixed;
+	left: 50%;
+	right: auto;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+	max-width: 540px;
+	width: calc(100% - 32px);
+	max-height: 92vh;
+	overflow: auto;
+	border-radius: 18px;
+	padding: 26px 24px 22px;
+	box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+	background: #fff;
+	font-family: var(--fwg-font-body, system-ui, sans-serif);
+}
+/* alle Kinder im border-box, damit nichts die Breite sprengt */
+.klaro .cookie-modal-notice * { box-sizing: border-box; }
+
+/* Kopf: Cookie-Icon + Headline */
+.klaro .cookie-modal-notice .fwg-cc-head {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	font-family: var(--fwg-font-display, inherit);
+	font-size: 21px;
+	font-weight: 700;
+	line-height: 1.2;
+	color: var(--fwg-ink, #101614);
+	margin-bottom: 12px;
+}
+.klaro .cookie-modal-notice .fwg-cc-head svg {
+	width: 30px;
+	height: 30px;
+	flex: 0 0 auto;
+}
+.klaro .cookie-modal-notice .fwg-cc-body {
+	display: block;
+	font-size: 14.5px;
+	line-height: 1.65;
+	color: #3a423d;
+}
+
+/* Buttons: 3 gleich breite Pills in EINER Reihe, im Markenstil.
+   Klaro-Defaults (.cm-btn = grau/--dark2, .cm-btn-info = blau/--blue1) gewinnen
+   per Spezifität → wir überschreiben gezielt mit höherer Spezifität + !important. */
+.klaro .cookie-modal-notice .cn-ok {
+	display: flex;
+	flex-flow: row nowrap;
+	gap: 8px;
+	align-items: stretch;
+	margin-top: 18px;
+}
+.klaro .cookie-modal-notice .cn-ok .cn-learn-more {
+	flex: 1 1 0;
+	display: flex;
+	margin: 0 !important;
+}
+.klaro .cookie-modal-notice .cn-ok .cn-buttons {
+	flex: 2 1 0;
+	display: flex;
+	flex-flow: row nowrap;
+	gap: 8px;
+	margin: 0 !important;
+}
+/* alle drei Buttons gleich breit + gebrandet */
+.klaro .cookie-modal-notice .cn-ok .cm-btn,
+.klaro .cookie-modal-notice .cn-ok .cn-learn-more {
+	flex: 1 1 0;
+	min-width: 0;
+	margin: 0 !important;
+	padding: 11px 8px !important;
+	border-radius: 999px !important;
+	font-size: 13px;
+	font-weight: 600;
+	min-height: 46px;
+	line-height: 1.15;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	cursor: pointer;
+	background: #fff !important;
+	color: var(--fwg-green, #005949) !important;
+	border: 1px solid var(--fwg-green, #005949) !important;
+	text-decoration: none !important;
+	transition: filter 120ms ease, background 120ms ease;
+}
+.klaro .cookie-modal-notice .cn-ok .cm-btn:hover,
+.klaro .cookie-modal-notice .cn-ok .cn-learn-more:hover {
+	filter: brightness(0.97);
+}
+/* Primär: „Alle akzeptieren" gefüllt grün */
+.klaro .cookie-modal-notice .cn-ok .cm-btn.cm-btn-success {
+	background: var(--fwg-green, #005949) !important;
+	color: #fff !important;
+	border-color: var(--fwg-green, #005949) !important;
+}
+.klaro .cookie-modal-notice .cn-ok .cm-btn.cm-btn-success:hover {
+	background: var(--fwg-green-deep, #013f34) !important;
+}
+/* Schmale Screens: Buttons untereinander stapeln (volle Breite) statt zu zerquetschen */
+@media (max-width: 520px) {
+	.klaro .cookie-modal-notice .cn-ok {
+		flex-direction: column;
+		align-items: stretch;
+		gap: 10px;
+	}
+	.klaro .cookie-modal-notice .cn-ok .cn-buttons {
+		flex: none;
+		width: 100%;
+		flex-direction: column;
+		gap: 10px;
+	}
+	.klaro .cookie-modal-notice .cn-ok .cn-learn-more,
+	.klaro .cookie-modal-notice .cn-ok .cm-btn {
+		flex: none;
+		width: 100%;
+	}
+}
+/* Datenschutz-Link im Fließtext gebrandet (kein Button) */
+.klaro .cookie-modal-notice .fwg-cc-body a,
+.klaro .cookie-modal-notice p a {
+	color: var(--fwg-green, #005949);
+	text-decoration: underline;
+	text-underline-offset: 2px;
+}
+
+/* ============================================================
+   Detail-Einstellungen-Dialog (.cookie-modal) — hell & gebrandet.
+   Klaro-Default ist dunkel (#333) mit fast-weißem Text → hier
+   vollständig auf das Markendesign umgestellt.
+   ============================================================ */
+
+/* Backdrop wie beim Notice */
+.klaro .cookie-modal .cm-bg {
+	background: rgba(40, 44, 42, 0.5);
+	-webkit-backdrop-filter: blur(6px);
+	backdrop-filter: blur(6px);
+}
+
+/* Dialog-Box: hell, abgerundet, fest auf den Viewport zentriert */
+.klaro .cookie-modal .cm-modal.cm-klaro {
+	box-sizing: border-box;
+	position: fixed;
+	left: 50%;
+	right: auto;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	margin: 0;
+	max-width: 560px;
+	width: calc(100% - 32px);
+	max-height: 90vh;
+	max-height: 90dvh;
+	overflow: auto;
+	background: #fff !important;
+	color: #3a423d !important;
+	border-radius: 18px;
+	box-shadow: 0 24px 60px rgba(0, 0, 0, 0.28);
+	font-family: var(--fwg-font-body, system-ui, sans-serif);
+}
+.klaro .cookie-modal .cm-modal.cm-klaro * { box-sizing: border-box; }
+
+/* Texte generell dunkel (Klaro setzt sie sonst auf fast-weiß → unsichtbar) */
+.klaro .cookie-modal p,
+.klaro .cookie-modal ul,
+.klaro .cookie-modal li,
+.klaro .cookie-modal strong,
+.klaro .cookie-modal h1,
+.klaro .cookie-modal h2 {
+	color: #3a423d !important;
+}
+
+/* Kopf */
+.klaro .cookie-modal .cm-modal .cm-header {
+	border-bottom: 1px solid #e7e9e6;
+	padding: 22px 24px;
+}
+.klaro .cookie-modal .cm-modal .cm-header h1.title {
+	font-family: var(--fwg-font-display, inherit);
+	font-size: 21px;
+	font-weight: 700;
+	color: var(--fwg-ink, #101614) !important;
+	margin: 0;
+}
+/* Schließen-X sichtbar machen (Default-Stroke ist hell) */
+.klaro .cookie-modal .cm-modal .hide svg { stroke: var(--fwg-ink, #101614); }
+
+/* Body + Dienste-Liste */
+.klaro .cookie-modal .cm-modal .cm-body { padding: 18px 24px; }
+.klaro .cookie-modal .cm-list-title { font-weight: 600; color: var(--fwg-ink, #101614) !important; }
+.klaro .cookie-modal .cm-list-description { color: #6a726c !important; }
+.klaro .cookie-modal .cm-modal .cm-body ul.cm-purposes li.cm-purpose,
+.klaro .cookie-modal .cm-modal .cm-body ul.cm-services li.cm-service { border-bottom: 1px solid #eef0ed; }
+.klaro .cookie-modal .cm-switch-container { border-bottom-color: #eef0ed !important; }
+.klaro .cookie-modal .cm-modal .cm-body ul li.cm-toggle-all { border-top: 1px solid #e7e9e6 !important; }
+.klaro .cookie-modal .cm-opt-out,
+.klaro .cookie-modal .cm-required,
+.klaro .cookie-modal .purposes { color: #6a726c !important; }
+
+/* Schalter: aus = hellgrau, an = Markengrün, Knopf weiß */
+.klaro .cookie-modal .slider { background-color: #d7dbd6 !important; box-shadow: none !important; }
+.klaro .cookie-modal .slider::before { background-color: #fff !important; }
+.klaro .cookie-modal .cm-list-input:checked + .cm-list-label .slider { background-color: var(--fwg-green, #005949) !important; }
+.klaro .cookie-modal .cm-list-input.only-required + .cm-list-label .slider,
+.klaro .cookie-modal .cm-list-input.required:checked + .cm-list-label .slider { background-color: var(--fwg-green-soft, #0b6b58) !important; }
+
+/* Footer + Buttons gebrandet (wie die Notice-Pills) */
+.klaro .cookie-modal .cm-modal .cm-footer {
+	border-top: 1px solid #e7e9e6;
+	padding: 16px 24px;
+}
+.klaro .cookie-modal .cm-modal .cm-footer-buttons {
+	display: flex;
+	flex-flow: row wrap;
+	gap: 8px;
+}
+.klaro .cookie-modal .cm-modal .cm-btn {
+	flex: 1 1 0;
+	min-width: 0;
+	margin: 0 !important;
+	padding: 11px 12px !important;
+	border-radius: 999px !important;
+	font-size: 13.5px;
+	font-weight: 600;
+	min-height: 46px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	cursor: pointer;
+	background: #fff !important;
+	color: var(--fwg-green, #005949) !important;
+	border: 1px solid var(--fwg-green, #005949) !important;
+}
+.klaro .cookie-modal .cm-modal .cm-btn.cm-btn-success {
+	background: var(--fwg-green, #005949) !important;
+	color: #fff !important;
+	border-color: var(--fwg-green, #005949) !important;
+}
+.klaro .cookie-modal .cm-modal .cm-footer .cm-powered-by,
+.klaro .cookie-modal .cm-modal .cm-footer .cm-powered-by a { color: #9aa29a !important; }
+
+/* Links im Dialog gebrandet */
+.klaro .cookie-modal .cm-modal a { color: var(--fwg-green, #005949) !important; }
+
+/* Schmale Screens: Footer-Buttons stapeln */
+@media (max-width: 520px) {
+	.klaro .cookie-modal .cm-modal .cm-footer-buttons { flex-direction: column; }
+	.klaro .cookie-modal .cm-modal .cm-btn { flex: none; width: 100%; }
+}

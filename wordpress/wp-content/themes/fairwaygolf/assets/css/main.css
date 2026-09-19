@@ -307,22 +307,6 @@ body.fwg-noscroll { overflow: hidden; }
 .fwg-popup__done[hidden] { display: none; }
 
 /* ---- Klaro (Consent) im Token-Look ----------------------------- */
-.klaro .cookie-notice { position: fixed; left: 20px; right: auto; bottom: 20px; max-width: 420px; width: calc(100% - 40px); background: #fff; color: var(--fwg-ink); border-radius: var(--fwg-radius-tile); box-shadow: var(--fwg-shadow); font-family: var(--fwg-font-body); z-index: var(--fwg-z-consent); }
-.klaro .cookie-notice .cn-body { padding: 24px; }
-.klaro .cookie-notice .cn-body p, .klaro .cookie-modal .cm-body p { color: var(--fwg-ink); font-size: var(--fwg-text-small); line-height: 1.55; }
-.klaro .cookie-notice .cn-body h3, .klaro .cookie-modal h1, .klaro .cookie-modal h2 { font-family: var(--fwg-font-display); font-weight: 600; font-size: 1.25rem; color: var(--fwg-ink); }
-.klaro .cookie-notice a, .klaro .cookie-modal a { color: var(--fwg-green); }
-.klaro .cn-buttons, .klaro .cn-ok { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
-.klaro .cm-btn { min-height: 44px; padding: 0 18px; border-radius: var(--fwg-radius-pill); font-weight: 600; border: 2px solid var(--fwg-green); background: var(--fwg-green); color: #fff; cursor: pointer; }
-.klaro .cm-btn.cm-btn-danger { background: var(--fwg-green); color: #fff; }
-.klaro .cm-btn.cm-btn-info, .klaro .cn-learn-more { background: transparent; border-color: var(--fwg-line); color: var(--fwg-ink); }
-.klaro .cookie-modal .cm-modal { background: #fff; color: var(--fwg-ink); border-radius: var(--fwg-radius-tile); }
-.klaro .cookie-modal .cm-modal .cm-header, .klaro .cookie-modal .cm-modal .cm-footer { border-color: var(--fwg-line); }
-.klaro .cm-list-title { color: var(--fwg-ink); }
-.klaro .cm-list-description { color: var(--fwg-ink-muted); }
-.klaro .cm-switch .slider { background: var(--fwg-line); }
-.klaro .cm-switch input:checked + .slider { background: var(--fwg-green); }
-.klaro .cookie-modal .cm-bg { background: rgba(14, 19, 17, 0.55); }
 
 /* ---- Footer (heller Block mit abgerundeter Oberkante) ----------- */
 .fwg-footer { padding: var(--fwg-space-4) 0 var(--fwg-space-5); }
