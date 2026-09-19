@@ -10,11 +10,13 @@ verändert. Kanonische Variante: https://www.fair-way-golf.com/.
       19.09.2026 in `content/rechtliches/impressum.html` und `datenschutz.html` eingetragen und importiert.
 - [ ] **AGB**: Zahlungsdienstleister ist Stripe (eingetragen 19.09.2026); nur die Kündigungsanschrift bleibt bis zum
       echten Start markiert (siehe `docs/offene-punkte.md`).
-- [ ] **Brevo**: Domain fair-way-golf.com bei Brevo authentifizieren (DKIM-CNAMEs `brevo1._domainkey`,
-      `brevo2._domainkey` in der Hetzner-DNS-Zone anlegen, SPF um `include:spf.brevo.com` ergänzen; der
-      bestehende Eintrag `include:spf.protection.outlook.com` für Microsoft 365 bleibt). Eigenen SMTP-Key
-      für dieses Projekt erzeugen, in `.deploy-creds.txt` ablegen. Absender `FWG_SMTP_FROM` muss eine
-      Adresse der Domain sein.
+- [x] **Brevo** (19.09.2026, abends): Domain fair-way-golf.com in Brevo angelegt, DNS in konsoleH gesetzt
+      (TXT `brevo-code`, CNAMEs `brevo1._domainkey`/`brevo2._domainkey` mit Punkt am Ende, DMARC `_dmarc`
+      mit `p=none; rua=mailto:rua@dmarc.brevo.com`). SMTP-Zugang des gemeinsamen Brevo-Kontos in der
+      `wp-config.php` auf dem Server eingetragen (Werte in `.deploy-creds.txt`). SPF der Domain unverändert
+      (`include:_spf.mlsend.com include:spf.protection.outlook.com -all`), für Brevo nicht nötig, weil DKIM
+      die DMARC-Ausrichtung liefert. Offen: Brevo-Prüfung auf „grün“ warten (DNS-Cache bis 2 h),
+      Testmail „Brevo-Test“ bei hallo@ im Posteingang prüfen.
 - [ ] **Microsoft 365 DKIM**: Im Defender-Portal DKIM für fair-way-golf.com aktivieren (CNAMEs
       `selector1._domainkey`, `selector2._domainkey`), sonst scheitert DMARC für die normalen Mails.
 - [ ] **DMARC** in Stufen: erst `v=DMARC1; p=none; rua=mailto:dmarc@fair-way-golf.com`, nach zwei
