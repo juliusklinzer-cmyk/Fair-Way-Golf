@@ -87,7 +87,7 @@ define( 'FS_METHOD', 'direct' );
 define( 'WP_DEBUG', false );
 define( 'WP_DEBUG_DISPLAY', false );
 define( 'DISALLOW_FILE_EDIT', true );
-define( 'DISABLE_WP_CRON', true ); // externer Cron: /wp-cron.php?doing_wp_cron=1 alle 15 Minuten
+define( 'DISABLE_WP_CRON', false ); // vorerst WordPress-eigener Cron; auf true stellen, sobald in konsoleH ein Cronjob auf /wp-cron.php?doing_wp_cron=1 (alle 15 Minuten) läuft
 define( 'WP_AUTO_UPDATE_CORE', 'minor' );
 define( 'WP_POST_REVISIONS', 5 );
 
@@ -130,7 +130,7 @@ echo "== 5. Dateien packen (Core + Theme + mu-plugins, ohne wp-config, uploads, 
 python3 - "$OUT" <<'PY'
 import os, sys, zipfile, pathlib
 out = pathlib.Path(sys.argv[1]); root = pathlib.Path('wordpress')
-skip_top = {'_build', 'wp-config.php', 'wp-config-docker.php', 'wp-config-sample.php'}
+skip_top = {'_build', 'wp-config.php', 'wp-config-docker.php', 'wp-config-sample.php', '.htaccess'}
 skip_content = {'debug.log', 'upgrade'}
 n = 0
 with zipfile.ZipFile(out / 'fwg-site.zip', 'w', zipfile.ZIP_DEFLATED) as z:

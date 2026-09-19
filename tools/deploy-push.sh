@@ -100,12 +100,15 @@ PY
 		listing "" | sed 's/^/   /'
 		;;
 	install)
-		for step in check clear unzip db activate; do
+		steps=${2:-"check clear unzip db activate"}
+		for step in $steps; do
 			echo "== $step"
-			out=$(installer "$step")
+			out=$(curl -s -w '\n__HTTP_%{http_code}__' "$PROD/_fwg_install.php?t=$(cat "$DEP/install-token.txt")&step=$step")
+			code=$(echo "$out" | grep -oE '__HTTP_[0-9]+__' | grep -oE '[0-9]+')
+			out=$(echo "$out" | grep -v '__HTTP_')
 			echo "$out" | sed 's/^/   /'
-			if echo "$out" | grep -qE 'FEHLT|Fehler|fehlgeschlagen|Abbruch|Forbidden|Platzhalter|NEIN'; then
-				echo "Abbruch bei $step"; exit 1
+			if [ "$code" != "200" ] || [ -z "$out" ] || echo "$out" | grep -qE 'FEHLT|[1-9][0-9]* Fehler|Fehler:|fehlgeschlagen|Abbruch|Forbidden|Platzhalter|NEIN|Fatal|Parse error|Warning'; then
+				echo "Abbruch bei $step (HTTP $code)"; exit 1
 			fi
 		done
 		echo "== Startseite"
